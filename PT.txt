@@ -59,6 +59,7 @@ Emboscador
 Frasco de Ametista
 Anel de Ametista
 Glifo Amonita
+Vara da Amplificação
 Cadeira Amplificadora
 O Preço da Anarquia
 Conhecimento Anatômico
@@ -140,12 +141,14 @@ Bancada do Artesão
 Efeito de Portal Ascendente
 Moldura de Retrato Ascendente
 Efeito de Arma Ascendente
+Ascensão da Carne
 Toque Gentil de Asenath
 Marca de Asenath
+Despertar das Cinzas
+Cinzas do Condenado
 Cinzas do Sol
 Ashrend
 Talismã da Escama de Cinzas
-Andarilho das Cinzas
 Ira da Asphyxia
 Efeito de Portal Aspirante
 Moldura de Retrato Aspirante
@@ -283,6 +286,7 @@ Cetro Sanguinário
 Impacto Sanguíneo
 Fervessangue
 Aperto Sangrento
+Carta Sangrenta
 Sangrador dos Vaal
 Suporte: Sanguinolência
 Jogada Sangrenta
@@ -333,10 +337,12 @@ Marreta de Latão
 Escudo Espiritual de Latão
 Músculo
 Talismã da Costela Quebrada
+Respiração do Conselho
 Tijolos
 Ponta Brilhante
 Efeito Coroa Brilhante
 Penas Brilhantes
+Tesouros da Salmoura Podre
 Bandeira da Salmoura Podre
 Marca da Salmoura Podre
 Baleeiros da Salmoura Podre
@@ -364,7 +370,7 @@ Botas de Escamas de Bronze
 Manoplas de Escamas de Bronze
 Solução de Força Bruta
 Berço de Brutus
-Aspersório Principal de Brutus
+Borrifador de Chumbo de Brutus
 Baldes
 Escudo Torre de Camurça
 Túnica de Camurça
@@ -509,6 +515,7 @@ Cutilada
 Cutelo
 Capa do Desafio
 Manto das Chamas
+Manto de Tawm'r Isley
 Elmo Fechado
 Cinto de Pano
 Amontoado de Videiras
@@ -589,11 +596,13 @@ Partículas Corrompidas
 Corrupção
 Espada do Corsário
 Elixir Coruscante
+Desejo de Copri
 Espada da Corte
 Mapa do Pátio
 Cadáveres Cobertos
 Mapa das Enseadas
 A Posse Cobiçada
+Queda do Penhasco
 Cabeça do Penhasco
 Grua
 Mapa do Crematório
@@ -688,9 +697,11 @@ Morte e Impostos
 Arco Mortífero
 Chocalho da Morte
 Pressa da Morte
+Porta da Morte
 Mão da Morte
 Arpa da Morte
 Juramento da Morte
+Opus da Morte
 Garrafa Spiritus
 Decapitação
 Estátua Decaída
@@ -707,6 +718,7 @@ Luvas de Couro de Cervo
 Segue-Cervo
 Máscara do Deicídio
 Sino dos Mortos
+Rugido Mórbido
 Farol do Semideus
 Recompensa do Semideus
 Domínio do Semideus
@@ -742,6 +754,7 @@ Grama do Deserto
 Mapa do Deserto
 Plantas do Deserto
 Estandarte Vermelho de Deshret
+Tormenta de Deshret
 Torno de Deshret
 Banca
 Machado do Déspota
@@ -778,7 +791,7 @@ Mascote Rhoa Divino
 Efeito do Fogo da Justiça Divino
 Sinal Divino
 Efeito de Arma Divino
- NÃO USAR
+NÃO USAR
 Danação de Doedre
 Elixir de Doedre
 As Loucuras de Doedre
@@ -787,6 +800,7 @@ Posse de Doedre
 Golpe Dominador
 Flecha do Destino
 Flecha da Ruína
+Prisma da Flecha da Ruína
 Semeador da Ruína
 Doon Cuebiyari
 Estrutura de Porta
@@ -834,6 +848,7 @@ Mapa das Dunas
 Mapa da Masmorra
 Lâmina do Anoitecer
 Dedúsculo
+Asa do Crepúsculo
 Amanhecer Dyadiano
 Dyadus
 Agonia Mortal
@@ -927,6 +942,7 @@ Espada Eterna
 Efeito de Arma Eterno
 Facas Etéreas
 Efeito Estrelas Etéreas
+Miragem de Ewar
 Orbe Exaltado
 Mascote Rhoa Exaltado
 Efeito de Arma Exaltado
@@ -949,6 +965,7 @@ Machado Ezomita
 Lâmina Ezomita
 Elmo Ezomita com Visor
 Adaga Ezomita
+Posse Ezomita
 Pico Ezomita
 Escudo Cravado Ezomita
 Cajado Ezomita
@@ -1193,6 +1210,7 @@ Graça
 Espada Graciosa
 Frasco de Vida Grandioso
 Frasco de Mana Grandioso
+Espectro Grandioso
 Acessório para Costas Estandarte do Grão-Mestre
 Armadura do Grão-Mestre
 Botas do Grão-Mestre
@@ -1229,6 +1247,7 @@ Mascote Sapo Verde
 Efeito Elo Cauterizador Verde
 Parede de Grigor
 Fetiche Sorridente
+Punho do Conselho
 Mapa da Gruta
 Impacto Sísmico
 Arco do Bosque
@@ -1286,6 +1305,8 @@ Cajado do Nobre
 Moldura de Retrato Highgate
 Efeito de Arma Highgate
 Lâmina das Terras Altas
+Sem Punho
+Visão de Hinekora
 Acessório para Costas da Sacola de Presentes de Feriado
 Cota de Malha Benta
 Honralar
@@ -1295,6 +1316,8 @@ Cetro Chifrudo
 Talismã do Chifre
 Pés-Quentes
 Casa dos Espelhos
+Queima-Hrim
+Lamúria de Hrimnor
 Hino de Hrimnor
 Determinação de Hrimnor
 Pesar de Hrim
@@ -1370,6 +1393,7 @@ Trono Infernal
 Efeito de Arma Infernal
 Infractem
 Suporte: Inervar
+Gume de Innsbury
 Aprendizado Inspirado
 Salto Intuitivo
 Chifres Ritualísticos da Invasão
@@ -1431,6 +1455,7 @@ Pilha de Lixo
 Machado de Kacha
 Graça de Kalisa
 Kaltenhalt
+Alma de Kalten
 Máscara Kaom
 Tesouro de Kaom
 Grevas de Kaom
@@ -1440,16 +1465,21 @@ Primazia de Kaom
 Raízes de Kaom
 Sinete de Kaom
 Trono de Kaom
+Caminho de Kaom
 Machado Karui
+Carga de Karui
 Cortador Karui
 Marreta Karui
 Cetro Karui
 Proteção Karui
 Chave Laminada
+Determinação de Kiara
 Kikazaru
 Explosão Cinética
 Regicriador
 Guarda do Rei
+Kintsugi
+Sede de Kitava
 Mascote Kiwi
 Suporte: Empurrar
 Mascote Urso Coala
@@ -1576,6 +1606,7 @@ Tiara de Lunaris
 Moldura de Retrato Lunaris
 Efeito de Arma Lunaris
 Árvore Exuberante
+Lycosidae
 Descanso de Lysah
 Máquina
 Planta Macrotaen
@@ -1596,6 +1627,7 @@ Coração do Malachai
 Circuito de Malachai
 Pulmões do Malachai
 Simula de Malachai
+Visão de Malachai
 Mapa da Malformação
 Intenção Maliciosa
 Gravurista de Maligaro
@@ -1613,7 +1645,6 @@ Mao Kun
 Dispositivo do Mapa
 Escudo Redondo de Bordo
 Arco Maraketh
-Vaso Maraketh
 Marca do Cavaleiro Duvidoso
 Marca da Fênix
 Marca das Assas do Guerreiro
@@ -1622,6 +1653,7 @@ Destroços do Mercado
 Pilar do Mercado
 Marohi Erqi
 Artística Marcial
+Coroa do Mártir
 Máscara da Marylene
 Falácia de Marylene
 Arco do Mastro
@@ -1663,6 +1695,7 @@ Poder em Todas as Formas
 Esfola Poderosa
 Cajado Militar
 Jaula Mental
+Mente do Conselho
 Espiral Mental
 Carrinho de Mina
 Pedra da Mina
@@ -1706,6 +1739,7 @@ Botas do Assassinato
 Luvas do Assassinato
 Mapa do Museu
 Crescimento Modificado
+Tesouros do Vento Mudo
 Flâmula do Vento Mudo
 Selo do Vento Mudo
 Passos Sussurrantes Vento Mudo
@@ -1727,6 +1761,7 @@ Capacete Necrótico
 Efeito de Arma Necrótico
 Nova Explosão Elétrica
 NewPunishment
+Ngamahu Tiki
 Chamas de Ngamahu
 Sinete de Ngamahu
 Bascinet do Pesadelo
@@ -1905,6 +1940,7 @@ Orgulho Antes da Queda
 Talismã do Crânio Primitivo
 Rapieira Primaveril
 Cajado Primitivo
+Forma Primordial
 Cajado Primordial
 Guardião Prismático
 Eclipse Prismático
@@ -1946,6 +1982,7 @@ Varinha de Quartzo
 Quecholli
 Rainha da Floresta
 Decreto da Rainha
+Fuga da Rainha
 Frasco de Mercúrio
 Chuva de Penas
 Jaqueta com Enchimento
@@ -1958,7 +1995,6 @@ Luvas Radiantes
 Capacete Radiante
 Escudo Radiante
 Efeito de Arma Radiante
-Fúria Escravizadora
 Pilar Ferroviário
 Estrada de Ferro
 Chuva
@@ -1990,6 +2026,8 @@ Luvas de Couro Cru
 Escudo Torre de Couro Cru
 Efeito Pegadas Razer
 Machado de Navalha
+Extensão do Conselho
+Destruidor do Reino
 Modela-reino
 Efeito de Pegada Ceifador
 Perseguição do Ceifador
@@ -2011,6 +2049,7 @@ Fogos de Artifício Vermelho, Azul e Branco
 Bico Vermelho
 Faixa da Lâmina Vermelha
 Estandarte da Lâmina Vermelha
+Tesouros da Lâmina Vermelha
 Atropelador Lâmina Vermelha
 Suporte: Mana Reduzida
 Escudo Cravado de Pau-Brasil
@@ -2029,6 +2068,7 @@ Fúria Implacável
 Relíquia do Ciclo
 Sobras de Impérios
 Suporte: Mina Remota
+Tesouros dos Renegados
 Pesar
 Mapa da Residência
 Suporte: Projéteis Retornados
@@ -2096,6 +2136,7 @@ Frasco de Rubi
 Anel de Rubi
 Tapete
 Aljava Enrugada
+Marcha Estrondosa
 Mistura de Rumi
 Lâmina Rúnica
 Machadinha Rúnica
@@ -2131,6 +2172,7 @@ Colheita Sacrificial
 Sacrário Sacrificial
 Toque de Sadima
 Traje Sádico
+Presente de Saemus
 Quadro de Saffell
 Varinha do Sábio
 Robe do Filósofo
@@ -2161,6 +2203,7 @@ Satoshi
 Robe do Sábio
 Ciclone Serrador
 Trilhos de Lâmina de Serra
+Scaeva
 Gibão de Escamas
 Colete de Escamas
 Cicatriz da Sina
@@ -2234,6 +2277,7 @@ Garra de Dente de Tubarão
 Esmeril
 Lâmina Estilhaçada
 Correntes Despedaçadas
+Gambito de Shavronne
 Passada de Shavronne
 Revelação de Shavronne
 Vestimenta de Shavronne
@@ -2276,6 +2320,7 @@ Frasco de Prata
 Chave Prateada
 Mascote Kiwi Prata
 Asas Prateadas
+Galho de Prata
 Ramo Argênteo
 Robe Simples
 Jornada do Pecado
@@ -2291,6 +2336,7 @@ Esqueleto
 Exibição de Esqueleto
 Transferência de Visual
 Faca de Esfola
+Conflito
 Exibição de Caveira
 Capuz da Caveira
 Pilha de Crânios
@@ -2387,6 +2433,7 @@ Amuleto Espiritual
 Espíritos Guardiões
 Oferenda Espiritual
 Resposta Vivaz
+Pele Espiritual
 Escudo Redondo Esplêndido
 Farpa da Lua
 Escudo Torre Reduzido
@@ -2481,7 +2528,7 @@ Ruptura
 Machado Desmembrador
 Escudo Cravado Supremo
 Superfície
-Vinculadoras do Pulso
+Pulso Vinculador
 Detritos Cirúrgicos
 Instintos de Sobrevivência
 Segredos de Sobrevivência
@@ -2527,6 +2574,7 @@ A Bigorna
 O Ápice
 O Campeão da Arena
 O Artista
+O Ascético
 O Vingador
 O Aylardex
 O Nascido para Batalha
@@ -2534,7 +2582,7 @@ Xale de Pele da Fera
 A Traição
 A Dança Sangrenta
 O Ceifador Sanguinário
-O Espinho de Sangue
+O Espinho Sangrento
 O Corpo
 O Portador da Chuva
 O Imperador Frágil
@@ -2543,6 +2591,7 @@ O Corvo da Carniça
 O Cartógrafo
 O Cataclismo
 O Catalisador
+O Cauterizador
 A Justicar Celestial
 As Correntes que Prendem
 O Conduíte
@@ -2550,6 +2599,7 @@ A Escuridão Que Consome
 O Pacto
 Julgamento do Covarde
 O Rei Amaldiçoado
+O Dervixe Dançante
 O Elegante Prodígio
 O Mago Sombrio
 O Vidente Sombrio
@@ -2579,6 +2629,7 @@ O Gladiador
 O Vínculo da Deusa
 A Deusa Desprezada
 O Despertar da Deusa
+O Grifo
 A Gaivota
 A Colheita
 O Ceifador
@@ -2594,6 +2645,7 @@ O Bobo
 A Lâmina do Rei
 O Coração do Rei
 O Último Sobrevivente
+A Pedra do Aprendizado
 O Lich
 O Leão
 O Lorde de Preto
@@ -2603,17 +2655,21 @@ O Magnata
 O Mercenário
 O Presente do Ferreiro
 A Nomeação Temporária
+O Carvalho
 A Oferenda
 O Le Heup com Tudo
+Cálice Transbordante
 O Líder da Matilha
 O Pacto
 O Pária
 A Mansão de Perandus
 O Peregrino
+A Oferenda da Mandíbula da Praga
 O Poeta
 A Princesa
 A Rainha
 O Rhoa Furioso
+A Cremalheira
 A Gaiola do Rato
 O Rathorn
 A Proteção Incansável
@@ -2626,6 +2682,7 @@ A Águia Gritante
 O Toque Lancinante
 O Sephirot
 O Emblema
+O Fogo Sinalizador
 A Sereia
 O Sofrimento do Divino
 A Alma
@@ -2639,6 +2696,7 @@ O Cirurgião
 O Topógrafo
 O Sobrevivencialista
 A Domesticação
+A Tempestade
 O Aço Tempestuoso
 O Taumaturgista
 Os Três Dragões
@@ -2670,6 +2728,7 @@ Mapa do Matagal
 Traje do Ladrão
 Tormento do Ladrão
 Pilar Fino
+Sede por Horrores
 Escudo Espiritual de Tório
 Rapieira de Espinho
 Mil Fitas
@@ -2677,6 +2736,7 @@ Temu Mil-Dentes
 As Três Faces no Escuro
 Talismã das Três Mãos
 Talismã dos Três Ratos
+Agressão em Três Passos
 Garra de Debulhador
 Fura-Goela
 Trono
@@ -2716,6 +2776,7 @@ Jaula de Tortura
 Mapa da Câmara de Tortura
 Aparelho de Tortura
 Marreta Totêmica
+Toque da Angústia
 Toque de Deus
 Chave da Torre
 Tranquilidade
@@ -2726,6 +2787,7 @@ Suporte: Resfriamento de Armadilhas
 Suporte: Armadilha
 Botas do Armadilheiro
 Luvas do Armadilheiro
+TrapperBodyTempName
 Carroça de Viagem
 Caçador de Tesouros
 Chave do Tesouro
@@ -2759,6 +2821,7 @@ Anel de Duas Pedras
 Twyzel
 Sekhem do Tirano
 Umbilicus Immortalis
+Fúria do Oprimido
 Mapa do Rio Subterrâneo
 Mapa do Mar Subterrâneo
 Talismã da Carne Imperecível
@@ -2770,7 +2833,6 @@ Anel Desmontado
 Carga Instável
 Paraíso Imaculado
 Urna
-Urna do Império Eterno
 Pele de Urso
 Arco Vaal
 Machado Vaal
@@ -2862,6 +2924,7 @@ Luvas Verdejantes
 Capacete Verdejante
 Trono Verdejante
 Efeito de Arma Verdejante
+Aríetes de Veruso
 Vaso de Vinktar
 Vestígio da Divindade
 Recipiente do Poder
@@ -2890,6 +2953,7 @@ Cetro do Além
 Portador do Vácuo
 Olho do Além
 Efeito de Portal Vácuo
+Coração Vazio
 Lar do Além
 O Poder Volátil
 Mapa do Vulcão
@@ -2898,6 +2962,7 @@ Rajada Ígnea
 Confissão de Voll
 Devoção de Voll
 Protetor de Voll
+Visão de Voll
 Fenda Voltaxica
 Turbilhão
 Mina de Vórtice
@@ -2906,6 +2971,7 @@ Carroça
 Destroços de Carroça
 Despertar da Destruição
 Parede
+Muro de Espinhos
 Parede de Espinhos
 Interruptor de Parede
 Mascote Wallaby
@@ -2917,7 +2983,6 @@ Broquel de Guerra
 Martelo de Guerra
 Placas de Guerra
 Espada de Guerra
-Tesouro do Bandoleiro
 Panteão de Wraeclast
 Marca do Senhor da Guerra
 Alcance do Senhor da Guerra

@@ -1,28 +1,39 @@
-﻿
+﻿;===============================================================
+;================= PoE Tradutor EN/PT - PT/EN ==================
+;===============================================================
+;================= Criado por Gustavo Vieira ===================
+;===============================================================
+;======= [ www.facebook.com/groups/poebrasiloficial ] ==========
+;===============================================================
+;===============================================================
+;======= Crédito para partes do código para exiletools =========
+;================= [ http://exiletools.com ] ===================
+;===============================================================
+;==== [ Github: https://github.com/gvieiraaa/PoETranslator ] ===
+;===============================================================
+;===============================================================
+
 ; == Startup Options ===========================================
 #SingleInstance force
 #NoEnv 
 #Persistent ; Stay open in background
 SendMode Input 
 StringCaseSense, On ; Match strings with case.
+#MaxThreadsPerHotkey 2
 Menu, tray, Tip, Tradutor PoE
 
 If (A_AhkVersion <= "1.1.22")
 {
-    msgbox, You need AutoHotkey v1.1.22 or later to run this script. `n`nPlease go to http://ahkscript.org/download and download a recent version.
+    msgbox, Você precisa da versão do AutoHotkey v1.1.22 ou superior para rodar esse script. `n`nPor favor vá até http://ahkscript.org/download e baixe a última versão.
     exit
 }
 
 ArrayPT := Object()
 ArrayEN := Object()
-;Arraymax := Object()
+Global Arraymax := 0
 ItemName := 1
 FoundPT := 0
 FoundEN := 0
-
-
-
-
 
 
 ;CARREGAR EN
@@ -37,18 +48,18 @@ ArrayCountPT = 0
 Loop, Read, PT.txt
 {
     ArrayPTCount += 1
+	Arraymax = %ArrayPTCount%
 	ArrayPT%ArrayPTCount% := A_LoopReadLine
 }
 
 
 ;COMANDO PRINCIPAL
 +t:: 
-IfWinActive, Path of Exile ahk_class Direct3DWindowClass 
+#IfWinActive, Path of Exile ahk_class Direct3DWindowClass 
 {
 	GetItemName()
 }
 return
-
 CoordMode, Mouse, Screen
 CoordMode, ToolTip, Screen
 
@@ -93,7 +104,7 @@ GetItemName() {
 	ItemName = %data2%
 	clipboard = %ItemName%
 		loopEN:
-		loop, 3020
+		loop, %Arraymax%
 		{
 		  if (ArrayEN%A_Index% = data2) {
 			ItemEN = % ArrayEN%A_Index%
@@ -105,7 +116,7 @@ GetItemName() {
 		
 		
 		loopPT:
-		loop, 3020
+		loop, %Arraymax%
 		{
 		  if (ArrayPT%A_Index% = data2) {
 			ItemEN = % ArrayEN%A_Index%

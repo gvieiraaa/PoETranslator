@@ -59,6 +59,7 @@ Ambusher
 Amethyst Flask
 Amethyst Ring
 Ammonite Glyph
+Amplification Rod
 Amplifier Chair
 Anarchy's Price
 Anatomical Knowledge
@@ -140,12 +141,14 @@ Artisan's Bench
 Ascendant Portal Effect
 Ascendant Portrait Frame
 Ascendant Weapon Effect
+Ascent From Flesh
 Asenath's Gentle Touch
 Asenath's Mark
+Ashcaller
+Ashes of the Condemned
 Ashes of the Sun
 Ashrend
 Ashscale Talisman
-Ashwalker
 Asphyxia's Wrath
 Aspirant Portal Effect
 Aspirant Portrait Frame
@@ -283,6 +286,7 @@ Blood Sceptre
 Blood Slam
 Bloodboil
 Bloodgrip
+Bloodletter
 Bloodletter of the Vaal
 Bloodlust Support
 Bloodplay
@@ -333,10 +337,12 @@ Brass Maul
 Brass Spirit Shield
 Brawn
 Breakrib Talisman
+Breath of the Council
 Bricks
 Brightbeak
 Brilliant Crown Effect
 Brilliant Feathers
+Brinerot Cache
 Brinerot Flag
 Brinerot Mark
 Brinerot Whalers
@@ -509,6 +515,7 @@ Cleave
 Cleaver
 Cloak of Defiance
 Cloak of Flame
+Cloak of Tawm'r Isley
 Close Helmet
 Cloth Belt
 Clump of Vines
@@ -589,11 +596,13 @@ Corrupted Specks
 Corruption
 Corsair Sword
 Coruscating Elixir
+Cospri's Will
 Courtesan Sword
 Courtyard Map
 Covered Corpses
 Coves Map
 Coveted Possession
+Cragfall
 Craghead
 Crane
 Crematorium Map
@@ -688,9 +697,11 @@ Death and Taxes
 Death Bow
 Death Rattle
 Death Rush
+Death's Door
 Death's Hand
 Death's Harp
 Death's Oath
+Death's Opus
 Decanter Spiritus
 Decapitation
 Decayed Statue
@@ -707,6 +718,7 @@ Deerskin Gloves
 Deerstalker
 Deicide Mask
 Deidbell
+Deidbellow
 Demigod's Beacon
 Demigod's Bounty
 Demigod's Dominance
@@ -742,6 +754,7 @@ Desert Grass
 Desert Map
 Desert Plants
 Deshret's Banner
+Deshret's Storm
 Deshret's Vise
 Desk
 Despot Axe
@@ -787,6 +800,7 @@ Doedre's Tenure
 Dominating Blow
 Doom Arrow
 Doomfletch
+Doomfletch's Prism
 Doomsower
 Doon Cuebiyari
 Door Frame
@@ -834,6 +848,7 @@ Dunes Map
 Dungeon Map
 Dusk Blade
 Dusktoe
+Duskwing
 Dyadian Dawn
 Dyadus
 Dying Anguish
@@ -927,6 +942,7 @@ Eternal Sword
 Eternal Weapon Effect
 Ethereal Knives
 Ethereal Stars Effect
+Ewar's Mirage
 Exalted Orb
 Exalted Rhoa Pet
 Exalted Weapon Effect
@@ -949,6 +965,7 @@ Ezomyte Axe
 Ezomyte Blade
 Ezomyte Burgonet
 Ezomyte Dagger
+Ezomyte Hold
 Ezomyte Peak
 Ezomyte Spiked Shield
 Ezomyte Staff
@@ -1193,6 +1210,7 @@ Grace
 Graceful Sword
 Grand Life Flask
 Grand Mana Flask
+Grand Spectrum
 Grandmaster Banner Back Attachment
 Grandmaster Body Armour
 Grandmaster Boots
@@ -1229,6 +1247,7 @@ Green Frog Pet
 Green Searing Bond Effect
 Grigor's Wall
 Grinning Fetish
+Grip of the Council
 Grotto Map
 Ground Slam
 Grove Bow
@@ -1286,6 +1305,8 @@ Highborn Staff
 Highgate Portrait Frame
 Highgate Weapon Effect
 Highland Blade
+Hiltless
+Hinekora's Sight
 Holiday Present Sack Back Attachment
 Holy Chainmail
 Honourhome
@@ -1295,6 +1316,8 @@ Horned Sceptre
 Horned Talisman
 Hotfooted
 House of Mirrors
+Hrimburn
+Hrimnor's Dirge
 Hrimnor's Hymn
 Hrimnor's Resolve
 Hrimsorrow
@@ -1370,6 +1393,7 @@ Infernal Throne
 Infernal Weapon Effect
 Infractem
 Innervate Support
+Innsbury Edge
 Inspired Learning
 Intuitive Leap
 Invasion Ritual Horns
@@ -1431,6 +1455,7 @@ Junk Pile
 Kacha Axe
 Kalisa's Grace
 Kaltenhalt
+Kaltensoul
 Kaom Mask
 Kaom's Cache
 Kaom's Greaves
@@ -1440,16 +1465,21 @@ Kaom's Primacy
 Kaom's Roots
 Kaom's Sign
 Kaom's Throne
+Kaom's Way
 Karui Axe
+Karui Charge
 Karui Chopper
 Karui Maul
 Karui Sceptre
 Karui Ward
 Keyblade
+Kiara's Determination
 Kikazaru
 Kinetic Blast
 Kingmaker
 Kingsguard
+Kintsugi
+Kitava's Thirst
 Kiwi Pet
 Knockback Support
 Koala Bear Pet
@@ -1576,6 +1606,7 @@ Lunaris Circlet
 Lunaris Portrait Frame
 Lunaris Weapon Effect
 Lush Tree
+Lycosidae
 Lysah's Respite
 Machine
 Macrotaen Plant
@@ -1596,6 +1627,7 @@ Malachai's Heart
 Malachai's Loop
 Malachai's Lungs
 Malachai's Simula
+Malachai's Vision
 Malformation Map
 Malicious Intent
 Maligaro's Etcher
@@ -1613,7 +1645,6 @@ Mao Kun
 Map Device
 Maple Round Shield
 Maraketh Bow
-Maraketh Vase
 Mark of the Doubting Knight
 Mark of the Phoenix
 Mark of the Warrior Wings
@@ -1622,6 +1653,7 @@ Market Debris
 Market Pillar
 Marohi Erqi
 Martial Artistry
+Martyr's Crown
 Marylene Mask
 Marylene's Fallacy
 Mast Arch
@@ -1663,6 +1695,7 @@ Might in All Forms
 Mightflay
 Military Staff
 Mind Cage
+Mind of the Council
 Mindspiral
 Mine Cart
 Mine Rock
@@ -1706,6 +1739,7 @@ Murder Boots
 Murder Mitts
 Museum Map
 Mutated Growth
+Mutewind Cache
 Mutewind Pennant
 Mutewind Seal
 Mutewind Whispersteps
@@ -1727,6 +1761,7 @@ Necrotic Helmet
 Necrotic Weapon Effect
 New Shock Nova
 NewPunishment
+Ngamahu Tiki
 Ngamahu's Flame
 Ngamahu's Sign
 Nightmare Bascinet
@@ -1905,6 +1940,7 @@ Pride Before the Fall
 Primal Skull Talisman
 Primeval Rapier
 Primitive Staff
+Primordial Shaping
 Primordial Staff
 Prism Guardian
 Prismatic Eclipse
@@ -1946,6 +1982,7 @@ Quartz Wand
 Quecholli
 Queen of the Forest
 Queen's Decree
+Queen's Escape
 Quicksilver Flask
 Quill Rain
 Quilted Jacket
@@ -1958,7 +1995,6 @@ Radiant Gloves
 Radiant Helmet
 Radiant Shield
 Radiant Weapon Effect
-Rageslaver
 Rail Post
 Railway
 Rain
@@ -1990,6 +2026,8 @@ Rawhide Gloves
 Rawhide Tower Shield
 Razer Footprints Effect
 Razor Axe
+Reach of the Council
+Realm Ender
 Realmshaper
 Reaper Footprints Effect
 Reaper's Pursuit
@@ -2011,6 +2049,7 @@ Red, White and Blue Fireworks
 Redbeak
 Redblade Band
 Redblade Banner
+Redblade Cache
 Redblade Tramplers
 Reduced Mana Support
 Redwood Spiked Shield
@@ -2029,6 +2068,7 @@ Relentless Fury
 Relic of the Cycle
 Remnant of Empires
 Remote Mine Support
+Renegades Cache
 Repentance
 Residence Map
 Return Projectiles Support
@@ -2096,6 +2136,7 @@ Ruby Flask
 Ruby Ring
 Rug
 Rugged Quiver
+Rumblemarch
 Rumi's Concoction
 Runic Blade
 Runic Hatchet
@@ -2131,6 +2172,7 @@ Sacrificial Harvest
 Sacrificial Shrine
 Sadima's Touch
 Sadist Garb
+Saemus' Gift
 Saffell's Frame
 Sage Wand
 Sage's Robe
@@ -2161,6 +2203,7 @@ Satoshi
 Savant's Robe
 Sawblade Cyclone
 Sawblade Tracks
+Scaeva
 Scale Doublet
 Scale Vest
 Scar of Fate
@@ -2234,6 +2277,7 @@ Sharktooth Claw
 Sharpening Wheel
 Shattered Blade
 Shattered Chains
+Shavronne's Gambit
 Shavronne's Pace
 Shavronne's Revelation
 Shavronne's Wrappings
@@ -2276,6 +2320,7 @@ Silver Flask
 Silver Key
 Silver Kiwi Pet
 Silver Wings
+Silverbough
 Silverbranch
 Simple Robe
 Sin Trek
@@ -2291,6 +2336,7 @@ Skeleton
 Skeleton Display
 Skin Transfer
 Skinning Knife
+Skirmish
 Skull Display
 Skull Hood
 Skull Pile
@@ -2387,6 +2433,7 @@ Spirit Charm
 Spirit Guards
 Spirit Offering
 Spirited Response
+Spiritskin
 Splendid Round Shield
 Splinter of the Moon
 Splintered Tower Shield
@@ -2527,6 +2574,7 @@ The Anvil
 The Apex
 The Arena Champion
 The Artist
+The Ascetic
 The Avenger
 The Aylardex
 The Battle Born
@@ -2543,6 +2591,7 @@ The Carrion Crow
 The Cartographer
 The Cataclysm
 The Catalyst
+The Cauteriser
 The Celestial Justicar
 The Chains that Bind
 The Conduit
@@ -2550,6 +2599,7 @@ The Consuming Dark
 The Covenant
 The Coward's Trial
 The Cursed King
+The Dancing Dervish
 The Dapper Prodigy
 The Dark Mage
 The Dark Seer
@@ -2579,6 +2629,7 @@ The Gladiator
 The Goddess Bound
 The Goddess Scorned
 The GoddessUnleashed
+The Gryphon
 The Gull
 The Harvest
 The Harvester
@@ -2594,6 +2645,7 @@ The Jester
 The King's Blade
 The King's Heart
 The Last One Standing
+The Learning Stone
 The Lich
 The Lion
 The Lord in Black
@@ -2603,17 +2655,21 @@ The Magnate
 The Mercenary
 The Metalsmith's Gift
 The Naming Temporary
+The Oak
 The Offering
 The One With All
+The Overflowing Chalice
 The Pack Leader
 The Pact
 The Pariah
 The Perandus Manor
 The Peregrine
+The Plaguemaw's Offering
 The Poet
 The Princess
 The Queen
 The Rabid Rhoa
+The Rack
 The Rat Cage
 The Rathorn
 The Restless Ward
@@ -2626,6 +2682,7 @@ The Screaming Eagle
 The Searing Touch
 The Sephirot
 The Sigil
+The Signal Fire
 The Siren
 The Sorrow of the Divine
 The Soul
@@ -2639,6 +2696,7 @@ The Surgeon
 The Surveyor
 The Survivalist
 The Taming
+The Tempest
 The Tempestuous Steel
 The Thaumaturgist
 The Three Dragons
@@ -2670,6 +2728,7 @@ Thicket Map
 Thief's Garb
 Thief's Torment
 Thin Pillar
+Thirst for Horrors
 Thorium Spirit Shield
 Thorn Rapier
 Thousand Ribbons
@@ -2677,6 +2736,7 @@ Thousand Teeth Temu
 Three Faces in the Dark
 Three Hands Talisman
 Three Rat Talisman
+Three-step Assault
 Thresher Claw
 Throat Stabber
 Throne
@@ -2716,6 +2776,7 @@ Torture Cage
 Torture Chamber Map
 Torture Device
 Totemic Maul
+Touch of Anguish
 Touch of God
 Tower Key
 Tranquillity
@@ -2726,6 +2787,7 @@ Trap Cooldown Support
 Trap Support
 Trapper Boots
 Trapper Mitts
+TrapperBodyTempName
 Travel Wagon
 Treasure Hunter
 Treasure Key
@@ -2759,6 +2821,7 @@ Two-Stone Ring
 Twyzel
 Tyrant's Sekhem
 Umbilicus Immortalis
+Underdog's Fury
 Underground River Map
 Underground Sea Map
 Undying Flesh Talisman
@@ -2770,7 +2833,6 @@ Unset Ring
 Unstable Payload
 Untainted Paradise
 Urn
-Urn of the Eternal Empire
 Ursine Pelt
 Vaal Arc
 Vaal Axe
@@ -2862,6 +2924,7 @@ Verdant Gloves
 Verdant Helmet
 Verdant Throne
 Verdant Weapon Effect
+Veruso's Battering Rams
 Vessel of Vinktar
 Vestige of Divinity
 Vial Of Power
@@ -2890,6 +2953,7 @@ Void Sceptre
 Voidbringer
 Voideye
 Voidgate Portal Effect
+Voidheart
 Voidhome
 Volatile Power
 Volcano Map
@@ -2898,6 +2962,7 @@ Volley Fire
 Voll's Confession
 Voll's Devotion
 Voll's Protector
+Voll's Vision
 Voltaxic Rift
 Vortex
 Vortex Mine
@@ -2906,6 +2971,7 @@ Wagon
 Wagon Debris
 Wake of Destruction
 Wall
+Wall of Brambles
 Wall of Spikes
 Wall Switch
 Wallaby Pet
@@ -2917,7 +2983,6 @@ War Buckler
 War Hammer
 War Plate
 War Sword
-Warband's Cache
 Wareclast Pantheon
 Warlord's Mark
 Warlord's Reach
