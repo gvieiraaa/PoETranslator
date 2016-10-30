@@ -1,3085 +1,3980 @@
-Presente Materno de Despedida
-Mapa da Carvena Abandonada
-A Riqueza Abandonada
-Chifre de Abberath
-Mapa do Abismo
-Machado Abissal
-Clamor Abissal
-Cetro Abissal
-Abyssus
-Mapa da Academia
-Mascote Escorpião Ácido
-Efeito de Arma Ácido
-Pesadelo de Acton
-Suporte: Dano Adicional de Caos
-Suporte: Dano Adicional de Gelo
-Suporte: Dano Adicional de Fogo
-Suporte: Dano Adicional de Raio
-Garra da Serpente
-Suporte: Precisão Adicional
-Fortaleza Avançada
-Égide Aurora
-Amuleto de Ágata
-Planta Agave
-Agnerod Leste
-Agnerod Norte
-Agnerod Sul
-Haste Agne do Oeste
-Durações de Aflição
-Al Dhih
-Armadura Serafim de Alabastro
-Botas Serafim de Alabastro
-Luvas Serafim de Alabastro
-Capacete Serafim de Alabastro
-Trilha Guerreira de Alberon
-Mascote Kiwi Albino
-Pena de Rhoa Albino
-Estilha de Alquimia
-Escudo Cravado do Amieiro
-Grama Alienígena
-Amuleto da Alira
-Alkem Eira
-Omnichama
-Escudo Cravado de Liga
-Isca
-Planta Aloé
-Uivo do Alfa
-Altar
-Estilha de Alteração
-Evocar Espectro Alternativo
-Evocar Zumbi Alternativo
-Totem Alternativo
-Mascote Gárgula Amarantácea
-Amuleto de Âmbar
-Investida de Ambu
-Botas da Emboscada
-Luvas da Emboscada
-Chifres Ritualísticos da Emboscada
-Emboscador
-Frasco de Ametista
-Anel de Ametista
-Glifo Amonita
-Vara da Amplificação
-Cadeira Amplificadora
-O Preço da Anarquia
-Conhecimento Anatômico
-Retalhador Ancestral
-Clava Ancestral
-Protetor Ancestral
-Chefe Guerreiro Ancestral
-Manoplas Antigas
-Grevas Antigas
-Escudo Espiritual Antigo
-Espada Antiga
-Vaso Antigo
-Pedras do Caminho Antigas
-Andvarius
-Escudo Pipa Angelical
-Máscara Angelical
-Cólera
-Jaula de Animais
-Pilha de Animais
-Animar Guardião
-Animar Arma
-Manoplas Arcaicas
-Grevas Arcaicas
-Rapieira Arcaica
-Galhada
-Bigorna
-Fúria de Apep
-Rapieira do Ápice
-Aparições
-Acessório para Costas Estandarte do Aprendiz
-Armadura do Aprendiz
-Botas do Aprendiz
-Luvas do Aprendiz
-Capacete do Aprendiz
-Estandarte do Esconderijo do Aprendiz
-Frasco de Água-marinha
-Mapa do Ninho Aracnídeo
-Araku Tiki
-Arco
-Arco da Coragem
-Arco do Desafio
-Mapa da Arcada
-Armadura Arcana
-Botas Arcanas
-Efeito do Contágio Arcano
-Efeito de Dreno de Essência Arcano
-Luvas Arcanas
-Capacete Arcano
-Trono Arcano
-Efeito de Arma Arcano
-Efeito de Definhar Arcano
-Luvas do Arcanista
-Sapatilhas do Arcanista
-Escudo Pipa do Arconte
-Armadura Ártica
-Armadura Ártica
-Botas Árticas
-Sopro Ártico
-Coroa Ártica
-Efeito de Pegada Ártico
-Luvas Árticas
-Capacete Ártico
-Efeito Explosão Congelante Ártica
-Mascote Lince Ártico
-Efeito de Portal Ártico
-Caveira Ártica
-Efeito Ódio da Caveira Ártica
-Efeito de Arma Ártico
-Mapa da Arena
-Placas de Arena
-Mapa do Lago Árido
-Honra de Arimagius
-Machado Armado
-Sucata do Armeiro
-Bancada do Armeiro
-Exército de Ossos
-Mapa do Arsenal
-Bancada do Artesão
-Efeito de Portal Ascendente
-Moldura de Retrato Ascendente
-Efeito de Arma Ascendente
-Ascensão da Carne
-Toque Gentil de Asenath
-Marca de Asenath
-Despertar das Cinzas
-Cinzas do Condenado
-Cinzas do Sol
-Ashrend
-Talismã da Escama de Cinzas
-Ira da Asphyxia
-Efeito de Portal Aspirante
-Moldura de Retrato Aspirante
-Efeito de Arma Aspirante
-Arco Assassino
-Botas do Assassino
-O Favor do Assassino
-Traje do Assassino
-Velocidade do Assassino
-Marca do Assassino
-Luvas do Assassino
-Placas Astrais
-Astramentis
-Substituir Atributo
-Acuidade de Atziri
-Desfavor de Atziri
-Ponto Fraco de Atziri
-Espelho de Atziri
-Promessa de Atziri
-Reinado dos Atziri
-Esplendor de Atziri
-Passo de Atziri
-A Audácia
-Efeito da Aura
-Efeito da Aura 2
-Efeito da Aura 3
-Efeito da Aura 4
-Auréola Áurea
-Maça Áurica
-Aurseize
-Aurumvorax
-Auxium
-Capacete com Malha
-Sapatilhas Aviários
-Talismã das Aves Gêmeas
-Efeito de Arma do Despertar
-Sovela
-Axiom Perpetuum
-Moldura de Retrato Axioma
-Efeito de Arma Axioma
-Máscara Azul-Celeste do Diabrete
-Efeito de Arma Serafim Celeste
-Efeito de Arma Azul-Celeste
-Mascote Peste Negra Bebê
-Bebê Elefante
-Apunhalada Traiçoeira
-Emblema da Angústia
-Emblema do Regozijo
-Emblema das Caveiras
-Gema Maligna
-Esfera Relampejante
-Faixa do Vitorioso
-Bandana
-Perdição da Lealdade
-Estandarte
-Maça Farpada
-Capacete Barbute
-Escudo Redondo Barroco
-Barragem
-Barris
-Barricada
-Dedo de Bartek
-Frasco de Basalto
-Baselardo
-Bacia
-Cesta
-Rapieira de Cesta
-Espada Bastarda
-Bastonada
-Sopro Suspenso
-Florete Batido
-Elmo Batido
-Broquel de Batalha
-Martelo de Batalha
-Lamelar de Batalha
-Placas de Batalha
-Espada de Batalha
-Combateveloz
-Mapa do Bazar
-Pernilongos
-Raio
-Armadilha de Urso
-Maça do Behemoth
-Mascote Lagarto com Sino
-Espinhos do Solo do Ventre
-Ventre da Fera
-Cinto do Enganador
-Chifres Dobrados
-Empunhadura de Berek
-Passagem de Berek
-Descanso de Berek
-Cutelo do Bino
-Gaiola
-O Nascimento dos Três
-Frasco de Bismuto
-Sonho Cruel
-Mascote Gato Preto
-Efeito de Portal Buraco Negro
-Talismã da Bocarra Negra
-Mascote Rato Preto
-Rosa Negra da Anarquia
-Crista do Sol Negro
-Brilho-Negro
-Guardaz Negroz
-Coração Negro
-Amolador do Ferreiro
-Destroços de Sentinela Lâminado
-Mascote Sentinela Laminado
-Armadilha de Lâminas
 Turbilhão de Lâminas
-Maça Laminada
-Chuva de Lâminas
-Suporte: Blasfêmia
-Chuva Explosiva
-Orbe Abençoado
-Fonte de Bênçãos
+Espíritos Espectrais
+Erupção de Chamas
+Raio de Fogo
+Caminhar da Fenda do Atlas
+Pulso Congelante do Chefe Inca
+Raio da Deusa
+Teleporte da Deusa
+Varinha Teleportadora
+Morte
+Explosão Sangrenta
+Explosão de Cargas de Frascos
+Aura de Dano com Uso de Habilidades de Movimento
+Aura de Dano Sofrido Aumentado
+Correntes Esqueléticas
+Aura de Degeneração Física
+Aura Desaceleradora
+Projéteis Elementais
+Dilacerar
+Chefe Guerreiro Ancestral
+Retalhador Ancestral
+Teleporte de Izaro
+Devastação de Izaro
+Fraqueza Elemental
+Vulnerabilidade
+Grilhões Temporais
+Convocar Golem de Raio
+Enfrentar Último Alvo
+Fogo Congelante
+Flecha da Destruição
+Armadilha de Lâminas
+Oferenda Espiritual
+Onda de Choque Recorrente
+Rajada de Lâminas
+Ataque Carregado
+Mandamento da Ira
+Decreto da Ira
+Édito da Ira
+Palavra da Ira
+Raio de Energia
+Explosão Vulcânica
+Correnteza
 Mangra
-Poço Infestado
-Suporte: Cegar
-O Risco Cego
-Fura-Olhos
+Turbilhão
+Canalização do Disparo Congelante
+Disparo Congelante
+Convocar Lobo Espectral
+Evocar Espiral de Raio do Talismã
+Degeneração do Talismã
+Encontro de Alcance
+Ruptura
+Explosão de Fogo
+Lâminas Sombrias
+Elo Relampejante de Vinktar
+Teleporte Relampejante de Nuvem de Tempestade
+Protetor Ancestral
+Balista de Cerco
+Mandamento da Fúria
+Decreto da Fúria
+Édito da Fúria
+Palavra da Fúria
+Mandamento do Rancor
+Decreto do Rancor
+Édito do Rancor
+Palavra do Rancor
+Mandamento de Lâminas
+Decreto de Lâminas
+Édito de Lâminas
+Palavra de Lâminas
+Mandamento do Gelo
+Decreto do Gelo
+Édito do Gelo
+Palavra do Gelo
+Mandamento do Inferno
+Decreto do Inferno
+Édito do Inferno
+Palavra do Inferno
+Dreno de Essência
+Definhar
+Contágio
+Terremoto
+Relâmpago Justo
+Mandamento da Guerra
+Decreto da Guerra
+Édito da Guerra
+Palavra da Guerra
+Salto Rodopiante
+Mandamento da Força
+Decreto da Força
+Édito da Força
+Palavra da Força
+Convocar Golem de Pedra
+Mandamento do Trovão
+Decreto do Trovão
+Édito do Trovão
+Palavra do Trovão
+Mandamento da Luz
+Decreto da Luz
+Édito da Luz
+Palavra da Luz
+Mandamento do Reflexo
+Decreto do Reflexo
+Édito do Reflexo
+Palavra do Reflexo
+Mandamento do Túmulo
+Decreto do Túmulo
+Édito do Túmulo
+Palavra do Túmulo
+Orbe das Tempestades
+Dervixe Dançante Manifestado
+Mandamento das Chamas
+Decreto das Chamas
+Édito das Chamas
+Palavra das Chamas
+Bomba de Gelo
+Chuva de Lâminas
+Chuva de Lâminas
+Cutilada Reversa da Piety
+Corrente Estática
+Tiro Estilhaçante
+Chuva Explosiva
+Passo Etéreo
+Morteiro
+Armadilha de Gelo
+Raio da Piety
+Golpe Selvagem
+Armadura Ártica
+Punição
+Orbe de Magma
+Consumo de Maldição
+Salto Impactante
+Cone de Fogo Elemental
+Lâminas de Gelo
+Lança Elemental de Gelo
+Golpe Vigilante
+Barril Explosivo
+Transferência de Maldição
+Voracidade dos Elementos
+Rastro de Chamas
+Explosão Elétrica
+Pancada de Gelo
+Convocar Golem de Chamas
+Convocar Golem de Gelo
+Convocar Golem de Caos
+Vingança
+Mandamento da Tempestade
+Decreto da Tempestade
+Édito da Tempestade
+Palavra da Tempestade
+Golpe Estático
+Acerto de Contas
+Ripostar
+Flecha Espelhada
 Flecha Ilusória
-Suporte: Redução de Chance de Bloqueio
-Sangue e Osso
-Névoa de Sangue (Vermelha)
-Névoa de Sangue (Amarela)
-Suporte: Magia Sanguínea
-Sangue da Corrupção
-Sangue do Verão
-Sangue dos Karui
-Fúria Sangrenta
-Vestes Sangrentas
-Sacrifício de Sangue
-Cetro Sanguinário
-Impacto Sanguíneo
-Fervessangue
-Aperto Sangrento
-Carta Sangrenta
-Sangrador dos Vaal
-Suporte: Sanguinolência
-Jogada Sangrenta
-Buscador de Sangue
-Mascote Verme Sangrento
-Cadáver Sangrento
-Pilha de Cadáveres Sangrentos
-Folhas Sopradas
-Ciclone Azul
-Incinerar de Chama Azul
-Mascote Sapo Azul
-Mascote Guaiamu
-Feixe de Luz Azul
-Aljava de Flechas Cegas
-Machado Revestido
-Restos de Barco
-Naufrágio
-Estante de Armaduras
-Saco de Corpo
-Partes do Corpo
-Mapa do Brejo
-Armadura de Ossos
-Arco Ósseo
-Tiara de Ossos
+Explosão Cinética
+Mandamento do Inverno
+Decreto do Inverno
+Édito do Inverno
+Palavra do Inverno
+Tentáculos Relampejantes
+Marca do Larápio
+Arauto do Trovão
+Arauto do Gelo
+Arauto das Cinzas
+Arauto do Sangue
+Teleporte Ilusório
+Tiro Tornado
+Mina de Explosão de Fogo
+Convocação
+Golpe Vulcânico
+Cascata Glacial
 Oferenda de Ossos
-Escudo Espiritual de Osso
-Ossos de Ullr
-Talismã da Espiral de Ossos
-Livro da Reforma
-Livro da Regressão
-Livro dos Arrependimentos
-Livro de Habilidade
-Pinha de Livros
-Estante de Livros
-Livros
-Lâmina de Bota
-Faca de Bota
-Cabine
-Pastor Boreal
-Poder Emprestado
+Oferenda de Carne
+Profanar
+Pulso de Chamas
+Convocar Espírito Furioso
+Fogo Selvagem
+Barragem
+Explosão Flamejante Vaal
+Explosão Flamejante
+Explosão Flamejante
+Chamado da Tempestade Vaal
+Chamado da Tempestade
+Pureza do Raio
+Pureza do Gelo
+Pureza do Fogo
+Animar Arma
+Arremesso Espectral Vaal
+Arremesso Espectral
+Animar Guardião
+Mina de Fumaça
+Armadilha Relampejante Vaal
+Armadilha Relampejante
+Toque de Deus
+Devastação Vaal
+Devastação
+Ligação Cauterizadora
+Ciclone Vaal
+Ciclone
+Incinerar
+Incinerar
+Esfera Relampejante
+Condutividade
+Congelabilidade
+Flamabilidade
+Totem de Chamas
+Armadura Ártica
+Sopro Ártico
+Tiro de Gelo
+Facas Etéreas
+Totem Devorador
+Totem Chamariz
+Armadilha de Fogo Vaal
+Armadilha de Fogo
+Mina Congelante
+Armadilha de Urso
+Armadilha de Conversão
+Totem Rejuvenecedor
+Totem de Onda de Choque
+Detonar Minas
+Clareza Vaal
+Clareza
+Flecha Ardente Vaal
+Flecha Ardente
+Ira
+Ódio
+Cólera
+Determinação Vaal
+Determinação
+Graça Vaal
+Graça
+Disciplina Vaal
+Disciplina
+Vitalidade Vaal
+Vitalidade
+Pureza dos Elementos
+Impetuosidade Vaal
+Impetuosidade
+Provocar
+Flecha Relampejante
+Punctura
+Sifão de Poder Vaal
+Sifão de Poder
+Escudo Flamejante Vaal
+Escudo Flamejante
+Escudo da Tempestade
+Golpe Relampejante Vaal
+Golpe Relampejante
+Tempestade de Gelo
+Tempestade de Fogo
+Chuva de Flechas Vaal
+Chuva de Flechas
+Golpe Dominador
+Golpe Pesado Vaal
+Golpe Pesado
+Convocar Esqueletos Vaal
+Convocar Esqueletos
+Teleporte Relampejante Vaal
+Teleporte Relampejante
+Vulnerabilidade
+Fraqueza a Projéteis
+Marca do Assassino
+Debilitar
+Punição
+Marca do Senhor da Guerra
+Fraqueza Elemental
+Grilhões Temporais
+Flecha Explosiva
+Passo Etéreo
+Golpe da Víbora
+Explosão Elétrica
+Pulso Congelante
+Parede de Gelo
+Martelo Glacial Vaal
+Martelo Glacial
+Golpe Infernal
+Evocar Espectro
+Lança de Gelo
+Centelha Vaal
+Centelha
+Ataque Padrão
+Portal
+Descarga
+Infusão de Dano
+Arma de Fogo
+Fogo da Justiça Vaal
+Fogo da Justiça
+Evocar Zumbi
+Arco Vaal
+Arco
+Bola de Fogo Vaal
+Bola de Fogo
+Incendiar
+Explosão Congelante Vaal
+Explosão Congelante
+Estalo Gelado Vaal
+Estalo Gelado
+Flecha Repartida
+Fúria Sangrenta
+Arremesso
+Ataque Tremeluzente
+Tiro de Elite
+Detonar Morto Vaal
+Detonar Morto
+Apunhalada Traiçoeira
+Flecha Cáustica
+Frenesi
+Lâminas Giratórias
+Ataque Combinado
+Chamado Imortal Vaal
+Chamado Imortal
+Acerto Elemental
+Golpe Duplo Vaal
+Golpe Duplo
+Salto Impactante
+Clamor Abissal
+Clamor Inspirador
+Clamor Tolerante
+Investida com Escudo
+Investida com Escudo
+Cutilada
+Impacto Sísmico Vaal
+Impacto Sísmico
+Varrida Vaal
+Varrida
+Raio de Fogo
+Oferenda à Deusa
+Correntes Esqueléticas
+Projéteis Elementais
+Triturador de Portal
+Rosa Negra da Anarquia
+Engrenagens da Ruptura
+Areia da Eternidade
+Recipiente do Poder
+Vara da Detonação
+Orbe da Dispersão Elemental
+Cubo da Absorção
+Coração do Gárgula
+Perdição da Lealdade
+Mawr Blaidd
+O Necrófago
+O Juramento
+O Mar Informe
+A Valquíria
+O Chamado
+Subjugação da Dialla
+O Lobo
+O Arrependimento
+A Tolerância
+Sortes dos Vaal
+Luz e Verdade
+Deck da Sorte
+Deck Empilhado
+Deleite do Cartógrafo
+Descanso de Lysah
+O Invocador da Tempestade
+O Rei Amaldiçoado
+Imperador da Pureza
+A Sacerdotisa Lunaris
+O Ceifador
+A Teia
+O Tirano
+O Além
+Tentador das Tempestades
+Heterocromia
+Fragmento do Destino
+Destinado a Desmoronar
+O Devastador
 Reinos Infinitos
-Estante de Arcos
-Ferramentas do Fabricante de Arcos
+O Trono
+O Imortal
+Agonia Mortal
+Céus Trovejantes
+O Visionário
+O Sephirot
+O Campeão da Arena
+A Sombra do Lobo
+Bebedor da Terra
+Caçador de Tesouros
+Sua Máscara
+Tranquilidade
+O Risco
+Ratos
+O Dragão
+O Leão
+A Alma
+O Rhoa Furioso
+O Elegante Prodígio
+O Emblema
+Prosperidade
+O Etéreo
+Vislumbre de Esperança
+Virando a Outra Face
+O Corpo
+Presente Materno de Despedida
+O Lorde de Preto
+Mundos Perdidos
+A Oferenda
+O Traidor
+A Demoníaca
+O Senhor da Guerra
+O Cartógrafo
+O Armamento Impiedoso
+O Risco Cego
+A Arrogância
+A Última Esperança
+O Poder Volátil
+O Cirurgião
 O Sonho do Arqueiro
-Espinhoral
-Escudo Pipa Marcado
-Marreta de Latão
-Escudo Espiritual de Latão
-Músculo
-Talismã da Costela Quebrada
-Respiração do Conselho
-Tijolos
-Ponta Brilhante
-Efeito Coroa Brilhante
-Penas Brilhantes
-Tesouros da Salmoura Podre
-Bandeira da Salmoura Podre
-Marca da Salmoura Podre
-Baleeiros da Salmoura Podre
-Embrulhobrusco
-Barreira Frágil
-Machado Largo
-Espada Larga
-Aljava de Flechas de Ponta Larga
-Golpe-Largo
-Sentinela Lâminado Quebrado
-Fé Quebrada
-Cerca Ornamentada Quebrada
-Espinhos Quebrados
+O Topógrafo
+O Flecheiro
+A Recompensa do Caçador
+O Iluminado
+O Esteta
+O Taumaturgista
+O Lich
+O Preço da Anarquia
+As Gêmeas
+A Torre
+O Conduíte
+O Erudito dos Mares
+O Desenlace do Caçador
+O Favor do Assassino
+A Audácia
+Orgulho Antes da Queda
+A Lealdade
+O Intocável
+O Mercenário
+O Bobo
+O Conhecimento dos Mortos
+A Morte
+O Sobrevivencialista
+O Doppelgänger
+A Raposa
+O Coração do Dragão
+O Presente da Rainha Gemante
+O Vasto
+O Catalisador
+Riqueza e Poder
+Casa dos Espelhos
+O Cavalheiro
+A Provação
+A Lâmina do Rei
+A Ira
+A Invasão da Escuridão
+As Loucuras de Doedre
+O Último Sobrevivente
+O Le Heup com Tudo
+A Sereia
+O Presente da Flora
+A Traição
+O Principe Mimado
+O Explorador
+Humildade
+A Rainha
+A União
+A Caixa de Surpresa
+O Líder da Matilha
+O Inventor
+O Artista
+As Correntes que Prendem
+A Justicar Celestial
+A Promessa do Lapidário
+O Pacto
+O Vento
+A Riqueza Abandonada
+O Coração do Rei
+A Posse Cobiçada
+O Encantamento
+O Sentinela
+A Chuva do Caos
+O Banquete
+As Conexões Sortudas
+A Relíquia Perdida no Tempo
+Sorte do Imperador
+O Vingador
+A Estrada para o Poder
+A Disposição Caótica
+O Amante
+O Jogador
+O Lapidário
+O Mago Sombrio
+O Prado Cicatrizado
+O Carcereiro
+O Sol
+O Aristocrata Bêbado
+A Riqueza
+A Fome
+O Cataclismo
+O Convocador
+A Lembrancinha de Vinia
+O Nascimento dos Três
+O Demônio
+A Esperança
+O Corvo da Carniça
+O Poeta
+O Imperador Frágil
+O Erudito
+O Gladiador
+O Nascido para Batalha
+O Presente do Ferreiro
+O Amor Perdido de Lantador
+O Eremita
+O Doutor
+As Três Faces no Escuro
+Redemoinho Sombrio
+Estátua da Deusa
+Trono de Kaom
+Dispositivo de Arrebatamento
+Cristal Obscuro
+Estátua de Jardim Grande
+Estátua de Jardim Pequena
+Coluna Circular
+Estátua Dourada
+Trilhos de Armadilha Giratória
+Trilhos de Lâmina de Serra
+Lâmina de Borda
+Dardo Destroçado
 Manivela Quebrada
 Destroços de Armadilha Giratória
-Agilidade de Bronn
-Mascote Gárgula de Bronze
-Estátua Gárgula de Bronze
-Manoplas de Bronze
-Mascote Kiwi Bronze
-Placas de Bronze
-Cetro de Bronze
-Escudo Torre de Bronze
-Botas de Escamas de Bronze
-Manoplas de Escamas de Bronze
-Solução de Força Bruta
-Berço de Brutus
-Borrifador de Chumbo de Brutus
-Baldes
-Escudo Torre de Camurça
-Túnica de Camurça
-Bulbo de Palmeira
-Legião Fortificada
-Beliche
-Flecha Ardente
-Florete Polido
-Escudo Cravado Tratado
-Arbusto
-Busto de Gaius Sentari
-Busto de Hector Titucius
-Busto de Marceus Lioneye
-Machado do Açougueiro
-Faca de Açougueiro
-Espada do Açougueiro
-Regalia Cabalística
-Armário
-Cáctus
-Caer Blaidd, Toca dos Lobos
-Mapa de Cagan
-Jaula
-Moledro
-Chamado da Irmandade
-Callinellus Malleus
-Máscara Insensível
-Marreta de Cameria
-Candelabro
-Sapo Cururu Beta
-Sapo Cururu Delta
-Sapo Cururu Épsilon
-Sapo Cururu Gama
-Sapo Cururu Ômega
-Folha Canibal
-Hábitos Canibalísticos
-Não Pode Morrer
-Mapa do Cânion
-Jaqueta de Carcaça
-Escudo Redondo Cardeal
-Planejamento Cuidadoso
-Esmagadora do Carl
-Coração da Carnificina
-Armadura Carnal
-Botas Carnais
-Luvas Carnais
-Cetro Carnal
-Fogos de Artifício de Carnaval
-Carrinho
-Cinzel do Cartógrafo
-Deleite do Cartógrafo
-Varinha Gravada
-Faca Talhadeira
-Suporte: Conjurar no Acerto Crítico
-Suporte: Conjurar ao Morrer
-Suporte: Conjurar ao Matar Corpo a Corpo
-Suporte: Conjurar ao Sofrer Dano
-Suporte: Conjurar quando Atordoado
-Mapa da Catacumba
-Pilar da Catacumba
-Catapulta
-Munição de Catapulta
-Bola de Catapulta
-Pata do Gato
-Caldeirão
-Flecha Cáustica
-Pilar da Caverna
-Estalagmite da Caverna
-Lixo da Caverna
-Tesouro da Caverna
-Cavia Porcellus
-Pilha de Cavia Porcellus
-Escudo Torre de Cedro
-Fragmento Celestial
-Mapa das Celas
-Mapa do Cemitério
-Mascote Centopéia
-Machado Cerimonial
-Escudo Pipa Cerimonial
-Maça Cerimonial
-Armadura Serafim Cerúlea
-Botas Serafim Cerúleas
-Luvas Serafim Cerúleas
-Capacete Serafim Cerúleo
-Cinto de Corrente
-Botas de Cota
-Luvas de Cota
-Cota de Correntes
-Suporte: Ricochete
-Gibão de Cota de Malha
-Túnica de Cota de Malha
-Colete de Cota de Malha
-Grilhões do Tempo
-Cadeira
-Cálice de Horrores
-Efeito de Portal Desafiador
-Moldura de Retrato Desafiadora
-Troféu do Desafiador
-Efeito de Arma Desafiador
-Auréola Dourada do Desafiante
-Auréola Argêntea do Desafiante
-Escudo Pipa do Campeão
-Moldura de Retrato do Campeão
-Efeito de Portal Chegada do Campeão 
-Acessório para Costas Hora do Campeão 
-Suporte: Chance de Fugir
-Suporte: Chance de Incendiar
-Mapa do Canal
-Orbe do Caos
-A Disposição Caótica
-Ataque Carregado
-Mapa do Castelo
-Construção Barata
-Pilar de Cernobog
-Maleficência do Querubim
-Rachador de Tórax
-Peitoral
-Mascote Galinha
-Calafrio da Corrupção
-Escudo Espiritual de Carrilhão
-Chin Sol
-Ápice de Chitus
-Agulha de Chitus
-Ameixa de Chitus
-Esmaga-Amaça
-Madeira Cortada
-Orbe Cromático
-Mascote Escorpião Cromo
-Talismã Crisálida
-Destroços de Igreja
-Parede da Igreja
-Portão da Parede da Igreja
-Coluna Circular
-Arco da Cidadela
-Amuleto de Citrina
-Clareza
-Botas Afiveladas
-Luvas Afiveladas
-Decoração Clássica de Parede
-Modelador de Barro
-Mente Limpa
-Cutilada
-Cutelo
-Capa do Desafio
-Manto das Chamas
-Manto de Tawm'r Isley
-Elmo Fechado
-Cinto de Pano
-Amontoado de Videiras
-Suporte: Grupo de Armadilhas
-Talismã da Ninhada
-Estilhaço Revestido
-Auréola de Cobalto
-Joia Cobalto
-Mascote Cobra
-Mascote Barata
-Caixão
-Engrenagens
-Engrenagens da Ruptura
-Cajado Enrolado
-Efeito Aperto Gélido
-Suporte: Penetração de Gelo
-Estalo Gelado
-Aço Frio
-Suporte: Gelo a Fogo
-Mapa da Colunata
-Frasco Híbrido Colossal
-Frasco de Vida Colossal
-Frasco de Mana Colossal
-Escudo Torre Colossal
-Mascote Weta Colossal
-Mapa do Coliseu
-Placas do Coliseu
-Mão do Colosso
-Cabeça do Colosso
-Perna do Colosso
-Malho do Colosso
-Espada do Colosso
-Coluna
-Colunas
-Combustíveis
-Cota de Placas do Comandante
-Arco Composto
-Arco Complexo
-Escudo Cravado de Composto
-Suporte: Efeito Concentrado
-Aljava Condutora
-Condutividade
-Capacete de Cone
-Botas do Conjurador
-Luvas do Conjurador
-Vestes do Conjurador
-Moldura de Retrato do Conquistador
-Efeito de Portal Campanha do Conquistador 
-Eficiência do Conquistador
-Longevidade do Conquistador
-Potência do Conquistador
-Acessório para Costas Reino do Conquistador
-Cota de Malha da Conquista
-Mapa da Estufa 
-Contágio
-Suporte: Destruição Controlada
-Convento da Chama dos Gêmeos
-Armadilha de Conversão
-Convocação
-Baú de Cobre
-Kris de Cobre
-Placas de Cobre
-Espada de Cobre
-Escudo Torre de Cobre
-Amuleto Coral
-Anel de Coral
-Mapa do Núcleo
-Couraça Coronal
-Marreta Coronal
-Carrinho de Cadáveres
-Cadáveres
-Lâmina Corroída
-Escudo Torre Corroído
-Broquel Enrugado
-Mármore Corrompido
-Energia Corrompida
-Partículas Corrompidas
-Corrupção
-Espada do Corsário
-Elixir Coruscante
-Desejo de Copri
-Espada da Corte
-Mapa do Pátio
-Cadáveres Cobertos
-Mapa das Enseadas
-A Posse Cobiçada
-Queda do Penhasco
-Cabeça do Penhasco
-Grua
-Mapa do Crematório
-Cajado Crescente
-Brasão de Perandus
-Escudo Torre Cristado
-Máscara Carmesim do Diabrete
-Joia Carmesin
-Portal Carmesim
-Efeito de Portal Carmesim
-Vestes Carmesim
-Escudo Redondo Carmesim
-Efeito de Arma Carmesim
-Coroa de Olhos
-Coroa do Rei Pálido
-Coroa de Espinhos
-Arco Bruto
-Cerca Bruta
-Barricada Desmoronada
-Caixas Destruídas
-Carrinhos Destruídos
-Bandeira Destruída
-Botas do Cruzado
-Broquel do Cruzado
-Cota de Malha do Cruzado
-Luvas do Cruzado
-Capacete do Cruzado
-Placas do Cruzado
-Armadura da Cripta
-Poço de Fogo da Cripta
-Mapa da Cripta
-Pilar da Cripta
-Cascalho da Cripta
-Espada da Cripta
-Mesa da Cripta
-Tumba da Cripta
-Destroços de Cristal
-Cetro de Cristal
-Varinha de Cristal
-Caveira Cristalizada
-Cubo da Absorção
-Suporte: Golpe Abatedor
-Aljava Curada
-Suporte: Amaldiçoar ao Acertar
-Lâmina Curvada
-Chifres Curvados
-Facão
-Traje do Degolador
-Pata de Cybil
-Ciclone
-Machado de Adagas
-Infusão de Dano
-Barris Danificados
-Carga Danificada
-Prateleiras Danificadas
-Dança - Duelista
-Dança - Marauder
-Dança - Caçadora
-Dança - Herdeira
-Dança - Sicário
-Dança - Templário
-Dança - Bruxa
-Coragem de Daresso
-Desafio de Daresso
-Paixão de Daresso
-Saudação de Daresso
-Carroça de Carga Escura
-Cristal Obscuro
-Mapa da Floresta Negra
-Soulercoaster Sombrio
-Vaso Negro
-Vetores do Raio Sombrio
-Desdém Sombrio
-Cetro de Lenhanegra
-Dardo Destroçado
+Sentinela Lâminado Quebrado
+Destroços de Sentinela Lâminado
+Lâmina Estilhaçada
+Roseta
+Pilar Ferroviário
 Peixe Morto
+Madeira Lascada
+Cadáveres
+Decoração Clássica de Parede
+Destroços de Igreja
+Espinhos Quebrados
+Amontoado de Videiras
+Cerca Ornamentada
+Cerca Ornamentada Quebrada
+Cerca Bruta
+Coluna
+Placa do Labirinto
+Interruptor de Parede
+Alavanca
+Estrutura de Porta
+Engrenagens
+Planta Papoula
+Planta Macrotaen
+Linho
+Plantas do Deserto
+Grama do Deserto
+Cáctus
+Planta Aloé
+Planta Agave
+Neblina D'Água
+Pilar Grande
+Lanterna
+Cano
+Tapete de Cabana
+Pedra Espiral
+Pilha Grande de Crânios
+Pilha de Crânios
+Saco de Gemas
+Cordas
+Prato
+Paliçada
+Brilho da Lava
+Espinhos
+Pedra
+Grama
+Fonte de Lava
+Cerca
+Cestas de Carne
+Cesta
+Carrinho de Mina
+Pedra da Mina
+Mineiro Fossilizado
+Mármore Corrompido
+Tenda
+Bandeira Destruída
+Carrinhos Destruídos
+Caixas Destruídas
+Barricada Desmoronada
+Confissão de Voll
+Poste de Escravos
+Carrinho de Escravos
+Poste
+Bandeiras do Fosso
+Cabeças Decepadas
+Cadáver de Pitbull
+Carrinho de Cadáveres
+Pilha de Animais
+Jaula de Animais
+Pilar Fino
+Destroços de Pilares
+Vaso de Flores
+Faixas Arenosas
+Carrapato
+Detritos Cirúrgicos
+Superfície
+Chifres Fétidos
+Parede de Espinhos
+Dragoeiro
+Raízes
+Espinha
+Dedicação de Malachai
+Partes do Corpo
+Grama Alienígena
+Olho
+Haste de Ovos
+Ovo
+Destroços de Cristal
+Névoa de Sangue (Amarela)
+Névoa de Sangue (Vermelha)
+Sangue e Osso
+Bolha
+Monstro Impalado
+Espinhos do Solo do Ventre
+Barco Grande do Aqueduto
+Trono Solaris
+Estátua Gárgula de Ouro
+Estátua Gárgula de Bronze
+Cristal de Gelo
+Vaca Sagrada
+Cão Sortudo
+Troféu do Desafiador
+Trono Verdejante
+Trono Infernal
+Trono Arcano
+Estátua do Leão Dourado
+Estátua do Leão Levantado
+Estátua do Leão Adormecido
+Estátua do Leão Sentado
+Estante de Elmos
+Estante de Armaduras
+Estante de Armas
+Estante de Armas Redonda
+Estante de Arcos
+Estante de Armaduras Completas
+Abóboras
+Dono do Teleporte
+Proximidade de Teleporte
+Teleportador
+Teleporte
+Feixe de Luz Largo
+Exilada
+Exilado
+Espinha do Esqueleto de Baleia
+Costelas Grandes do Esqueleto de Baleia
+Costelas do Esqueleto de Baleia
+Cabeça do Esqueleto de Baleia
+Ossos do Esqueleto de Baleia
+Nadadeiras do Esqueleto de Baleia
+Trono
+Pilares e Bandeira
+Portão Dourado
+Mesa
+Banca
+Colunas
+Tapete Vermelho
+Barras Douradas
+Árvore do Pântano
+Toco de Árvore do Pântano
+Altar Sacrificial
+Cocheira
+Tapete
+Choupana
+Braseiro Pendurado
+Poço de Fogo Baixo
+Parede de Grigor
+Tijolos
+Bigorna
+Pilar
+Jaula
+Barras de Prisão
+Pirâmide Vaal
+Pilar Vaal
+Selo Vaal
+Altar
+Arco Parede com Musgo
+Arco de Pedra
+Parede Baixa com Musgo
+Parede com Musgo
+Casa na Árvore
+Árvore com Teia
+Árvores Decoradas
+Árvore Decorada
+Árvores Espessas
+Árvore Seca
+Árvore da Floresta
+Obelisco
+Estátua de Leão
+Arcada de Pedra
+Restos do Farol
+Cartas
+Cabine
+Portão Paliçado
+Porta de Fortificação
+Enxame de Vespas
+Brilho Dourado
+Poço
+Parede da Igreja
+Ruínas do Santuário Caído
+Cascalho Grande da Cripta
+Vaso
+Pilar da Catacumba
+Pilar da Cripta
+Arco Grande da Parede da Igreja
+Portão da Parede da Igreja
+Baú Dourado
+Baú de Cobre
+Estátua Decaída
+Estátua Dourada
+Fortificação
+Fortificação Grande
+Pedras Grandes
+Ninho da Gaivota
+Ninho de Rhoa
+Arco do Mastro
+Arcada de Madeira Balsa
+Tora de Madeira Balsa
+Saco de Corpo
+Naufrágio
+Restos Grandes de Barco
+Restos de Barco
+Estandarte de Sekhema
+Kit de Encanamento
+Corrupção
+Partículas Corrompidas
+Espinho Empalador
+Arco do Templo
+Estátua de Pedra
+Estátua da Biblioteca
+Estátua Dourada Grande
+Estátua Dourada Média
+Estátua Grande Coberta
+Estátua Coberta
+Estátua de Oferenda Coberta
+Busto de Pedra
+Busto Dourado
+Aparelho de Tortura
+Construção da Favela
+Chuva
+Canos
+Mesinha
+Mesa de Jantar
+Triclínico
+Cadeira Altiva
+Cadeira de Jantar
+Energizador
+Transformador
+Aparelho de Extração
+Encanamento
+Gaiola Grande
+Gaiola Média
+Gaiola Pequena
+Arco Dourado
+Folhas Sopradas
+Árvore
+Arcada Pavimentada
+Esqueleto Gigante de Baleia
+Mesa de Estudos Bagunçada
+Exibição de Caveira
+Exibição de Esqueleto
+Vitrine
+Cadáveres Cobertos
+Pilha de Cadáveres Sangrentos
+Pilha de Cavia Porcellus
+Pilha de Cadáveres Emaciados
+Corpo Desmembrado
+Cadáver Sangrento
+Cavia Porcellus
+Cadáver Emaciado
+Cadeira Alta
+Pilar do Mercado
+Carta
+Parede Coberta
+Estrada Cortada
+Caminho
+Arco Coberto
+Tenda Grande
+Tenda Média
+Estandarte do Esconderijo do Grão-Mestre
+Estandarte do Esconderijo do Mestre
+Estandarte do Esconderijo do Trabalhador
+Estandarte do Esconderijo do Aprendiz
+Lareira
+Estrada de Ferro
+Vaso Vaal
+Baú Tribal
+Sarcófago
+Vaso Antigo
+Vaso Dourado
+Vaso Negro
+Cadáver Empalado
+Corpo Pendurado
+Enxame de Mosquitos
+Pernilongos
+Moscas
+Lesmas
+Domo de Energia
+Bola de Catapulta
+Tenda do Exército de Oriath
+Prateleiras Danificadas
+Carga Danificada
+Barris Danificados
+Carroça de Viagem
+Carroça de Carga Clara
+Carroça de Carga Escura
+Destroços de Carroça
+Árvore Ravenal
+Árvore Raphina
+Grupo de Palmeiras
+Árvore Exuberante
+Palmeira
+Bulbo de Palmeira
+Urna
+Mesa de Experimentos
+Filha do Carniceiro
+Dama de Ferro
+Bastonada
+Cadeira
+Berço Dourado
+Estoques
+Lâmpada em Pé
+Sofá-Cama
+Sofá
+Banqueta
+Luminária
+Cadeira Ornamentada
+Capacho
+Mesa Comprida
+Sofá-Cama Grande
+Chão
+Divisória
+Estante de Livros
+Bacia
+Estandarte
+Lâmpada Pendurada
+Mesa de Desenho
+Comida de Aranha
+Toco com Teias
+Restos com Teias
+Cerca da Favela
+Esqueleto
+Pintura
+Destroços do Cetro de Deus
+Gaiola
+Armário
+Penteadeira
+Mesa de Estudos
+Prateleira
+Poltrona
+Candelabro
+Pinha de Livros
+Livros Espalhados
+Sentinela Morto
 Guardião Morto
+Fita Morta
+Destroços de Favela
+Destroços Grandes de Favela
+Roca
+Corda
+Bastão de Metal
+Placa de Metal
+Raio
+Máquina
+Pilha de Lixo
+Disco
+Equipamento
+Carrinho
+Grua
+Raio Mental
+Munição de Catapulta
+Catapulta
+Barricada
+Bota de Ferro
+Caixão
+Estante
+Tábua de Ferramentas
+Tribuna
+Prateleira Grande
+Destroços da Prateleira
+Destroços do Mercado
+Lajes de Pedra Amontoada
+Lajes de Pedra Lisa
+Pedaços de Pedra Destruídos
+Pedaços de Pedra
+Parede
+Flores da Floresta
+Pilha de Soldados de Oriath Mortos
+Peças de Soldado de Oriath Morto
+Soldado de Oriath Sentado Morto
 Soldado de Oriath Morto
 Soldado de Elite de Oriath Morto
-Peças de Soldado de Oriath Morto
-Pilha de Soldados de Oriath Mortos
-Soldado de Oriath Sentado Morto
-Revolta dos Mortos
-Fita Morta
-Gaivota Morta
-Gaivota Morta no Palito
-Sentinela Morto
-Talismã da Mão Morta
-Mão do Morto
-A Morte
-Morte e Impostos
-Arco Mortífero
-Chocalho da Morte
-Pressa da Morte
-Porta da Morte
-Mão da Morte
-Arpa da Morte
-Juramento da Morte
-Opus da Morte
-Garrafa Spiritus
-Decapitação
-Estátua Decaída
-Arco Dizimador
-Árvore Decorada
-Árvores Decoradas
-Machado Decorativo
-Totem Chamariz
+Espada do Colosso
+Perna do Colosso
+Cabeça do Colosso
+Mão do Colosso
+Caixote de Armaduras de Oriath
+Suprimentos de Oriath
+Caixote de Armas de Oriath
+Caixote de Suprimentos de Oriath
+Barril do Exército de Oriath
+Brasas
+Mesa da Prisão
+Beliche
+Berço de Brutus
+Livros
+Cadeira Amplificadora
+Pilone Vaal
+Mobília Vaal
+Poço de Fogo Vaal
+Destroços Vaal
+Tumba
+Lápide
+Estátua Alada
 Cerca Decrépita
-Arco Curvo
-Talismã das Profundezas
-Botas de Couro de Cervo
-Luvas de Couro de Cervo
-Segue-Cervo
-Máscara do Deicídio
-Sino dos Mortos
-Rugido Mórbido
-Farol do Semideus
-Recompensa do Semideus
-Domínio do Semideus
-Olho do Semideus
-Presença do Semideus
-Passada do Semideus
-Toque do Semideus
-Triunfo do Semideus
-Adaga do Demônio
-Efeito Cutilada Mão de Demônio
-Mascote Mão de Demônio
-Armadura do Rei Demônio
-Botas do Rei Demônio
-Luvas do Rei Demônio
-Capacete do Rei Demônio
-Chifres do Rei Demônio
-Portal do Rei Demônio
-Asas do Rei Demônio
-Efeito do Turbilhão de Lâminas Demoníaco
-Efeito Explosão Flamejante Demoníaca
-Efeito Devastação Demoníaco
-Efeito Flecha Repartida Demoníaca
-Chifre de Demônio
-Pedra Grande da Toca
+Cabidela Velha
+Cabidela Fresca
+Pedra do Caminho
+Pedras de Oração
+Pau com Crânio
+Pedra da Floresta
+Moledro
+Porta Paliçada
+Monstro de Musgo
+Feixe de Luz Amarelo
+Folhas Caindo
+Marcador Vaal
 Estalagmites Grandes da Toca
-Pilar da Toca
-Pedra Pequena da Toca
 Estalagmites da Toca
-Destransformação de Jogador
-Profanar
-Cota de Placas do Deserto
-Grama do Deserto
-Mapa do Deserto
-Plantas do Deserto
-Estandarte Vermelho de Deshret
-Tormenta de Deshret
-Torno de Deshret
-Banca
-Machado do Déspota
-Destinado a Desmoronar
-Couraça do Destino
-Regalia do Destruidor
-Determinação
-Detonar Morto
-Detonar Minas
-Devoção de Devoto
-Marreta Devoradora
-Totem Devorador
-Cota de Malha do Devoto
-Couro de Dewath
-Frasco de Diamante
-Mascote Kiwi Diamante
-Anel de Diamante
-Cadeira de Jantar
-Mesa de Jantar
-Descarga
-Disciplina
-Efeito Disciplina Campo de Força
-Corpo Desmembrado
-Disjunção
-Disco
-Vitrine
-Divisória
-Divinarius
-Divinação Destilada
-Frasco de Vida Divino
-Frasco de Mana Divino
-Orbe Divino
-Mascote Rhoa Divino
-Efeito do Fogo da Justiça Divino
-Sinal Divino
-Efeito de Arma Divino
-NÃO USAR
-Danação de Doedre
-Elixir de Doedre
-As Loucuras de Doedre
-Escárnio de Doedre
-Posse de Doedre
-Golpe Dominador
-Flecha do Destino
-Flecha da Ruína
-Prisma da Flecha da Ruína
-Semeador da Ruína
-Doon Cuebiyari
-Estrutura de Porta
-Catalizador de Doryani
-Punho de Doryani
-Convite de Doryani
-Machado Duplo
-Garra Dupla
-Golpe Duplo
-Armadura Dracônica
-Botas Dracônicas
-Efeito Bola de Fogo Dracônica
-Luvas Dracônicas
-Capacete Dracônico
-Maça do Dragão
-Máscara Dracônica
-Lança Dracônica
-Rapieira de Osso de Dragão
-Botas de Escamas de Dragão
-Gibão de Escama de Dragão
-Manoplas de Escamas de Dragão
-Espada do Dragão
-Mesa de Desenho
-Marreta Horrenda
-Arcada do Pavor
-Fragmentos dos Sonhos
-Maça do Sonho
-Pena do Sonho
-Penteadeira
-Arcada de Madeira Balsa
+Pedra Pequena da Toca
+Pedra Grande da Toca
+Pilar da Toca
+Caldeirão
+Arbusto
+Bandeira
+Carroça
+Tocha
+Banqueta de Toco
+Pilha de Sucata
+Rhoa
+Linha de Cubas
+Banca de Peixes
+Madeira Cortada
+Baldes
+Barris
+Tumba da Cripta
+Mesa da Cripta
+Cascalho da Cripta
+Poço de Fogo da Cripta
+Tesouro da Caverna
+Lixo da Caverna
+Estalagmite da Caverna
+Pilar da Caverna
+Feixe de Luz Azul
+Vermes Brilhantes
+Espada no Chão
+Ponta do Litoral
+Neve
+Poluição Fétida
+Neblina Fantasmagórica
+Folha Canibal
+Gaivota Morta no Palito
+Gaivota Morta
+Rochas Litorâneas
+Destroços de Tábuas no Litoral
 Galhos de Madeira Balsa
-Clava de Madeira Balsa
-Tora de Madeira Balsa
-Marreta de Madeira Balsa
-Cetro de Madeira Balsa
-Escudo Cravado de Madeira Balsa
-Varinha de Madeira Balsa
-Fura-Pescoço
-Amuleto do Dr. Testapus
-Mapa da Península Árida
-Árvore Seca
-Mapa da Mata Seca
-Ataque Combinado
-Mapa das Dunas
-Mapa da Masmorra
-Lâmina do Anoitecer
-Dedúsculo
-Asa do Crepúsculo
-Amanhecer Dyadiano
-Dyadus
-Agonia Mortal
-Respiração Moribunda
-Garra de Águia
-Varinha Orbe da Águia
-Visual de Totem Águia Guardiã
-Bebedor da Terra
-Terremoto
-Treme-terra
+Fogueira Litorânea
+Partículas Fétidas de Ar
+Bancada do Gladiador
+Dispositivo do Mapa
+Bancada do Artesão
+Fonte de Bênçãos
+Esmeril
+Lápides
+Ferramentas do Fabricante de Arcos
+Bancada do Armeiro
+Fragmento da Hidra
+Fragmento da Quimera
+Fragmento do Minotauro
+Fragmento da Fênix
+Chave de Volkuur
+Chave de Inya
+Chave de Yriel
 Chave de Eber
-Efeito Chuva Explosiva de Ébano
-Efeito de Pegada Ébano
-Mascote Escorpião Ébano
-Efeito Arremesso Espectral Ébano
-Escudo Torre de Ébano
-Efeito de Arma Ébano
-Eclipse Solaris
-Cajado do Eclipse
-Lâmina de Borda
-Limite da Loucura
-Botas de Pele de Enguia
-Luvas de Pele de Enguia
-Túnica de Pele de Enguia
-Treino Eficiente
-Ovo
-Haste de Ovos
-Espada Anciã
-Conhecimento Ancião
-Florete Elegante
-Cota de Anéis Elegante
-Escudo Redondo Elegante
-Espada Elegante
+Pesar Mortal
+Ignorância Mortal
+Esperança Mortal
+Fúria Mortal
+Sacrifício ao Anoitecer
+Sacrifício ao Meio Dia
+Sacrifício ao Amanhecer
+Sacrifício à Meia Noite
+Marca das Assas do Guerreiro
+Mapa: Templo Vaal
+Reino do Criador
+Mapa: Fornalha da Fênix
+Mapa: Labirinto do Minotauro
+Mapa: Covil da Hidra
+Mapa: Fosso da Quimera
+Mapa: Ruína Coberta
+Mapa: Floresta Negra
+Mapa: Núcleo
+Mapa: Coliseu
+Mapa: Abismo
+Mapa: Vulcão
+Mapa: Nascentes
+Mapa: Altar
+Mapa: Palácio
+Mapa: Fontes Minerais
+Mapa: Dédalo
+Mapa: Canais
+Mapa: Aterro de Enxofre
+Mapa: Scriptorium
+Mapa: Praça
+Mapa: Grandes Jardins
+Mapa: Garganta
+Mapa: Lume
+Mapa: Covil
+Mapa: Forte
+Mapa: Estaleiro
+Mapa: Residência
+Mapa: Templo de Marfim
+Mapa: Planalto
+Mapa: Necrópole
+Mapa: Estuário
+Mapa: Crematório
+Mapa: Devastação
+Mapa: Mar Subterrâneo
+Mapa: Câmara de Tortura
+Mapa: Precinto
+Mapa: Escavação
+Mapa: Castelo
+Mapa: Bazar
+Mapa: Rio Subterrâneo Remodelado
+Mapa: Rio Subterrâneo
+Mapa: Terraço Remodelado
+Mapa: Terraço
+Mapa: Porto Remodelado
+Mapa: Porto
+Mapa: Malformação Remodelado
+Mapa: Malformação
+Mapa: Pátio Remodelado
+Mapa: Pátio
+Mapa: Arsenal Remodelada
+Mapa: Arsenal
+Mapa: Colunata Remodelada
+Mapa: Colunata
+Mapa: Templo Remodelado
+Mapa: Templo
+Mapa: Recife Remodelado
+Mapa: Recife
+Mapa: Esplanada Remodelada
+Mapa: Esplanada
+Mapa: Santuário Denso Remodelado
+Mapa: Santuário Denso
+Mapa: Pomar Remodelado
+Mapa: Pomar
+Mapa: Museu Remodelado
+Mapa: Museu
+Mapa: Cripta Remodelada
+Mapa: Cripta
+Mapa: Enseadas Remodeladas
+Mapa: Enseadas
+Mapa: Ilha Tropical Remodelada
+Mapa: Ilha Tropical
+Mapa: Litoral Remodelado
+Mapa: Litoral
+Mapa: Píer Remodelado
+Mapa: Píer
+Mapa: Atol Remodelado
+Mapa: Atol
+Mapa: Tumuli Remodeladas
+Mapa: Tumuli
+Mapa: Cemitério Remodelado
+Mapa: Cemitério
+Mapa: Brejo Remodelado
+Mapa: Brejo
+Mapa: Arena Remodelada
+Mapa: Arena
+Mapa: Ninho Aracnídeo Remodelado
+Mapa: Ninho Aracnídeo
+Mapa: Gêiser de Lama Remodelado
+Mapa: Gêiser de Lama
+Mapa: Mata Cinzenta Remodelada
+Mapa: Mata Cinzenta
+Mapa: Armaria Remodelada
+Mapa: Armaria
+Mapa: Celas Remodeladas
+Mapa: Celas
+Mapa: Catacumbas Remodeladas
+Mapa: Catacumbas
+Mapa: Ruínas do Castelo Remodeladas
+Mapa: Ruínas do Castelo
+Mapa: Tumba Aracnídea Remodelado
+Mapa: Tumba Aracnídea
+Mapa: Cais Remodelado
+Mapa: Cais
+Mapa: Cidade Vaal Remodelado
+Mapa: Cidade Vaal
+Mapa: Matagal Remodelado
+Mapa: Matagal
+Mapa: Costa Remodelada
+Mapa: Costa
+Mapa: Floresta da Aranha Remodelada
+Mapa: Floresta da Aranha
+Mapa: Fortaleza Remodelada
+Mapa: Fortaleza
+Mapa: Hipódromo Remodelado
+Mapa: Hipódromo
+Mapa: Pedreira Remodelada
+Mapa: Pedreira
+Mapa: Cânion Remodelado
+Mapa: Cânion
+Mapa: Torre Remodelada
+Mapa: Torre
+Mapa: Covil da Aranha Remodelado
+Mapa: Covil da Aranha
+Mapa: Lamaçal Primordial Remodelado
+Mapa: Lamaçal Primordial
+Mapa: Fosso Remodelado
+Mapa: Fosso
+Mapa: Mesa Remodelada
+Mapa: Mesa
+Mapa: Dunas Remodeladas
+Mapa: Dunas
+Mapa: Península Remodelada
+Mapa: Península
+Mapa: Câmaras Sepulcrais Remodeladas
+Mapa: Câmaras Sepulcrais
+Mapa: Lago Poluído Remodelado
+Mapa: Lago Poluído
+Mapa: Quinta Remodelada
+Mapa: Quinta
+Mapa: Fantasmagoria Remodelada
+Mapa: Fantasmagoria
+Mapa: Sepulcrário Remodelado
+Mapa: Sepulcrário
+Mapa: Masmorra Remodelada
+Mapa: Masmorra
+Mapa: Lagos Ácidos Remodelados
+Mapa: Lagos Ácidos
+Mapa: Academia Remodelada
+Mapa: Academia
+Mapa: Pirâmide Vaal Remodelada
+Mapa: Pirâmide Vaal
+Mapa: Esgoto Remodelado
+Mapa: Esgoto
+Mapa: Pântano Remodelado
+Mapa: Pântano
+Mapa: Gruta Remodelada
+Mapa: Gruta
+Mapa: Canal Remodelado
+Mapa: Canal
+Mapa: Caverna Remodelada
+Mapa: Caverna
+Mapa: Lago Árido Remodelado
+Mapa: Lago Árido
+Mapa: Oásis Remodelado
+Mapa: Oásis
+Mapa: Gueto Remodelado
+Mapa: Gueto
+Mapa: Fábrica Remodelada
+Mapa: Fábrica
+Mapa: Praia Remodelada
+Mapa: Praia
+Mapa: Vale da Selva Remodelado
+Mapa: Vale da Selva
+Mapa: Deserto Remodelado
+Mapa: Deserto
+Mapa: Reserva de Cristal Remodelada
+Mapa: Reserva de Cristal
+Mapa: Arcada Remodelada
+Mapa: Arcada
+Mapa: Dédalo 
+Mapa: Ruínas do Castelo
+Joia Prismática
+Joia Cobalto
+Joia Viridiana
+Joia Carmesin
+Suporte: Resfriamento de Armadilhas
+Suporte: Campo Minado
 Suporte: Foco Elemental
-Acerto Elemental
-Projéteis Elementais
+Chefe Guerreiro Ancestral
+Retalhador Ancestral
+Protetor Ancestral
+Turbilhão
+Disparo Congelante
+Ruptura
+Suporte: Grupo de Armadilhas
+Lâminas Sombrias
+Suporte: Decomposição Acelerada
+Suporte: Destruição Controlada
+Suporte: Manipulação do Vácuo
+Dreno de Essência
+Mangra
+Definhar
+Contágio
+Terremoto
+Suporte: Envenenar
+Relâmpago Justo
+Convocar Golem de Pedra
+Orbe das Tempestades
+Bomba de Gelo
+Turbilhão de Lâminas
+Corrente Estática
+Balista de Cerco
+Chuva de Lâminas
+Chuva Explosiva
+Tiro Estilhaçante
+Golpe Selvagem
+Armadilha de Gelo
+Suporte: Dano de Armadilha e Mina
+Orbe de Magma
+Suporte: Inervar
+Suporte: Hipotermia
+Suporte: Mordida Congelante
+Suporte: Fortificar
+Golpe Vigilante
+Lâminas de Gelo
+Rastro de Chamas
+Detonar Minas
+Clamor Abissal
+Clamor de Reagrupar
+Pancada de Gelo
+Suporte: Blasfêmia
+Convocar Golem de Raio
+Convocar Golem de Chamas
+Convocar Golem de Gelo
+Convocar Golem de Caos
+Suporte: Físico para Raio
+Toque de Deus
+Explosão Cinética
+Flecha Ilusória
+Flecha Espelhada
+Canal Relampejante
+Círculo Relampejante
+Tentáculos Relampejantes
+Marca do Larápio
+Arauto do Trovão
+Arauto do Gelo
+Arauto das Cinzas
+Arauto do Sangue
+Suporte: Generosidade
+Armadilha Relampejante Vaal
+Tiro Tornado
+Mina de Explosão de Fogo
+Explosão Flamejante Vaal
+...
+Fogo da Justiça Vaal
+Varrida Vaal
+Armadilha de Fogo Vaal
+Ímpeto Vaal
+Disciplina Vaal
+Graça Vaal
+Clareza Vaal
+Golpe Vulcânico
+Devastação Vaal
+Suporte: Redução de Chance de Bloqueio
+Chamado da Tempestade Vaal
+Convocar Esqueletos Vaal
+Martelo Glacial Vaal
+Golpe Duplo Vaal
+Golpe Pesado Vaal
+Golpe Relampejante Vaal
+Arremesso Espectral Vaal
+Estalo Gelado Vaal
+Chuva de Flechas Vaal
+Impacto Sísmico Vaal
+Detonar Morto Vaal
+Varinha Teleportadora
+Explosão Congelante Vaal
+Ciclone Vaal
+Sifão de Poder Vaal
+Chamado Imortal Vaal
+Teleporte Relampejante Vaal
+Escudo Flamejante Vaal
+Flecha Ardente Vaal
+Centelha Vaal
+Arco Vaal
+Bola de Fogo Vaal
+Convocação
+Cascata Glacial
+Oferenda Espiritual
+Oferenda de Ossos
+Oferenda de Carne
+Profanar
+Suporte: Iluminar
+Pulso de Chamas
+Convocar Espírito Furioso
+Suporte: Dano de Ataque de Projétil Físico
+Fogo Selvagem
+Mina do Turbilhão
+Esfera Relampejante
+Barragem
+Explosão Flamejante
+Chamado da Tempestade
+Pureza do Raio
+Pureza do Gelo
+Pureza do Fogo
+Suporte: Melhorar
+Animar Arma
+Suporte: Conjurar quando Atordoado
+Suporte: Conjurar ao Sofrer Dano
+Suporte: Conjurar ao Morrer
+Suporte: Menos Duração
+Suporte: Projéteis Lentos
+Arremesso Espectral
+Animar Guardião
+Suporte: Carga de Tolerância ao Atordoar em Corpo a Corpo
+Mina de Fumaça
+Armadilha Relampejante
+Suporte: Potencializar
+Suporte: Múltiplas Armadilhas
+Suporte: Conjurar ao Matar Corpo a Corpo
+Suporte: Conjurar no Acerto Crítico
+Devastação
+Suporte: Amaldiçoar ao Acertar
+Suporte: Resistências Elementais de Lacaios e Totens
+Suporte: Dano Incendiário Aumentado
+Ligação Cauterizadora
+Suporte: Carga de Poder no Crítico
+Suporte: Propagar Dano
+Suporte: Eco Mágico
+Suporte: Multi-ataque
+Ciclone
+Incinerar
+Condutividade
+Congelabilidade
+Flamabilidade
+Suporte: Projéteis Retornados
+Suporte: Difundir
+Suporte: Projéteis Divididos
+Suporte: Ricochete
+Suporte: Penetração de Raio
+Suporte: Penetração de Gelo
+Suporte: Penetração de Fogo
+Suporte: Totem de Ataque à Distância
+Suporte: Cegar
+Totem de Chamas
+Armadura Ártica
+Facas Etéreas
+Totem Devorador
+Totem Chamariz
+Armadilha de Fogo
+Suporte: Chance de Fugir
+Armadilha de Urso
+Armadilha de Conversão
+Mina Congelante
+Totem do Rejuvenescimento
+Totem de Onda de Choque
+Suporte: Mina Remota
+Suporte: Totem de Magia
+Suporte: Dano Corpo a Corpo com Vida Cheia
+Suporte: Vontade de Ferro
+Suporte: Empunhadura de Ferro
+Suporte: Queima-Roupa
+Suporte: Golpe Abatedor
+Suporte: WIP
+Clareza
+Suporte: Magia Sanguínea
 Suporte: Proliferação Elemental
+Flecha Ardente
+Ira
+Ódio
+Cólera
+Determinação
+Graça
+Disciplina
+Vitalidade
+Pureza dos Elementos
+Ímpeto
+Arco
+Flecha Relampejante
+Punctura
+Armadilha de Lâminas
+Sifão de Poder
+Escudo Flamejante
+Escudo da Tempestade
+Golpe Relampejante
+Tempestade de Fogo
+Suporte: Ganho de Vida no Acerto
+Suporte: Sanguinolência
+Suporte: Dano Elemental da Arma
+Suporte: Vida do Lacaio
+Suporte: Velocidade do Lacaio
+Suporte: Chance de Incendiar
+Suporte: Gelo a Fogo
+Suporte: Duração Aumentada
+Suporte: Dano do Lacaio
+Suporte: Efeito Concentrado
+Chuva de Flechas
+Golpe Dominador
+Golpe Pesado
+Acerto de Contas
+Vingança
+Ripostar
+Convocar Esqueletos
+Teleporte Relampejante
+Vulnerabilidade
+Fraqueza a Projéteis
+Marca do Assassino
+Debilitar
+NewPunishment
+Punição
+Marca do Senhor da Guerra
 Fraqueza Elemental
-Arma Elemental
-Armadura de Elite
-Botas de Elite
-Luvas de Elite
-Capacete de Elite
-Cadáver Emaciado
-Pilha de Cadáveres Emaciados
-Brasa Desperta
+Grilhões Temporais
+Flecha Explosiva
+Suporte: Conjuração Acelerada
+Suporte: Raridade de Itens
+Suporte: Quantidade de Itens
+Suporte: Dano Físico Corpo a Corpo
+Passo Etéreo
+Golpe da Víbora
+Raio de Energia
+Nova Explosão Elétrica
+Explosão Elétrica
+Pulso Congelante
+Parede de Gelo
+Martelo Glacial
+Golpe Infernal
+Evocar Espectro
+Suporte: Armadilha
+Suporte: Perfurar
+Lança de Gelo
+Suporte: Atordoar
+Centelha
+Ataque Tremeluzente
+Apunhalada Traiçoeira
+Correnteza
+Suporte: Dano Adicional de Caos
+Suporte: Dreno de Mana
+Suporte: Dreno de Vida
+Suporte: Empurrar
+Suporte: Dano Crítico Aumentado
+Suporte: Acertos Críticos Aumentados
+Suporte: Mana Reduzida
+Portal
+Descarga
+Arma de Fogo
+Fogo da Justiça
+Incendiar
+Gelofogo
+Fúria Sangrenta
+Infusão de Dano
+Suporte: Dano Adicional de Raio
+Suporte: Área de Efeito Aumentada
+Suporte: Precisão Adicional
+Suporte: Dano Adicional de Gelo
+Suporte: Projéteis Rápidos
+Suporte: Projéteis Múltiplos Menor
+Suporte: Projéteis Múltiplos Maior
+Suporte: Ataques Acelerados
+Suporte: Dano Adicional de Fogo
+Flecha Repartida
+Golpe Estático
+Tiro de Gelo
+Sopro Ártico
+Flecha Cáustica
+Tiro de Elite
+Detonar Morto
+Evocar Zumbi
+Estalo Gelado
+Frenesi
+Lâminas Giratórias
+Ataque Combinado
+Chamado Imortal
+Acerto Elemental
+Dilacerar
+Golpe Duplo
+Clamor Tolerante
+Investida com Escudo
+Cutilada
+Impacto Sísmico
+Varrida
+Ataque Carregado
+Salto Impactante
+Explosão Congelante
+Bola de Fogo
+Chave do Tesouro
+Chave Prateada
+Chave Dourada
+Livro de Habilidade
+Entranhas do Malachai
+Coração do Malachai
+Pulmões do Malachai
+Olho do Desejo
+Olho da Fúria
+Estandarte Vermelho de Deshret
+Emblema Taumético
+Ameixa de Chitus
+Garrafa Spiritus
+Página Dourada
+Busto de Marceus Lioneye
+Busto de Gaius Sentari
+Busto de Hector Titucius
+Esteatite Infernal
+Chaves do Esgoto
+Chave da Torre
+Carretel de Fita
+Bracelete de Tolman
+Sulfite Taumético
+Mão Dourada
+Gema Maligna
+Cravo de Maligaro
+O Ápice
+Amuleto do Oak
+Amuleto do Kraityn
+Amuleto da Alira
+Omnichama
+Baú de Remédios
+Glifo Roseu
+Glifo Amonita
+Glifo Halioti
+Livro da Regressão
+Livro da Reforma
+Livro dos Arrependimentos
+Orbe do Criador (Tier 10)
+Orbe do Criador (Tier 9)
+Orbe do Criador (Tier 8)
+Orbe do Criador (Tier 7)
+Orbe do Criador (Tier 6)
+Orbe do Criador (Tier 5)
+Orbe do Criador (Tier 4)
+Orbe do Criador (Tier 3)
+Orbe do Criador (Tier 2)
+Orbe do Criador (Tier 1)
+Aljava da Flecha Serrada
+Aljava de Flechas Pontudas
+Aljava de Flechas Penetrantes
+Aljava de Flechas de Ponta Larga
+Aljava de Flechas de Fogo
+Aljava de Flechas Cegas
+Aljava de Flechas de Dente de Tubarão
+Aljava de Flechas de Duas Pontas
+Aljava de Flechas Serrilhadas
+Aljava Leve
+Aljava Pesada
+Aljava Condutora
+Aljava Enrugada
+Aljava Curada
+Frasco de Bismuto
+Frasco de Prata
+Frasco de Enxofre
+Frasco de Estibina
+Frasco de Água-marinha
+Frasco de Basalto
+Frasco de Jade
+Frasco de Quartzo
+Frasco de Ametista
+Frasco de Mercúrio
+Frasco de Granito
+Frasco de Topázio
+Frasco de Safira
+Frasco de Rubi
+Frasco de Diamante
+Frasco Híbrido Consagrado
+Frasco Híbrido Sagrado
+Frasco Híbrido Colossal
+Frasco Híbrido Grande
+Frasco Híbrido Médio
+Frasco Híbrido Pequeno
+Frasco de Mana Eterno
+Frasco de Mana Divino
+Frasco de Mana Santificado
+Frasco de Mana Consagrado
+Frasco de Mana Sagrado
+Frasco de Mana Colossal
+Frasco de Mana Gigante
+Frasco de Mana Grandioso
+Frasco de Mana Maior
+Frasco de Mana Grande
+Frasco de Mana Médio
+Frasco de Mana Pequeno
+Frasco de Vida Eterno
+Frasco de Vida Divino
+Frasco de Vida Santificado
+Frasco de Vida Consagrado
+Frasco de Vida Sagrado
+Frasco de Vida Colossal
+Frasco de Vida Gigante
+Frasco de Vida Grandioso
+Frasco de Vida Maior
+Frasco de Vida Grande
+Frasco de Vida Médio
+Frasco de Vida Pequeno
+Luvas de Seda sem Dedos
+Luvas Aderentes
+Luvas de Espinhos
+Braçadeiras de Ouro
+Luvas do Assassinato
+Luvas do Assassino
+Luvas Carnais
+Luvas da Emboscada
+Luvas do Armadilheiro
+Luvas Afiveladas
+Luvas Amarradas
+Luvas Embrulhadas
+Luvas do Cruzado
+Luvas da Legião
+Luvas do Soldado
+Luvas do Zelote
+Luvas Rebitadas
+Luvas de Malha
+Luvas de Cota de Anéis
+Luvas de Cota
+Manoplas de Escamas de Dragão
+Manoplas de Escamas de Hidra
+Manoplas de Escamas de Wyrm
+Manoplas de Escamas de Serpente
+Manoplas de Escamas de Aço
+Manoplas de Escamas de Bronze
+Manoplas de Escamas de Ferro
+Manoplas de Escama de Peixe
+Luvas do Feiticeiro
+Luvas do Arcanista
+Luvas do Conjurador
+Luvas de Samito
+Luvas de Cetim
 Luvas Bordadas
-Máscara Esmeralda do Diabrete
+Luvas de Seda
+Luvas de Veludo
+Luvas de Lã
+Luvas da Fuga
+Luvas Furtivas
+Luvas de Chagrém
+Luvas de Pele de Tubarão
+Luvas de Pele de Enguia
+Luvas de Nobuk
+Luvas de Couro de Cervo
+Luvas de Couro de Cabra
+Luvas de Couro Cru
+Manoplas do Titã
+Manoplas Vaal
+Manoplas de Golias
+Manoplas Antigas
+Manoplas Arcaicas
+Manoplas de Aço
+Manoplas de Bronze
+Manoplas de Placas
+Manoplas de Ferro
+Botas de Dois Tons
+Sapatilhas Aviários
+Caligae Dourado
+Botas do Assassinato
+Botas do Assassino
+Botas Carnais
+Botas da Emboscada
+Botas do Armadilheiro
+Botas Acorrentadas
+Botas Afiveladas
+Botas Amarradas
+Botas Embrulhadas
+Botas do Cruzado
+Botas da Legião
+Botas do Soldado
+Botas do Zelote
+Botas Rebitadas
+Botas de Malha
+Botas de Cota de Anéis
+Botas de Cota
+Botas de Escamas de Dragão
+Botas de Escamas de Hidra
+Botas de Escamas de Wyrm
+Botas de Escamas de Serpente
+Botas de Escamas de Aço
+Botas de Escamas de Bronze
+Botas de Escamas de Ferro
+Botas de Escamas de Couro
+Botas do Feiticeiro
+Sapatilhas do Arcanista
+Botas do Conjurador
+Sapatilhas de Samito
+Sapatilhas de Cetim
+Botas do Erudito
+Sapatilhas de Seda
+Sapatilhas de Veludo
+Sapatos de Lã
+Botas de Fuga
+Botas Furtivas
+Botas de Chagrém
+Botas de Pele de Tubarão
+Botas de Pele de Enguia
+Botas de Nobuk
+Botas de Couro de Cervo
+Botas de Couro de Cabra
+Botas de Couro Cru
+Grevas de Kaom
+Grevas do Titã
+Grevas Vaal
+Grevas de Golias
+Grevas Antigas
+Grevas Arcaicas
+Grevas Reforçadas
+Grevas de Placas
+Grevas de Aço
+Grevas de Ferro
+Manto Dourado
+Traje Sacrificial
+Armadura Carnal
+Traje Sádico
+Vestes Sangrentas
+Casaco Envernizado
+Jaqueta da Sentinela
+Armadura da Cripta
+Traje Laqueado
+Vestes Carmesim
+Casaco Lustroso
+Jaqueta com Enchimento
+Armadura de Ossos
+Trajes Encerados
+Vestes Escarlates
+Casaco Lubrificado
+Jaqueta Acolchoada
+Colete Lubrificado
+Colete Acolchoado
+Cota de Malha Santificada
+Cota de Malha do Santo
+Cota de Anéis Elegante
+Cota de Malha da Conquista
+Cota de Anéis Loricada
+Cota de Malha do Devoto
+Cota de Correntes
+Cota de Anéis Ornamentada
+Cota de Malha do Cruzado
+Cota de Anéis Entrelaçados
+Cota de Malha Benta
+Cota de Malha
+Cota de Anéis
+Gibão de Cota de Malha
+Casaco de Cota de Anéis
+Túnica de Cota de Malha
+Colete de Cota de Malha
+Lamelar Triunfante
+Cota de Placas do General
+Cota de Escamas de Dragão
+Cota de Placas do Deserto
+Gibão de Escama de Dragão
+Lamelar de Batalha
+Cota de Placas do Comandante
+Cota de Escamas de Wyrm
+Cota de Placas do Hussardo
+Gibão de Escamas de Wyrm
+Lamelar de Campo
+Cota de Placas do Soldado
+Armadura de Escamas
+Cota de Placas de Infantaria
+Gibão de Escamas
+Cota de Placas Leve
+Colete de Escamas
+Regalia Vaal
+Robe da Viúva da Seda
+Vestes do Ocultista
+Sedas do Necromante
+Robe do Sábio
+Regalia do Destruidor
+Robe de Seda de Aranha
+Vestes do Conjurador
+Manto de Seda
+Robe do Filósofo
+Regalia Cabalística
+Robe de Seda
+Vestimenta do Magista
+Traje de Seda
+Robe do Erudito
+Colete de Seda
+Robe Simples
+Traje do Assassino
+Couraça do Zodíaco
+Couraça Requintada
+Couraça do Destino
+Túnica de Pele de Tubarão
+Traje do Degolador
+Couraça Coronal
+Couraça Gloriosa
+Couraça da Fronteira
+Túnica de Pele de Enguia
+Traje do Ladrão
+Couraça do Sol
+Couraça
+Couraça Selvagem
+Túnica de Camurça
+Couraça Amarrada
+Justilho Gasto
+Placas de Kaom
+Placas Gloriosas
+Placas do Gladiador
+Placas Astrais
+Placas do Cruzado
+Placas Douradas
+Placas Majestosas
+Placas do Coliseu
+Placas do Sol
+Placas de Batalha
+Placas de Bronze
+Placas Altivas
+Placas de Arena
+Placas
+Placas de Guerra
+Placas de Cobre
+Peitoral
+Colete de Placas
+Elmo Ósseo
+Grinalda Dourada
+Máscara do Deicídio
+Máscara Vaal
+Máscara do Arlequim
+Máscara do Regicida
+Máscara Insensível
+Máscara de Corvo
+Máscara Dourada
+Máscara Festiva
+Máscara de Ferro
+Máscara da Peste
+Máscara Assustadora
+Coroa do Pretor
+Coroa do Profeta
+Coroa do Magistrado
+Coroa Grande
+Elmo do Zelote
+Elmo com Malha
+Elmo do Cruzado
+Elmo Grande
+Elmo do Soldado
+Coifa Enferrujada
+Bascinet do Pesadelo
+Bascinet Cara de Porco
+Bascinet Estriado
+Elmo Laqueado
+Elmo de Esgrimista
+Elmo de Secutor
+Morrião Dourado
+Morrião com Viseira
+Morrião
+Elmo Batido
+Tiara da Arrogância
+Jaula Mental
+Tiara de Solaris
+Tiara do Necromante
+Tiara de Aço
+Tiara de Lunaris
+Tiara de Ossos
+Tiara Tribal
+Jaula de Tortura
+Tiara de Ferro
+Tiara de Videira
+Pele de Leão
+Pecador Tricorne
+Capuz de Seda
+Pele de Urso
+Tricorne Nobre
+Capuz do Caçador
+Pele de Lobo
+Capuz de Couro
+Tricorne
+Barrete de Couro
+Elmo Eterno com Visor
+Elmo Real com Visor
+Elmo Ezomita com Visor
+Elmo de Samito
+Elmo de Cerco
+Elmo do Assolador
+Elmo de Gladiador
+Elmo Fechado
+Elmo Barbute
+Elmo de Cone
+Chapéu de Ferro
+Chama Dourada
+Escudo Cravado Supremo
+Escudo Cravado Espelhado
+Escudo Cravado Ezomita
+Escudo Cravado do Amieiro
+Escudo Cravado da Soberania
+Escudo Cravado Polido
+Escudo Cravado de Composto
+Escudo Cravado de Pau-Brasil
+Escudo Cravado Ornamentado
+Escudo Cravado Tratado
+Escudo Cravado de Liga
+Escudo Cravado de Madeira Balsa
+Maço de Espinhos
+Escudo Pipa do Arconte
+Escudo Pipa Mosaico
+Escudo Pipa do Campeão
+Escudo Pipa Marcado
+Escudo Pipa Angelical
+Escudo Pipa Laminado
+Escudo Pipa de Aço
+Escudo Pipa Gravado
+Escudo Pipa Cerimonial
+Escudo Pipa em Camadas
+Escudo Pipa Reforçado
+Escudo Pipa de Tília
+Escudo Pipa de Tábua
+Escudo Redondo Elegante
+Escudo Redondo Cardeal
+Escudo Redondo Espinhoso
+Escudo Redondo de Teca
+Escudo Redondo Barroco
+Escudo Redondo Carmesim
+Escudo Redondo Cravado
+Escudo Redondo de Bordo
+Escudo Redondo Esplêndido
+Escudo Redondo Escarlate
+Escudo Redondo Cravejado
+Escudo Redondo de Abeto
+Escudo Redondo Apodrecido
+Escudo Espiritual de Titânio
+Escudo Espiritual Harmônico
+Escudo Espiritual Vaal
+Escudo Espiritual Fossilizado
+Escudo Espiritual de Plátano
+Escudo Espiritual de Tório
+Escudo Espiritual de Carrilhão
+Escudo Espiritual Antigo
+Escudo Espiritual de Marfim
+Escudo Espiritual de Nogueira
+Escudo Espiritual de Latão
+Escudo Espiritual Tilintante
+Escudo Espiritual Manchado
+Escudo Espiritual de Osso
+Escudo Espiritual de Teixo
+Escudo Espiritual de Ramo
+Broquel Imperial
+Broquel do Cruzado
+Broquel Vaal
+Broquel Laqueado
+Broquel de Pau-Ferro
+Broquel de Ouro
+Broquel de Batalha
+Broquel Enrugado
+Broquel Esmaltado
+Broquel de Carvalho
+Broquel Dourado
+Broquel de Guerra
+Broquel Martelado
+Broquel Pintado
+Broquel de Pinheiro
+Broquel de Couro de Cabra
+Escudo Torre Pinacular
+Escudo Torre Colossal
+Escudo Torre Ezomita
+Escudo Torre de Ébano
+Escudo Torre de Chagrém
+Escudo Torre Cristado
+Escudo Torre Cingido
+Escudo Torre de Bronze
+Escudo Torre de Mogno
+Escudo Torre de Camurça
+Escudo Torre Pintado
+Escudo Torre Reforçado
+Escudo Torre de Cobre
+Escudo Torre de Cedro
+Escudo Torre de Couro Cru
+Escudo Torre Corroído
+Escudo Torre Reduzido
+Obi Dourado
+Cinto de Cristal
+Cinto da Vanguarda
+Cinto Cravejado
+Cinto de Pano
+Cinto Pesado
+Cinto de Couro
+Cinto de Corrente
+Cinto Rústico
+Talismã do Lobo Grandioso
+Talismã das Três Mãos
+Talismã da Pata de Macaco
+Talismã da Pena Apodrecida
+Talismã do Dente Longo
+Talismã dos Gêmeos Macacos
+Talismã dos Três Ratos
+Talismã do Fuso Espinhal
+Talismã do Chifre
+Talismã da Mandíbula Dentada
+Talismã das Aves Gêmeas
+Talismã da Ninhada
+Talismã da Salamandra Partida
+Talismã da Garra do Licantropo
+Talismã do Crânio Primitivo
+Talismã da Garra Amaldiçoada
+Talismã Contorcido
+Talismã Crisálida
+Talismã da Mandíbula
+Talismã da Cabeça Pútrefa
+Talismã da Carne Imperecível
+Talismã da Mão Morta
+Talismã da Costela Quebrada
+Talismã das Profundezas
+Talismã da Galhada Solitária
+Talismã da Escama de Cinzas
+Talismã da Espiral de Ossos
+Talismã da Bocarra Negra
+Amuleto de Mármore
+Amuleto de Pérola Azul
+Amuleto de Azeviche
+Amuleto de Rubi
+Amuleto de Citrina
+Amuleto de Ágata
+Amuleto de Turquesa
+Amuleto de Ônix
+Amuleto de Ouro
+Amuleto de Lápis
+Amuleto de Jade
+Amuleto de Âmbar
+Amuleto Coral
+Amuleto Paua
+Anel de Opala
+Anel de Aço
+Anel de Azeviche
+Anel Desmontado
+Anel de Duas Pedras
+Anel de Diamante
+Anel de Ametista
+Anel de Pedraluna
+Anel Prismático
+Anel de Rubi
+Anel de Safira
+Anel de Topázio
+Anel de Ouro
+Anel de Paua
+Anel de Coral
+Anel de Ferro
+Aro Dourado
+Vara de Pescar
+Marreta Coronal
+Marreta do Terror
+Marreta Imperial
+Moedora de Carne
+Macetadora
+Malho do Colosso
+Marreta Karui
+Marreta Solar
+Marreta Horrenda
+Marreta de Placas
+Marreta Espinheira
+Cabeça-de-Aço
+Marreta Grande
+Marreta Totêmica
+Estrela D'alva
+Marreta do Pavor
+Marreta de Latão
+Marreta Cravada
+Martelo de Forja
+Malho
+Marreta Tribal
+Marreta de Madeira Balsa
+Lâmina Requintada
+Espada Infernal
+Espada Leonina
+Espada Larga Vaal
+Lâmina Ezomita
+Espada Assoladora
+Espada do Chefe
+Lâmina Delgada
+Espada Fantasma
+Espada do Tigre
+Espada Larga Entalhada
+Lâmina das Terras Altas
+Espada da Infantaria
+Espada do Açougueiro
+Lâmina Curvada
+Espada Espectral
+Espada Ornamentada
+Espada Grande Gravada
+Espada de Duas Mãos
+Espada Bastarda
+Espada Longa
+Lâmina Corroída
+Rasgacarne
+Machado do Além
+Machado do Déspota
+Machado Vaal
+Machado Ezomita
+Machado Desmembrador
+Cortador Karui
+Machado Garra
+Machado Abissal
+Machado Nobre
+Labrys
+Machado do Carrasco
+Machado Lenhador
+Corta-Jaspe
+Machado de Adagas
+Machado Sombrio
+Machado Dourado
+Machado Duplo
+Alabarda
+Cortador de Madeira
+Cortador de Jade
+Machado de Pedra
+Cajado do Eclipse
+Cajado do Julgamento
+Cajado Imperial
+Cajado do Turbilhão
+Cajado Ezomita
+Lathi
+Cajado Primordial
+Cajado da Lua
+Cajado Imundo
+Cajado do Nobre
+Cajado de Serpentina
+Cajado Militar
+Bastão de Ferro
+Cajado de Madeira
+Cajado Crescente
+Cajado Vil
+Cajado Real
+Cajado Enrolado
+Cajado de Ferro
+Cajado Longo
+Cajado Primitivo
+Ramo Torcido
+Arco Maraketh
+Arco do Mensageiro
+Arco Imperial
+Arco de Espinha
+Arco Assassino
+Arco da Caçadora
+Arco da Cidadela
+Arco do Matagal
+Arco de Pau-Aço
+Arco Dizimador
+Arco Nobre
+Arco de Marfim
+Arco do Franco-Atirador
+Arco Complexo
+Arco Curvo
+Arco do Bosque
+Arco do Reflexo
+Arco Mortífero
+Arco Real
+Arco Ósseo
+Arco Recurvo
+Arco Composto
+Arco Longo
+Arco Curto
+Arco Bruto
+Cetro de Sambar
+Cetro do Além
+Cetro Carnal
+Cetro Vaal
+Cetro de Platina
+Cetro de Opala
+Sekhem do Tirano
+Cetro Karui
+Cetro do Cervo
+Cetro Abissal
+Cetro Real
+Cetro Sanguinário
+Cetro de Chumbo
+Cetro de Cristal
+Sekhem
+Fetiche Sorridente
+Cetro Chifrudo
+Cetro Sombrio
+Cetro do Ritual
+Cetro de Ocre
+Cetro de Ferro
+Cetro de Quartzo
+Cetro de Bronze
+Cetro de Lenhanegra
+Cetro de Madeira Balsa
+Maça do Behemoth
+Maça do Pesadelo
+Maça Áurica
+Pernarca
+Martelo da Legião
+Martelo
+Amaciadora
+Clava Ancestral
+Maça do Dragão
+Maça Fantasma
+Maça Ornamentada
+Maça com Flange
+Martelo de Batalha
+Quebra-Pedra
+Maça Farpada
+Maça Petrificada
+Maça do Wyrm
+Maça do Sonho
+Maça Cerimonial
+Maça Laminada
+Martelo de Guerra
+Martelo de Pedra
+Clava Cravada
+Clava Tribal
+Clava de Madeira Balsa
+Espada do Dragão
+Rapieira da Harpia
+Florete Encrustado
+Rapieira Vaal
+Florete Espiralado
+Pecoraro
+Florete Temperado
+Rapieira de Osso de Dragão
+Espada da Corte
+Rapieira do Ápice
+Florete Extravagante
+Rapieira Primaveril
+Florete Serrilhado
+Estocada
+Florete Polido
+Rapieira de Osso de Wyrm
+Espada Pequena
+Rapieira de Espinho
+Florete Elegante
+Rapieira Arcaica
+Florete Dentado
+Rapieira de Cesta
+Florete Batido
+Rapieira de Osso de Baleia
+Espigão Enferrujado
+Gancho do Tigre
+Lâmina da Meia-Noite
+Espada Eterna
+Lâmina Vaal
+Espada da Legião
+Gládio
+Espada do Corsário
+Espada Gema
+Bengala de Tigre
+Lâmina do Crepúsculo
+Espada Graciosa
+Espada Anciã
+Espada de Batalha
+Baselardo
+Facão
+Lâmina Variscita
+Espada de Gancho
+Lâmina do Anoitecer
+Espada Elegante
+Espada Antiga
+Espada de Guerra
+Espada Larga
+Sabre
+Espada de Cobre
+Espada Enferrujada
+Machadinha Rúnica
+Machado Infernal
+Machado Real
+Machadinha Vaal
+Machado do Açougueiro
+Machado do Assolador
+Machado de Cerco
+Machado Karui
+Machadinha Gravada
+Machado do Espectro
+Machado Cerimonial
+Rachador de Tórax
+Machado de Guerra
+Corta-Pulso
+Tomahawk
+Machado de Jaspe
+Machadinha Entalhada
+Machado Espectral
+Machado Decorativo
+Machado Armado
+Machado Largo
+Cutelo
+Machado Revestido
+Machadinha de Jade
+Machadinha Enferrujada
+Garra dos Gêmeos
+Garra do Terror
+Garra Imperial
+Garra Vaal
+Cinzel de Olho
+Pata do Diabrete
+Fura-Goela
+Grande Garra Branca
+Garra Gêmea
+Garra de Águia
+Garra Nobre
+Garra Pré-histórica
+Estripador
+Pata do Tigre
+Cinzel
+Garra de Debulhador
+Garra Dupla
+Garra do Pavor
+Garra Brilhante
+Garra Desgastada
+Fura-Olhos
+Pata do Gato
+Sovela
+Garra de Dente de Tubarão
+Soqueira
+Sai
+Adaga do Demônio
+Sgian Imperial
+Kris Platina
+Adaga Ezomita
+Emboscador
+Faca da Matança
+Faca Estripadora
+Trishula
+Adaga Diabólica
+Sgian Real
+Kris Dourado
+Lâmina de Bota
+Punhal
+Faca de Açougueiro
+Faca Esfoladora
+Adaga Forcada
+Adaga do Diabrete
+Sgian
+Kris de Cobre
+Faca de Bota
+Estilete
+Faca Talhadeira
+Faca de Esfola
+Estoque de Vidro
+Varinha Profana
+Varinha da Profecia
+Varinha do Tornado
+Varinha de Opala
+Varinha Imbuída
+Chifre de Demônio
+Varinha Idólatra
+Varinha do Presságio
+Varinha da Serpente
+Varinha de Cristal
+Varinha Entalhada
+Chifre de Fauno
+Varinha Pagã
+Varinha do Sábio
+Varinha Espiralada
+Varinha de Quartzo
+Varinha Gravada
+Chifre de Cabra
+Varinha de Madeira Balsa
+Chave Laminada
+Caixa Misteriosa
+Transferência de Visual
+Mascote Mãos do Submundo
+Mascote Totens Inua
+Mascote Coelho
+Mascote Besouro
+Mascote Macaco de Navali
+Mascote Ararajuba
+Mascote Tigre Branco
+Mascote Sentinela Laminado
+Mascote Gárgula Amarantácea
+Mascote Gárgula Dourado
+Mascote Gárgula de Bronze
+Mascote Gárgula de Pedra
+Mascote Lobo
+Mascote Parasita
+Mascote Centopéia
+Mascote Lince Ártico
+Mascote Merveil
+Mascote Wallaby
+Bebê Elefante
+Magnus Rex
+Mascote Urso Coala
+Mascote Tartaruga
+Mascote Elemental de Pedra
+Mascote Pukeko
+Mascote Pavoa
+Mascote Pavão
+Mascote Lêmure
+Mascote Porco-Espinho
+Mascote Peru Selvagem
+Mascote Galinha
+Mascote Peste Negra Bebê
+Mascote Cabeça Rolante
+Mascote Rato Preto
+Mascote Verme Sangrento
+Mascote Marsupial da Cascata
+Mascote Enxame de Vaga-Lumes
+Mascote Enxame Fantasmagórico
+Enxame de Vaga-Lumes
+Mascote Cervo Formoso
+Mascote Aranha de Jardim
+Sapo Cururu Ômega
+Sapo Cururu Épsilon
+Sapo Cururu Delta
+Sapo Cururu Gama
+Sapo Cururu Beta
+Mascote Sapo
+Mascote Guaiamu
+Lagarto-Aranha
+Mascote Urso Formoso
+Mascote Barata
+Mascote Cobra
+Satoshi
+Sombra
+Mascote Lagarto com Sino
+Mascote Garemon
+Mascote Morcego Relampejante
+Mascote Raposa Infernal
+Mascote Mão de Demônio
+Mascote Gato Preto
+Mascote Furão
+Mascote Rhoa Eterno
+Mascote Rhoa Exaltado
+Mascote Rhoa Divino
+Mascote Rhoa Régio
+Mascote Rhoa
+Mascote Kiwi Albino
+Mascote Kiwi Diamante
+Mascote Kiwi Ouro
+Mascote Kiwi Prata
+Mascote Kiwi Bronze
+Mascote Kiwi
+Mascote Weta Sanguinário
+Mascote Weta Gigante
+Mascote Weta Colossal
+Mascote Weta
+Mascote Escorpião de Raio
+Mascote Escorpião Ácido
+Mascote Escorpião Infernal
+Mascote Escorpião
+Mascote Escorpião Marfim
+Mascote Escorpião Vermelho
+Mascote Escorpião Púrpura
+Mascote Escorpião Cromo
+Mascote Escorpião Ébano
+Mascote Sapo Misterioso
+Mascote Sapo Vermelho Real
+Mascote Sapo Vermelho
+Mascote Sapo Verde Real
+Mascote Sapo Verde
+Mascote Sapo Azul Real
+Mascote Sapo Azul
+Mascote Basilisco Espectral
+Mascote Basilisco Infernal
+Mascote Basilisco Verde
+Radiância Dourada
+Caminho Dourado
+Exportação do Grão-Mestre
+Efeito Pureza dos Elementos da Trindade
+Efeito Vitalidade da Carnificina
+Efeito Ímpeto do Diabrete
+Visual Totem Dragão
+Efeito Turbilhão Buraco Negro
+Efeito Disparo Congelante Buraco Negro
+Efeito Explosão Elétrica Vermes do Além
+Efeito Portal Sangrento
+Asas da Carnificina
+Elmo Cabeça de Cervo
+Elmo Cabeça de Javali
+Elmo Cabeça de Urso
+Asas Vampíricas
+Asas da Hidra
+Escudo da Carnificina
+Peitoral da Carnificina
+Luvas da Carnificina
+Botas da Carnificina
+Elmo da Carnificina
+Efeito Pegadas de Essência
+Efeito Portal de Essência
+Asas de Essência
+Efeito Arma da Fênix
+Efeito Arma da Quimera
+Efeito Arma da Hidra
+Efeito Arma do Minotauro
+Peitoral da Fênix
+Luvas da Fênix
+Botas da Fênix
+Elmo da Fênix
+Peitoral da Quimera
+Luvas da Quimera
+Botas da Quimera
+Elmo da Quimera
+Peitoral da Hidra
+Luvas da Hidra
+Botas da Hidra
+Elmo da Hidra
+Peitoral do Minotauro
+Luvas do Minotauro
+Botas do Minotauro
+Elmo do Minotauro
+Peitoral Lunaris
+Luvas Lunaris
+Botas Lunaris
+Elmo Lunaris
+Moldura do Avatar Fênix
+Moldura do Avatar Quimera
+Moldura do Avatar Hidra
+Moldura do Avatar Minotauro
+Efeito Arremesso Espectral Ceifador
+Asas Árticas
+Efeito Flecha Cáustica Tentacular
+Peitoral do Urso
+Luvas do Urso
+Botas do Urso
+Elmo do Urso
+Peitoral Eletrizante
+Luvas Eletrizantes
+Botas Eletrizantes
+Elmo Eletrizante
+Marreta Titã
+Machado Radiante
+Arma da Sereia
+Lança Dracônica
+Máscara Dracônica
+Peitoral Dracônico
+Luvas Dracônicas
+Botas Dracônicas
+Elmo Dracônico
+Peitoral das Trevas
+Luvas das Trevas
+Botas das Trevas
+Elmo das Trevas
+Efeito Arauto das Trevas
+Máscara da Mortalha
+Peitoral da Mortalha
+Luvas da Mortalha
+Botas da Mortalha
+Elmo da Mortalha
+Moldura do Avatar Prophecy
+Efeito Espírito Furioso do Corvo
+Asas das Trevas
+Efeito Portal do Rei Demônio
+Asas do Rei Demônio
+Efeito Portal da Profecia
+Efeito Arma da Profecia
+Efeito Pegadas da Profecia
+Escudo de Yaksha
+Adaga de Garuda
+Machado de Kacha
+Elmo de Naga
+Arma a Vapor
+Efeito Chuva Explosiva de Ébano
+Efeito Flecha Relampejante Sangrenta
+Efeito Armadilha de Gelo Flor Gélida
+Efeito Flecha Repartida Demoníaca
+Efeito Flecha Repartida Verdejante
+Efeito Terremoto Sangrento
+Efeito Ruptura Sangrenta
+Lâmina Radiante
+Escudo Radiante
+Peitoral Radiante
+Luvas Radiantes
+Botas Radiantes
+Elmo Radiante
+Ferro Quente
+Efeito do Portal de Perandus
+Efeito da Arma de Perandus
+Efeito das Pegadas de Perandus
+Coroa Ártica
+Efeito da Chuva de Lâminas Dourada
+Efeito do Contágio Arcano
+Efeito do Turbilhão de Lâminas Demoníaco
+Efeito Portal do Malachai
+Adaga Serafim
+Efeito Definhar Arcano
+Efeito Dreno de Essência Arcano
+Peitoral Ártico
+Luvas Árticas
+Botas Árticas
+Elmo Ártico
+Peitoral da Chama Fanstasmagórica
+Luvas da Chama Fanstasmagórica
+Botas da da Chama Fanstasmagórica
+Elmo da Chama Fanstasmagórica
+Efeito Arma do Ascendente
+Efeito Arma do Soberano
+Efeito Arma do Desafiador
+Efeito Arma do Aspirante
+Efeito Portal Ascendente
+Efeito Portal Soberano
+Efeito Portal Desafiador
+Efeito Portal Aspirante
+Moldura do Avatar Ascendente
+Moldura do Avatar Soberano
+Moldura do Avatar Desafiador
+Moldura do Avatar Aspirante
+Peitoral Sanguinário
+Luvas Sanguinárias
+Botas Sanguinárias
+Elmo Sanguinário
+Peitoral do Rigwald
+Luvas do Rigwald
+Botas do Rigwald
+Elmo do Rigwald
+Visual de Totem Zigurate
+Efeito Orbe de Magma Ácido
+Arauto das Cinzas Fantasmagórico
+Visual de Totem Águia Guardiã
+Evocar Espectro Estígio
+Totem Fantasmagórico
+Chapéu de Bruxa com Teia
+Efeito da Aura 4
+Efeito da Aura 3
+Efeito da Aura 2
+Efeito da Aura
+Efeito do Fogo da Justiça Divino
+Asas de Corvo
+Moldura do Avatar Highgate
+Moldura do Avatar Lunaris
+Moldura do Avatar Vaal
+Moldura do Avatar Axiom
+Efeito Arma Vaal
+Sangrador dos Vaal
+Efeito Arma Lunaris
+Precursor de Lunaris
+Efeito Arma Highgate
+Suserano de Highgate
+Efeito Arma Axiom
+Sombra de Axiom
+Efeito Arma do Despertar
+Peitoral Necrótica
+Luvas Necróticas
+Botas Necróticas
+Elmo Necrótico
+Peitoral Infernal
+Luvas Infernais
+Botas Infernais
+Elmo Infernal
+Efeito Arma Serafim Celeste
+Armadura do Rei Demônio
+Luvas do Rei Demônio
+Botas do Rei Demônio
+Elmo do Rei Demônio
+Parasita Facial
+Arco Serafim
+Efeito Flecha Espelhada e Ilusória Verdejante
+Acessório para Costas Motor Anexo a Vapor
+Peitoral de Gema
+Peitoral a Vapor
+Luvas a Vapor
+Botas a Vapor
+Elmo a Vapor
+Efeito Portal Ártico
+Efeito Ataque Tremeluzente Fantasma
+Efeito Ataque Tremeluzente Vapor
+Varinha a Vapor
+Varinha Ovo da Serpente
+Varinha Orbe da Águia
+Efeito Descarga Explosiva
+Máscara do Victario
+Máscara do Ondar
+Máscara da Marylene
+Chapéu de Bruxa
+Cabeça de Abóbora
+Escudo Serafim
+Caveira Sanguinária
+CapaceteCrânio2_4
+CapaceteCrânio2_3
+CapaceteCrânio2_2
+CapaceteCrânio2_1
+Efeito Explosão Flamejante Demoníaca
+Efeito Devastação Demoníaca
+Efeito Lança de Gelo Peixe-Espada
+Máscara Kaom
+Asas de Hussardo
+Machado de Navalha
+Auréola Argêntea do Desafiante
+Auréola Dourada do Desafiante
+Espada Serafim
+Luvas do Grão-Mestre
+Botas do Grão-Mestre
+Elmo do Grão-Mestre
+Peitoral do Grão-Mestre
+Luvas do Mestre
+Botas do Mestre
+Elmo do Mestre
+Peitoral Mestre
+Luvas do Trabalhador
+Botas do Trabalhador
+Elmo do Trabalhador
+Peitoral do Trabalhador
+Luvas do Aprendiz
+Botas do Aprendiz
+Elmo do Aprendiz
+Peitoral do Aprendiz
+Máscara de Lioneye
+Arco do Desafio
+Arco da Coragem
+Lâmina Rúnica
+Marreta Devoradora
+Machado do Gárgula
+Espada da Cripta
+Garra da Serpente
+Emblema das Caveiras
+Emblema do Regozijo
+Emblema da Angústia
+Acessório para Costas Estandarte do Grão-Mestre
+Acessório para Costas Estandarte do Mestre
+Acessório para Costas Estandarte do Trabalhador
+Acessório para Costas Estandarte do Aprendiz
+Bandana
+Redemoinhos Sombrios
+Fogos de Artifício de Carnaval
+Efeito Aurora Boreal
+Fogos de Artifício Sanguinários
+Fogos de Artifício Vermelho, Azul e Branco
+Fogos de Artifício Vermelho e Branco
+Fogos de Artifício da Vitória
+Asas Tentaculares
+Asas do Serafim
+Chifres Ritualísticos da Emboscada
+Chifres Ritualísticos da Invasão
+Elmo Verdejante
+Luvas Verdejantes
+Botas Verdejantes
+Peitoral Verdejante
+Elmo Vampírico
+Luvas Vampíricas
+Botas Vampíricas
+Peitoral Vampírico
+Elmo Arcano
+Luvas Arcanas
+Botas Arcanas
+Peitoral Arcano
+Elmo Serafim Sanguinário
+Luvas Serafim Sanguinário
+Botas Serafim Sanguinárias
+Peitoral Serafim Sanguinário
+Elmo Serafim Obsidiano
+Luvas Serafim Obsidianas
+Botas Serafim Obsidianas
+Peitoral Serafim Obsidiano
+Elmo Serafim Dourado
+Luvas Serafim Douradas
+Botas Serafim Douradas
+Peitoral Serafim Dourado
+Elmo Serafim Cerúleo
+Luvas Serafim Cerúleas
+Botas Serafim Cerúleas
+Peitoral Serafim Cerúleo
+Luvas Serafim de Alabastro
+Elmo Serafim de Alabastro
+Botas Serafim de Alabastro
+Peitoral Serafim de Alabastro
+Luvas de Elite
+Elmo de Elite
+Botas de Elite
+Peitoral de Elite
+Elmo Serafim
+Luvas Serafim
+Botas Serafim
+Peitoral Serafim
+Moldura do Avatar Grão-Mestre
+Moldura do Avatar Mestre
+Moldura do Avatar Trabalhador
+Moldura do Avatar Conquistador
+Moldura do Avatar Campeão
+Moldura do Avatar Guerreiro
+Efeito Portal do Criador
+Efeito Portal Campanha do Conquistador 
+Efeito Portal Chegada do Campeão 
+Efeito Portal Assalto do Guerreiro 
+Efeito Portal Descanso do Sobrevivente 
+Efeito Portal Buraco Negro
+Efeito Portal Vácuo
+Efeito Portal a Vapor
+Efeito Portal Steam
+Efeito Portal Carmesim
+Efeito Portal Laranja
+Acessório para Costas Reino do Conquistador
+Acessório para Costas Hora do Campeão 
+Acessório para Costas Marca do Guerreiro 
+Acessório para Costas Suprimentos do Sobrevivente 
+Acessório para Costas da Sacola de Presentes de Feriado
+Acessório para Costas Essenciais do Exilado 
+Caveira Dourada
+Caveira do Verão
+Caveira Ornamental
+Caveira Cristalizada
+Caveira Esculpida
+Caveira Fantasmagórica
+Efeito Pegada Fantasmagórica
+Efeito Pegadas Verdejantes
+Efeito Pegada Ceifadora
+Efeito Pegada Serafim
+Efeito Pegadas Razer
+Efeito Pegada Sanguinária
+Efeito Pegada Necrótica
+Efeito Pegada Radiante
+Efeito Pegada Vampírica
+Efeito Pegada Ébano
+Efeito Pegada Ártica
+Efeito Pegada Relampejante
+Efeito Pegada Infernal
+Efeito Arma da Carnificina
+Efeito Arma Fantasmagórica
+Efeito Arma Serafim
+Efeito Arma Relampejante
+Efeito Arma Infernal
+Efeito Arma Ártica
+Efeito Arma Eterna
+Efeito Arma Exaltada
+Efeito Arma Divina
+Efeito Arma Real
+Efeito Arma Marfim
+Efeito Arma Coração dos Namorados (2015)
+Efeito Arma Coração dos Namorados (2014)
+Efeito Arma Coração dos Namorados (2013)
+Efeito Arma Amarela
+Efeito Arma Branca
+Efeito Arma Carmesim
+Efeito Arma Lavanda
+Efeito Arma Esmeralda
+Efeito Arma Azul-Celeste
+Efeito Arma Ébano
+Efeito Arma Turquesa
+Efeito Arma Vampírica
+Efeito Arma Necrótica
+Efeito Arma Verdejante
+Efeito Arma Ácida
+Efeito Arma Arcana
+Efeito Arma Radiante
+Efeito Espírito Furioso Fantasmagórico
+Efeito Clareza Poço da Alma
+Efeito Cascata Glacial Sanguinária
+Efeito Explosão Congelante Ártica
+Efeito Chamado da Tempestade Tribal
+Efeito Totem Olmeca
+Efeito Arremesso Espectral Serafim
+Efeito Arremesso Espectral Ébano
+Efeito Arremesso Espectral Dourado
+Efeito Ódio da Caveira Ártica
+Efeito Cólera da Caveira Infernal
+Efeito Fúria da Caveira Relampejante
+Efeito Disciplina Campo de Força
+Efeito Cutilada Mão Demoníaca
+Efeito Ligação Cauterizadora Verde
+Armadura Ártica Nuvem da Tempestade
+Ciclone Azul
+Ciclone Branco
+Ciclone Serrador
+Incinerar de Chama Azul
+Visual de Totem Tiki
+Efeito Aranhas Centelha
+Efeito Estrelas Etéreas
+Efeito Aperto Gélido
+Efeito Explosão Aquática
+Teleporte de Base
+Efeito Tempestade de Fogo de Cerco
+Totem Alternativo
+Evocar Zumbi Alternativo
+Evocar Espectro Alternativo
 Efeito Chuva de Flechas Esmeralda
-Efeito Flecha Repartida Esmeralda
-Efeito de Arma Esmeralda
-Imperador da Pureza
-Astúcia do Imperador
-Sorte do Imperador
+Efeito Bola de Fogo Dracônica
+Impacto Sanguíneo
+Portal Carmesim
+Visual de Evocar Múmia
+Visual de Convocar Estátuas Masculinas de Ouro
+Visual de Convocar Estátuas Femininas de Ouro
+Visual de Convocar Estátuas Masculinas de Pedra
+Visual de Convocar Estátuas
+Lápide Profana
+Armadura do Titã
+Máscara Angelical
+Máscara do Guardião
+Caveira Relampejante
+Caveira Ártica
+Máscara Carmesim do Diabrete
+Máscara Dourada do Diabrete
+Máscara Azul-Celeste do Diabrete
+Máscara Lavanda do Diabrete
+Máscara Esmeralda do Diabrete
+Máscara Turquesa do Diabrete
+Caveira Infernal
+Chapéu do Peregrino Ornamentado
+Chapéu do Peregrino
+Cobras da Medusa
+Decapitação
+Capuz da Caveira
+Moicano Serrilhado
+Efeito Coroa Brilhante
+Chifres do Rei Demônio
+Chifres Torcidos
+Galhada
+Amuleto Espiritual
+Sinal Divino
+Asas Vitoriosas
+Penas Brilhantes
+Asas Prateadas
+Marca da Fênix
+Coroa de Gelo
+Chifres Curvados
+Chifres Dobrados
+Auréola Áurea
+Auréola de Cobalto
+Fisionomia Ardente
+Recuperar Efeito Cosmético
+Tintura da Invisibilidade
+Efeito Arma Sangue nos Olhos
+Sangue nos Olhos
+Sanguinolência Extra
+Dança - Herdeira
+Dança - Bruxa
+Dança - Templário
+Dança - Sombra
+Dança - Caçadora
+Dança - Marauder
+Dança - Duelista
+Reembolso de Habilidade Passiva
+Orbe Desmodelador
+Selo do Cartógrafo Mestre
+Selo do Cartógrafo Trabalhador
+Selo do Cartógrafo Aprendiz
+Sextante do Cartógrafo Mestre
+Sextante do Cartógrafo Trabalhador
+Sextante do Cartógrafo Aprendiz
+Resquício de Corrupção
+Essência do Delírio
+Essência do Horror
+Essência da Insanidade
+Essência da Histeria
+Essência da Inveja Ensurdecedora
+Essência da Inveja Berrante
+Essência da Inveja Gritante
+Essência do Desprezo Ensurdecedora
+Essência do Desprezo Berrante
+Essência do Desprezo Gritante
+Essência do Pavor Ensurdecedora
+Essência do Pavor Berrante
+Essência do Pavor Gritante
+Essência da Miséria Ensurdecedora
+Essência da Miséria Berrante
+Essência da Miséria Gritante
+Essência do Zelo Ensurdecedora
+Essência do Zelo Berrante
+Essência do Zelo Gritante
+Essência do Zelo Lamentante
+Essência do Rancor Ensurdecedora
+Essência do Rancor Berrante
+Essência do Rancor Gritante
+Essência do Rancor Lamentante
+Essência da Repugnância Ensurdecedora
+Essência da Repugnância Berrante
+Essência da Repugnância Gritante
+Essência da Repugnância Lamentante
+Essência da Agonia Ensurdecedora
+Essência da Agonia Berrante
+Essência da Agonia Gritante
+Essência da Agonia Lamentante
+Essência da Hesitação Ensurdecedora
+Essência da Hesitação Berrante
+Essência da Hesitação Gritante
+Essência da Hesitação Lamentante
+Essência da Hesitação Lacrimejante
+Essência da Ira Ensurdecedora
+Essência da Ira Berrante
+Essência da Ira Gritante
+Essência da Ira Lamentante
+Essência da Ira Lacrimejante
+Essência da Raiva Ensurdecedora
+Essência da Raiva Berrante
+Essência da Raiva Gritante
+Essência da Raiva Lamentante
+Essência da Raiva Lacrimejante
+Essência do Sofrimento Ensurdecedora
+Essência do Sofrimento Berrante
+Essência do Sofrimento Gritante
+Essência do Sofrimento Lamentante
+Essência do Sofrimento Lacrimejante
+Essência do Medo Ensurdecedora
+Essência do Medo Berrante
+Essência do Medo Gritante
+Essência do Medo Lamentante
+Essência do Medo Lacrimejante
+Essência do Medo Murmurante
+Essência do Tormento Ensurdecedora
+Essência do Tormento Berrante
+Essência do Tormento Gritante
+Essência do Tormento Lamentante
+Essência do Tormento Lacrimejante
+Essência do Tormento Murmurante
+Essência da Cólera Ensurdecedora
+Essência da Cólera Berrante
+Essência da Cólera Gritante
+Essência da Cólera Lamentante
+Essência da Cólera Lacrimejante
+Essência da Cólera Murmurante
+Essência da Mágoa Ensurdecedora
+Essência da Mágoa Berrante
+Essência da Mágoa Gritante
+Essência da Mágoa Lamentante
+Essência da Mágoa Lacrimejante
+Essência da Mágoa Murmurante
+Essência da Desgraça Ensurdecedora
+Essência da Desgraça Berrante
+Essência da Desgraça Gritante
+Essência da Desgraça Lamentante
+Essência da Desgraça Lacrimejante
+Essência da Desgraça Murmurante
+Essência da Desgraça Sussurrante
+Essência da Ganância Ensurdecedora
+Essência da Ganância Berrante
+Essência da Ganância Gritante
+Essência da Ganância Lamentante
+Essência da Ganância Lacrimejante
+Essência da Ganância Murmurante
+Essência da Ganância Sussurrante
+Essência da Angústia Ensurdecedora
+Essência da Angústia Berrante
+Essência da Angústia Gritante
+Essência da Angústia Lamentante
+Essência da Angústia Lacrimejante
+Essência da Angústia Murmurante
+Essência da Angústia Sussurrante
+Essência do Ódio Ensurdecedora
+Essência do Ódio Berrante
+Essência do Ódio Gritante
+Essência do Ódio Lamentante
+Essência do Ódio Lacrimejante
+Essência do Ódio Murmurante
+Essência do Ódio Sussurrante
+Profecia
+Moeda de Prata
+Moeda de Perandus
+Encantar
+Orbe Vaal
+Gravação
+Orbe Eterno
+Pena de Rhoa Albino
+Estilha de Alquimia
+Estilha de Alteração
+Estilha de Transmutação
+Fragmento de Pergaminho
+Cinzel do Cartógrafo
+Orbe Abençoado
+Orbe Divino
+Orbe do Joalheiro
+Orbe da Fusão
+Orbe Cromático
+Prisma do Lapidário
+Bugiganga do Vidreiro
+Pergaminho de Portal
+Orbe de Ampliação
+Orbe Real
+Orbe Exaltado
+Orbe do Expurgo
+Orbe de Alteração
+Orbe de Transmutação
+Orbe do Arrependimento
+Orbe da Chance
+Orbe da Alquimia
+Espelho de Kalandra
+Sucata do Armeiro
+Orbe do Caos
+Pergaminho de Sabedoria
+Amolador do Ferreiro
+Terras Sagradas
+Urna de Atziri
+O Claustro Pútrido
+Sol Moribundo
+Infusão das Bruxas em Chamas
+A Marca do Carcereiro
+Toque do Criador
+Caminhante do Vazio
+Fome Eterna
+Forja Estelar
+Maldade de Cospri
+O Flagelo
+Ninho das Cobras
+Obscurantis
+Língua das Serpentes
+Olho da Inocência
+Navalha do Sétimo Sol
+Brandir Cerebral
+A Cúpula de Bronze
+Valyrium
+Orgulho de Kondo
+Praxis
+Caminho de Kaom
+A Oferenda da Mandíbula da Praga
+Fuga da Rainha
+Destruidor do Reino
+Vara da Amplificação
+Lamúria de Hrimnor
+A Tempestade
+Galho de Prata
+Prisma da Flecha da Ruína
+O Cauterizador
+O Grifo
+Alma de Kalten
+O Carvalho
+Sede por Horrores
+Rugido Mórbido
+Posse Ezomita
+Coroa do Mártir
+Queima-Hrim
+Ngamahu Tiki
+O Fogo Sinalizador
+Queda do Penhasco
+Coração Vazio
+Suspiro do Concelho
+Extensão do Concelho
+Porta da Morte
+TrapperBodyTempName
+Determinação de Kiara
+Punho do Concelho
+A Pedra do Aprendizado
+Conflito
+O Ascético
+Desejo de Copri
+Opus da Morte
+Gambito de Shavronne
+Muro de Espinhos
+Avanço Karui
+Visão de Malachai
+Visão de Voll
+Forma Primordial
+Lycosidae
+Miragem de Ewar
+Sem Punho
+Pele Espiritual
+Toque da Angústia
+Fúria do Oprimido
+Marcha Estrondosa
+Kintsugi
+Aríetes de Veruso
+Presente de Saemus
+Scaeva
+Sede de Kitava
+Visão de Hinekora
+Mente do Concelho
+Ascensão da Carne
+Espectro Grandioso
+Manto de Tawm'r Isley
+A Cremalheira
+Agressão em Três Passos
+Carta Sangrenta
+Asa do Crepúsculo
+Gume de Innsbury
+A Mansão de Perandus
+Bondade de Victario
 Maestria do Imperador
 Poder do Imperador
 Talento do Imperador
-Agarrada do Império
-Suporte: Potencializar
-Aparato Empyreano
-Broquel Esmaltado
-Encantar
-Suporte: Carga de Tolerância ao Atordoar em Corpo a Corpo
-Clamor Tolerante
-Armadura Energizada
-Energizador
-Raio de Energia
-Domo de Energia
-Energia Interna
-Debilitar
-Espada Larga Entalhada
-Machadinha Gravada
-Caveira Esculpida
-Varinha Entalhada
-Suporte: Melhorar
-Suporte: Iluminar
-Fio Efêmero
-Dreno de Essência
-Verme da Essência
-Essentia Sanguis
-Estocada
-Espada Grande Gravada
-Machadinha Entalhada
-Escudo Pipa Gravado
-Elmo Eterno com Visor
-Frasco de Vida Eterno
-Frasco de Mana Eterno
-Orbe Eterno
-Mascote Rhoa Eterno
-Espada Eterna
-Efeito de Arma Eterno
-Facas Etéreas
-Efeito Estrelas Etéreas
-Miragem de Ewar
-Orbe Exaltado
-Mascote Rhoa Exaltado
-Efeito de Arma Exaltado
-Mapa da Escavação
-Exilado
-Exilada
-Acessório para Costas Essenciais do Exilado 
-Mesa de Experimentos
-Flecha Explosiva
-Lâmina Requintada
-Couraça Requintada
-Sanguinolência Extra
-Aparelho de Extração
-Extrator de Mentes
-Olho
-Cinzel de Olho
-Olho de Chayula
-Olhos do Lobo Grandioso
-Machado Ezomita
-Lâmina Ezomita
-Elmo Ezomita com Visor
-Adaga Ezomita
-Posse Ezomita
-Pico Ezomita
-Escudo Cravado Ezomita
-Cajado Ezomita
-Escudo Torre Ezomita
-Parasita Facial
-Quebra-Cara
-Atitude de Fairgraves
-Tricorne de Fairgraves
-Folhas Caindo
-Fim da Fome
-Florete Extravagante
-Talismã da Mandíbula Dentada
-Suporte: Ataques Acelerados
-Suporte: Conjuração Acelerada
-Suporte: Projéteis Rápidos
-Chifre de Fauno
-Fim do Banquete
-Ruínas do Santuário Caído
-Caidente
-Fêmures dos Santos
-Cerca
-Elmo de Esgrimista
-Bobina do Charco
-Mascote Furão
-Mente Fértil
-Máscara Festiva
-Partículas Fétidas de Ar
-Poluição Fétida
-Mente Febril
-Cravo de Fidelitas
-Lamelar de Campo
-Adaga Diabólica
-Fisionomia Ardente
-Escudo Redondo de Abeto
-Aljava de Flechas de Fogo
-Mina de Explosão de Fogo
-Suporte: Penetração de Fogo
-Armadilha de Fogo
-Arma de Fogo
-Bola de Fogo
-Nascido do Fogo
-Enxame de Vaga-Lumes
-Mascote Enxame de Vaga-Lumes
-Lareira
-Tempestade de Fogo
-Banca de Peixes
-Vara de Pescar
-Manoplas de Escama de Peixe
-Bandeira
-Rastro de Chamas
-Pulso de Chamas
-Totem de Chamas
-Explosão Flamejante
-Flamabilidade
-Maça com Flange
-Efeito Descarga Labareda
-Lajes de Pedra Lisa
-Linho
-Faca Esfoladora
-Corpo e Espírito
-Oferenda de Carne
-Devoradora de Carne
-Rasgacarne
-Ataque Tremeluzente
-Moscas
-Chão
-Vaso de Flores
-Movimento Fluido
-Bascinet Estriado
-Enxame de Mosquitos
-Espada da Infantaria
-Sabor Proibido
-Flores da Floresta
-Pedra da Floresta
-Árvore da Floresta
-Suporte: Difundir
-Mascote Urso Formoso
-Mascote Cervo Formoso
-Fortificação
-Porta de Fortificação
-Suporte: Fortificar
-Escudo Espiritual Fossilizado
-Mineiro Fossilizado
-Cajado Imundo
-Sombra da Raposa
-Florescer Frágil
-Fragilidade
-Fragmento da Eternidade
-Mina Congelante
-Pulso Congelante
-Frenesi
-Cabidela Fresca
-Garra do Pavor
-Marreta do Pavor
-Couraça da Fronteira
-Lâminas de Gelo
-Bomba de Gelo
-Geleira Intacta
-Parede de Gelo
-Congelabilidade
-Disparo Congelante
-Hálito Gélido
-Efeito Armadilha de Gelo Flor Gélida
-Estante de Armaduras Completas
-Cota de Malha
-Cota de Escamas de Dragão
-Couraça
-Placas
-Cota de Anéis
-Armadura de Escamas
-Cota de Escamas de Wyrm
-Riposta de Galla
-Momento da Gangue
-Estátua Dourada
-Mascote Garemon
-Machado do Gárgula
-Adaga de Garuda
-Martelo
-Equipamento
-Prisma do Lapidário
-A Promessa do Lapidário
-Garra dos Gêmeos
-Armadura de Gema
-Espada Gema
-Cota de Placas do General
-Suporte: Generosidade
-Batismo de Geofri
-Elmo de Geofri
-Santuário de Geofri
-Mapa do Gueto
-Efeito Ataque Tremeluzente Fantasma
-Armadura da Chama Fanstasmagórica
-Botas da da Chama Fanstasmagórica
-Efeito de Totem Chama Fantasmagórica
-Efeito de Pegada Chama Fantasmagórica
-Luvas da Chama Fanstasmagórica
-Capacete da Chama Fanstasmagórica
-Chama Fantasmagórica Arauto das Cinzas
-Efeito Espírito Furioso da Chama Fantasmagórica
-Caveira da Chama Fantasmagórica
-Mascote Enxame de Chama Fantasmagórica
-Efeito de Arma Chama Fantasmagórica
-Neblina Fantasmagórica
-Fantasmarcha
-Frasco de Vida Gigante
-Frasco de Mana Gigante
-Mascote Weta Gigante
-Esqueleto Gigante de Baleia
-O Presente da Rainha Gemante
-Presentes do Céu
-Machado Dourado
-Broquel Dourado
-Berço Dourado
-Morrião Dourado
-Escudo Torre Cingido
-Cascata Glacial
-Martelo Glacial
-Capacete de Gladiador
-Placas do Gladiador
-Bancada do Gladiador
-Gládio
-Estoque de Vidro
-Bugiganga do Vidreiro
-Vislumbre de Esperança
-Disco Ardente
-Bolha
-Armadura das Trevas
-Botas das Trevas
-Luvas das Trevas
-Capacete das Trevas
-Efeito Arauto das Trevas
-Asas das Trevas
-Couraça Gloriosa
-Placas Gloriosas
-Vermes Brilhantes
-Brasas
-Ramo Torcido
-Botas de Couro de Cabra
-Broquel de Couro de Cabra
-Luvas de Couro de Cabra
-Chifre de Cabra
-Estátua da Deusa
-Amuleto de Ouro
-Mascote Gárgula Dourado
-Mascote Kiwi Ouro
-Anel de Ouro
-Arco Dourado
-Barras Douradas
-Efeito da Chuva de Lâminas Dourada
-Braçadeiras de Ouro
-Broquel de Ouro
-Busto Dourado
-Caligae Dourado
-Baú Dourado
-Chama Dourada
-Estátua Gárgula de Ouro
-Portão Dourado
-Mão Dourada
-Aro Dourado
-Máscara Dourada do Diabrete
-Chave Dourada
-Kris Dourado
-Estátua do Leão Dourado
-Manto Dourado
-Máscara Dourada
-Obi Dourado
-Página Dourada
-Caminho Dourado
-Placas Douradas
-Radiância Dourada
-Armadura Serafim Dourada
-Botas Serafim Douradas
-Luvas Serafim Douradas
-Capacete Serafim Dourado
-Caveira Dourada
-Brilho Dourado
-Efeito Arremesso Espectral Dourado
-Estátua Dourada
-Vaso Dourado
-Grinalda Dourada
-Aro de Ouro
-Goldwyrm
-Manoplas de Golias
-Grevas de Golias
-Armadura Sanguinária
-Botas Sanguinárias
-Efeito Terremoto Sangrento
-Fogos de Artifício Sanguinários
-Efeito de Pegada Sanguinário
-Efeito Cascata Glacial Sanguinária
-Luvas Sanguinárias
-Capacete Sanguinário
-Efeito Flecha Relampejante Sangrenta
-Caveira Sanguinária
-Efeito Ruptura Sangrenta
-Mascote Weta Sanguinário
-Quebrador Sanguinário
-Broca Sanguinária
-Mapa da Garganta
-Cinzel
-Graça
-Espada Graciosa
-Frasco de Vida Grandioso
-Frasco de Mana Grandioso
-Espectro Grandioso
-Acessório para Costas Estandarte do Grão-Mestre
-Armadura do Grão-Mestre
-Botas do Grão-Mestre
-Exportação do Grão-Mestre
-Luvas do Grão-Mestre
-Capacete do Grão-Mestre
-Estandarte do Esconderijo do Grão-Mestre
-Moldura de Retrato do Grão-Mestre
-Tesouro Arcanista do Grão-Mestre
-Tesouro da Cartografia do Grão-Mestre
-Tesouro Corrupto do Grão-Mestre
-Tesouro da Lapidação do Grão-Mestre
-Tesouro Grande do Grão-Mestre
-Tesouro Ornamentado do Grão-Mestre
-Fortuna do Grão-Mestre
-Descobertas do Grão-Mestre
-Frasco de Granito
-Bengala de Tigre
-Grama
-O Conhecimento dos Mortos
-Mapa do Sepulcrário
-Coroa Grande
-Capacete Grande
-Marreta Grande
-Proteção do Grande Antigo
-Grande Garra Branca
-Frasco de Vida Maior
-Frasco de Mana Maior
-Suporte: Projéteis Múltiplos Maior
-Talismã do Lobo Grandioso
-Abraço da Ganância
-Mascote Basilisco Verde
-Mascote Sapo Verde
-Efeito Elo Cauterizador Verde
-Parede de Grigor
-Fetiche Sorridente
-Punho do Conselho
-Mapa da Gruta
-Impacto Sísmico
-Arco do Bosque
-Agonia Crescente
-Máscara do Guardião
-Estripador
-Faca Estripadora
-Gatilho Sensível
-Glifo Halioti
-Salão dos Grão-Mestres
-Frasco Híbrido Consagrado
-Frasco de Vida Consagrado
-Frasco de Mana Consagrado
-Broquel Martelado
-Braseiro Pendurado
-Lâmpada Pendurada
-Arco do Mensageiro
-Precursor de Lunaris
-Máscara do Arlequim
-Escudo Espiritual Harmônico
-Rapieira da Harpia
-Ímpeto
-Ódio
-Caçador de Cabeças
-Espada do Chefe
-Machado do Carrasco
-Lápides
-Mente Saudável
-Coração do Gárgula
-Laço do Coração
-Destruidor de Corações
-Varinha Idólatra
-Calafrio Quente
-Cinto Pesado
-Aljava Pesada
-Golpe Pesado
-Mascote Porco-Espinho
-Era da Hegemonia
-Portador Infernal
-Pata do Diabrete
-Estante de Capacetes
-Sua Máscara
-Arauto das Cinzas
-Arauto do Sangue
-Arauto do Gelo
-Arauto do Trovão
+Astúcia do Imperador
 Véu do Herege
-Heterocromia
-Talismã da Garra Amaldiçoada
-Fúria de Hezmana
-Potencial Oculto
-Cadeira Alta
-Arco Nobre
-Cajado do Nobre
-Moldura de Retrato Highgate
-Efeito de Arma Highgate
-Lâmina das Terras Altas
-Sem Punho
-Visão de Hinekora
-Acessório para Costas da Sacola de Presentes de Feriado
-Cota de Malha Benta
-Honralar
-Espada de Gancho
-A Esperança
-Cetro Chifrudo
-Talismã do Chifre
-Pés-Quentes
-Casa dos Espelhos
-Queima-Hrim
-Lamúria de Hrimnor
-Hino de Hrimnor
-Determinação de Hrimnor
-Pesar de Hrim
-A Arrogância
-Tiara da Arrogância
-Humildade
-Corpo Pendurado
-Abismo Faminto
-Capuz do Caçador
-O Desenlace do Caçador
-A Recompensa do Caçador
-Cota de Placas do Hussardo
-Asas de Hussardo
-Choupana
-Fúria de Hyaon
-Botas de Escamas de Hidra
-Manoplas de Escamas de Hidra
-Suporte: Hipotermia
-Mordida de Hyrri
-Ira de Hyrri
-Suporte: Mordida Congelante
-Pancada de Gelo
-Coroa de Gelo
-Cristal de Gelo
-Explosão Congelante
-Armadilha da Runa de Gelo
-Tiro de Gelo
-Lança de Gelo
-Armadilha de Gelo
-Gelofogo
-Tumba de Gelo
-Ichimonji
-Incendiar
-Varinha Imbuída
-Chamado Imortal
-Carne Imortal
-Adaga do Diabrete
-Cadáver Empalado
-Monstro Impalado
-Espinho Empalador
-Arco Imperial
-Broquel Imperial
-Garra Imperial
-Marreta Imperial
-Sgian Imperial
-Cajado Imperial
-Gravação
-Coração Incandescente
-Incinerar
-Suporte: Área de Efeito Aumentada
-Suporte: Dano Ardente Aumentado
-Suporte: Dano Crítico Aumentado
-Suporte: Acertos Críticos Aumentados
-Suporte: Duração Aumentada
-Inércia
-Cota de Placas de Infantaria
-Machado Infernal
-Mascote Basilisco Infernal
-Golpe Infernal
-Armadura Infernal
-Botas Infernais
-Efeito de Pegada Infernal
-Mascote Raposa Infernal
-Luvas Infernais
-Capacete Infernal
-Manto Infernal
-Mascote Escorpião Infernal
-Caveira Infernal
-Efeito Cólera da Caveira Infernal
-Espada Infernal
-Esteatite Infernal
-Trono Infernal
-Efeito de Arma Infernal
-Infractem
-Suporte: Inervar
-Gume de Innsbury
-Aprendizado Inspirado
-Salto Intuitivo
-Chifres Ritualísticos da Invasão
-Chave de Inya
-Bota de Ferro
-Anexo de Capacete da Marca de Ferro
-Tiara de Ferro
-Comandante de Ferro
-Manoplas de Ferro
-Grevas de Ferro
-Suporte: Empunhadura de Ferro
-Chapéu de Ferro
-Dama de Ferro
-Máscara de Ferro
-Anel de Ferro
-Cetro de Ferro
-Cajado de Ferro
-Suporte: Vontade de Ferro
-Botas de Escamas de Ferro
-Manoplas de Escamas de Ferro
-Soldaferro
-Broquel de Pau-Ferro
-Suporte: Quantidade de Itens
-Suporte: Raridade de Itens
-Arco de Marfim
-Mascote Escorpião Marfim
-Escudo Espiritual de Marfim
-Efeito de Arma Marfim
-Dilema de Izaro
-Tumulto de Izaro
-A Caixa de Surpresa
-Jack, O Machado
-Cabeça de Abóbora
-Amuleto de Jade
-Cortador de Jade
-Frasco de Jade
-Machadinha de Jade
-Florete Dentado
-Marreta Cravada
-Machado de Jaspe
-Corta-Jaspe
-Mandíbulas da Agonia
-Amuleto de Azeviche
-Anel de Azeviche
-Florete Encrustado
-Orbe do Joalheiro
-Escudo Espiritual Tilintante
-Aço Negro de Jorrhast
-Acessório para Costas Estandarte do Trabalhador
-Armadura do Trabalhador
-Botas do Trabalhador
-Luvas do Trabalhador
-Capacete do Trabalhador
-Estandarte do Esconderijo do Trabalhador
-Moldura de Retrato do Trabalhador
-Cajado do Julgamento
-Mapa do Vale da Selva
-Pilha de Lixo
-Machado de Kacha
-Graça de Kalisa
-Kaltenhalt
-Alma de Kalten
-Máscara Kaom
-Tesouro de Kaom
-Grevas de Kaom
-Coração de Kaom
-Placas de Kaom
-Primazia de Kaom
-Raízes de Kaom
-Sinete de Kaom
-Trono de Kaom
-Caminho de Kaom
-Machado Karui
-Carga de Karui
-Cortador Karui
-Marreta Karui
-Cetro Karui
-Proteção Karui
-Chave Laminada
-Determinação de Kiara
-Kikazaru
-Explosão Cinética
-Regicriador
-Guarda do Rei
-Kintsugi
-Sede de Kitava
-Mascote Kiwi
-Suporte: Empurrar
-Mascote Urso Coala
-Estratagema de Kongming
-Fúria Imortal de Kongor
-Amuleto do Kraityn
-Labrys
-Placa do Labirinto
-Dilacerar
-Escudo Espiritual de Plátano
-Broquel Laqueado
-Traje Laqueado
-Capacete Laqueado
-Lâmina de Lakishu
-Escudo Pipa Laminado
-O Amor Perdido de Lantador
-Lanterna
-Amuleto de Lápis
-Barco Grande do Aqueduto
-Gaiola Grande
-Restos Grandes de Barco
-Arco Grande da Parede da Igreja
-Cascalho Grande da Cripta
-Fortificação Grande
-Estátua de Jardim Grande
-Estátua Dourada Grande
-Frasco Híbrido Grande
-Frasco de Vida Grande
-Frasco de Mana Grande
-Estátua Grande Coberta
-Pilar Grande
-Pedras Grandes
-Prateleira Grande
-Pilha Grande de Crânios
-Sofá-Cama Grande
-Tenda Grande
-Costelas Grandes do Esqueleto de Baleia
-A Última Esperança
-Último Recurso
-Lathi
-Cota de Anéis Entrelaçados
-Fonte de Lava
-Brilho da Lava
-Máscara Lavanda do Diabrete
-Efeito de Arma Lavanda
-Espírito de Lavianga
-Sabedoria de Lavianga
-Escudo Pipa em Camadas
-Le Heup de Todos
-Cetro de Chumbo
-Salto Impactante
-Cinto de Couro
-Barrete de Couro
-Capuz de Couro
-Botas de Escamas de Couro
-Conjuro Estrábico
-Botas da Legião
-Luvas da Legião
-Martelo da Legião
-Espada da Legião
-Mascote Lêmure
-Suporte: Menos Duração
-Suporte: Projéteis Múltiplos Menor
-Carta
-Cartas
-Alavanca
-Marfim do Leviatã
-Estátua da Biblioteca
-Suporte: Ganho de Vida no Acerto
-Suporte: Dreno de Vida
-Vergôntea
-Cota de Placas Leve
-Carroça de Carga Clara
-Aljava Leve
-Vestes da Ruína da Luz
-Restos do Farol
-Flecha Relampejante
-Mascote Morcego Relampejante
-Canal Relampejante
-Círculo Relampejante
-Bobina Elétrica
-Efeito de Pegada Relampejante
-Suporte: Penetração de Raio
-Mascote Escorpião de Raio
-Caveira Relampejante
-Efeito Fúria da Caveira Relampejante
-Golpe Relampejante
-Tentáculos Relampejantes
-Armadilha Relampejante
-Teleporte Relampejante
-Efeito de Arma Relampejante
-Desmembrador
-Escudo Pipa de Tília
-Pele de Leão
-Estátua de Leão
-Espada Leonina
-Máscara de Lioneye
-Queda de Lioneye
-Deslumbre de Lioneye
-Patas de Lioneye
-Remorso de Lioneye
-Visão de Lioneye
-Rugido do Leão
-Lâmina Delgada
-Cuidado Lochtonial
-Talismã da Galhada Solitária
-Arco Longo
-Cajado Longo
-Mesa Comprida
-Espada Longa
-Talismã do Dente Longo
-Cadeira Altiva
-Placas Altivas
-Cota de Anéis Loricada
-Lanterna de Lori
-Mundos Perdidos
-Poltrona
-Poço de Fogo Baixo
-Parede Baixa com Musgo
-A Lealdade
-As Conexões Sortudas
-Cão Sortudo
-Tiara de Lunaris
-Moldura de Retrato Lunaris
-Efeito de Arma Lunaris
-Árvore Exuberante
-Lycosidae
-Descanso de Lysah
-Máquina
-Planta Macrotaen
-Turbilhão do Caos
-Cajado do Turbilhão
-Vestimenta do Magista
-Coroa do Magistrado
-Orbe de Magma
-Mistura de Orbe do Magma
-Magnus Rex
-Escudo Torre de Mogno
-Placas Majestosas
-Efeito de Portal do Malachai
-Estratagema de Malachai
-Dedicação de Malachai
-Entranhas do Malachai
-Coração do Malachai
-Circuito de Malachai
-Pulmões do Malachai
-Simula de Malachai
-Visão de Malachai
-Mapa da Malformação
-Intenção Maliciosa
-Gravurista de Maligaro
-Lentes de Maligaro
-Repreensão de Maligaro
-Cravo de Maligaro
-Virtuosidade de Maligaro
-Malho
-Cair da Noite de Maloney
-Suporte: Dreno de Mana
-Esponja de Mana
-Talismã da Mandíbula
-Mantra das Chamas
-Mao Kun
-Dispositivo do Mapa
-Escudo Redondo de Bordo
-Arco Maraketh
-Marca do Cavaleiro Duvidoso
-Marca da Fênix
-Marca das Assas do Guerreiro
-Maestria de Mark2
-Destroços do Mercado
-Pilar do Mercado
-Marohi Erqi
-Artística Marcial
-Coroa do Mártir
-Máscara da Marylene
-Falácia de Marylene
-Arco do Mastro
-Acessório para Costas Estandarte do Mestre
-Armadura Mestre
-Botas do Mestre
-Luvas do Mestre
-Capacete do Mestre
-Estandarte do Esconderijo do Mestre
-Moldura de Retrato do Mestre
-Capacho
-Matua Tupuna
-Cestas de Carne
-Moedora de Carne
-Baú de Remédios
-Gaiola Média
-Estátua Dourada Média
-Frasco Híbrido Médio
-Frasco de Vida Médio
-Frasco de Mana Médio
-Tenda Média
-Cobras da Medusa
-Cinto de Meginord
-Torno de Meginord
-Suporte: Dano Corpo a Corpo com Vida Cheia
-Suporte: Dano Físico Corpo a Corpo
-Suporte: Propagar Dano
-O Armamento Impiedoso
-Mascote Merveil
-Botas de Malha
-Luvas de Malha
-Mesa de Estudos Bagunçada
-Raio Mental
-Placa de Metal
-Bastão de Metal
-Barganha da Meia Noite
-Lâmina da Meia-Noite
-Poder em Todas as Formas
-Esfola Poderosa
-Cajado Militar
-Jaula Mental
-Mente do Conselho
-Espiral Mental
-Carrinho de Mina
-Pedra da Mina
-Suporte: Campo Minado
-Coração de Ming
-Suporte: Resistências Elementais de Lacaios e Totens
-Suporte: Dano do Lacaio
-Suporte: Vida do Lacaio
-Suporte: Velocidade do Lacaio
-Flecha Espelhada
-Espelho de Kalandra
-Escudo Cravado Espelhado
-Sovina da Miséria
-Mjölner
-Abraço de Mokou
-Escudo Flamejante
-Golpe Vulcânico
-Talismã da Pata de Macaco
-Talismã dos Gêmeos Macacos
-Agarrada de Mon'tregul
-Cajado da Lua
-Asa do Dobrador da Lua
-Pesar da Lua
-Anel de Pedraluna
-Mordhau
-Estrela D'alva
-Pesar Mortal
-Esperança Mortal
-Ignorância Mortal
-Fúria Mortal
-Mortem Morsu
-Escudo Pipa Mosaico
-Monstro de Musgo
-Parede com Musgo
-Arco Parede com Musgo
-Mapa do Desfiladeiro da Montanha
-Mapa do Gêiser de Lama
-Suporte: Múltiplas Armadilhas
-Suporte: Multi-ataque
-Botas do Assassinato
-Luvas do Assassinato
-Mapa do Museu
-Crescimento Modificado
-Tesouros do Vento Mudo
-Flâmula do Vento Mudo
-Selo do Vento Mudo
-Passos Sussurrantes Vento Mudo
-Mascote Sapo Misterioso
-Caixa Misteriosa
-Capacete de Naga
-Soqueira
-NameGoesHere
-Hierarquia Natural
-Mascote Macaco de Navali
-Tiara do Necromante
-Sedas do Necromante
-Mapa da Necrópole
-Armadura Necrótica
-Botas Necróticas
-Efeito de Pegada Necrótico
-Luvas Necróticas
-Capacete Necrótico
-Efeito de Arma Necrótico
-Nova Explosão Elétrica
-NewPunishment
-Ngamahu Tiki
-Chamas de Ngamahu
-Sinete de Ngamahu
-Bascinet do Pesadelo
-Maça do Pesadelo
-Presa da Noite
-Machado Nobre
-Garra Nobre
-Tricorne Nobre
-Tempestade de Nomic
-Efeito Aurora Boreal
-Botas de Nobuk
-Luvas de Nobuk
-Nulo e Vazio
-Inclinação de Null
+Carga Instável
+Estilhaço Revestido
 Harpa de Nuro
-Mascote Aranha de Jardim
-Lanterna de Nycta
-Broquel de Carvalho
-Amuleto do Oak
-Tesouro Maldito de Oba
-Baú Lustroso de Oba
-Tesouro Importante de Oba
-Riquezas de Oba
-Obelisco
-Obliteração
-Armadura Serafim Obsidiana
-Botas Serafim Obsidianas
-Luvas Serafim Obsidianas
-Capacete Serafim Obsidiano
-Vestes do Ocultista
-Cetro de Ocre
-Oferenda à Deusa
-Casaco Lubrificado
-Colete Lubrificado
-Cabidela Velha
-Efeito de Totem Olmeca
-Santuário de Olmec
-Varinha do Presságio
-Máscara do Ondar
-Fivela de Ondar
-Voo de Ondar
-Amuleto de Ônix
-Cetro de Opala
-Varinha de Opala
-Efeito de Portal Laranja
-Orbe da Alquimia
-Orbe de Alteração
-Orbe de Ampliação
-Orbe da Chance
-Orbe da Essência Elemental
-Orbe da Fusão
-Orbe do Arrependimento
-Orbe do Expurgo
-Orbe das Tempestades
-Orbe de Transmutação
-Mapa do Pomar
-Caixote de Armaduras de Oriath
-Barril do Exército de Oriath
-Tenda do Exército de Oriath
-Suprimentos de Oriath
-Caixote de Suprimentos de Oriath
-Caixote de Armas de Oriath
-Ornamento do Leste
-Caveira Ornamental
-Cadeira Ornamentada
-Cerca Ornamentada
-Maça Ornamentada
-Chapéu do Peregrino Ornamentado
-Cota de Anéis Ornamentada
-Escudo Cravado Ornamentado
-Espada Ornamentada
-Sacrifício de Oro
-Arco Coberto
-Estátua de Oferenda Coberta
-Mapa da Ruína Coberta
-Mapa do Sacrário Coberto
-Estátua Coberta
-Parede Coberta
-Suserano de Highgate
-Pacifismo
-Jaqueta Acolchoada
-Colete Acolchoado
-Geis Pagão
-Varinha Pagã
-Broquel Pintado
-Escudo Torre Pintado
-Pintura
-Mapa do Palácio
-Paliçada
-Porta Paliçada
-Portão Paliçado
-Palmeira
-Grupo de Palmeiras
-Mascote Parasita
-Mascote Papagaio
-Reembolso de Habilidade Passiva
-Caminho
-Amuleto Paua
-Anel de Paua
-Mascote Pavão
-Mascote Pavoa
-Pecoraro
-Aljava de Flechas Penetrantes
-Banco de Perandus
-Brasão de Perandus
-Moeda de Perandus
-Efeito das Pegadas de Perandus
-Efeito do Portal de Perandus
-Sinete de Perandus
-Efeito da Arma de Perandus
-Pernarca
-Maça Petrificada
-Mapa Fantasmagoria
-Maça Fantasma
-Passo Etéreo
-Suporte: Dano de Ataque de Projétil Físico
-Suporte: Físico para Raio
-Mapa do Píer
-Suporte: Perfurar
-Bascinet Cara de Porco
-Macetadora
-Chapéu do Peregrino
-Pilar
-Destroços de Pilares
-Pilar do Deus Aprisionado
-Pilares e Bandeira
-Espinha
-Broquel de Pinheiro
-Escudo Torre Pinacular
-Cano
-Kit de Encanamento
-Canos
-Encanamento
-Vigília de Piscator
-Bandeiras do Fosso
-Mapa do Fosso
-Cadáver de Pitbull
-Escuridão Profunda
-Máscara da Peste
-Escudo Pipa de Tábua
-Prato
-Colete de Placas
-Mapa do Planalto
-Manoplas de Placas
-Grevas de Placas
-Marreta de Placas
-Kris Platina
-Cetro de Platina
-Mapa da Praça
-Penhor das Mãos
-Teleporte de Base
-Mascote Marsupial da Cascata
-Mira do Larápio
-Marca do Larápio
-Punhal
-Suporte: Queima Roupa
-Suporte: Envenenar
-Alabarda
-Escudo Cravado Polido
-Asilo de Poorjoy
-Planta Papoula
-Portal
-Pergaminho de Portal
-Triturador de Portal
-Poste
-Vaso
-Linha de Cubas
-Suporte: Carga de Poder no Crítico
-Sifão de Poder
-Impotência
-Coroa do Pretor
-Pedras de Oração
-Mapa do Precinto
-Garra Pré-histórica
-Orgulho Antes da Queda
-Talismã do Crânio Primitivo
-Rapieira Primaveril
-Cajado Primitivo
-Forma Primordial
-Cajado Primordial
-Guardião Prismático
-Eclipse Prismático
-Joia Prismática
-Anel Prismático
-Tecelagem Prismática
-Barras de Prisão
-Mesa da Prisão
-Varinha Profana
-Fraqueza a Projéteis
-Mapa do Esplanada
-Adaga Forcada
-Profecia
-Efeito Pegadas da Profecia
-Efeito Portal da Profecia
-Moldura de Retrato Prophecy
-Varinha da Profecia
-Efeito Arma da Profecia
-Coroa do Profeta
-Prosperidade
-Totem de Tiro de Elite Protótipo
-Pugilista
-Mascote Pukeko
-Abóboras
-Punctura
-Punição
-Pureza dos Elementos
-Pureza do Fogo
-Pureza do Gelo
-Pureza do Raio
-Mascote Escorpião Púrpura
-Pira
-Impacto Sísmico
-Mapa da Pedreira
-Bastão de Ferro
-Frasco de Quartzo
-Cetro de Quartzo
-Varinha de Quartzo
-Quecholli
-Rainha da Floresta
-Decreto da Rainha
-Fuga da Rainha
-Frasco de Mercúrio
-Chuva de Penas
-Jaqueta com Enchimento
-Estante
-Lâmina Radiante
-Peitoral Radiante
-Botas Radiantes
-Efeito de Pegada Radiante
-Luvas Radiantes
-Capacete Radiante
-Escudo Radiante
-Efeito de Arma Radiante
-Pilar Ferroviário
-Estrada de Ferro
-Chuva
-Chuva de Flechas
-A Chuva do Caos
-Chuva de Farpas
-Tentador das Tempestades
-Passo do Arco-Íris
-Visual de Evocar Múmia
-Evocar Espectro
-Evocar Zumbi
-Clamor de Reagrupar
-Suporte: Totem de Ataque à Distância
-Arco da Caçadora
-Árvore Raphina
-Suporte: Decomposição Acelerada
-Expansão Rápida
-Dispositivo de Arrebatamento
-Paciência de Rashkaldor
-Globo de Rathpith
-Ratos
-Ninho do Rato
-Máscara de Corvo
-Efeito Espírito Furioso do Corvo
-Asas de Corvo
-Árvore Ravenal
-Botas de Couro Cru
-Luvas de Couro Cru
-Escudo Torre de Couro Cru
-Efeito Pegadas Razer
-Machado de Navalha
-Extensão do Conselho
-Destruidor do Reino
-Modela-reino
-Efeito de Pegada Ceifador
-Perseguição do Ceifador
-Retaguarda
-Devastação
-Machado do Assolador
-Capacete do Assolador
-Espada Assoladora
-Repreensão dos Vaal
-Defesa Imprudente
-Acerto de Contas
-Recuperar Efeito Cosmético
-Arco Recurvo
-Fogos de Artifício Vermelho e Branco
-Tapete Vermelho
-Mascote Sapo Vermelho
-Mascote Escorpião Vermelho
-Fogos de Artifício Vermelho, Azul e Branco
-Bico Vermelho
-Faixa da Lâmina Vermelha
-Estandarte da Lâmina Vermelha
-Tesouros da Lâmina Vermelha
-Atropelador Lâmina Vermelha
-Suporte: Mana Reduzida
-Escudo Cravado de Pau-Brasil
-Mapa do Recife
-Perdição do Recife
-Arco do Reflexo
-Orbe Real
-Mascote Rhoa Régio
-Efeito de Arma Real
-Máscara do Regicida
-Grevas Reforçadas
-Escudo Pipa Reforçado
-Escudo Torre Reforçado
-Totem do Rejuvenescimento
-Fúria Implacável
-Relíquia do Ciclo
-Sobras de Impérios
-Suporte: Mina Remota
-Tesouros dos Renegados
-Pesar
-Mapa da Residência
-Suporte: Projéteis Retornados
-Vara da Reverberação
-Rhoa
-Ninho de Rhoa
-Mascote Rhoa
-Carretel de Fita
-Fogo da Justiça
-Relâmpago Justo
-Investida de Rigvald
-Armadura do Rigwald
-Botas do Rigwald
-Comando de Rigwald
-Brasão de Rigwald
-Maldição de Rigwald
-Luvas do Rigwald
-Capacete do Rigwald
-Espinhos de Rigwald
-Selvageria de Rigwald
-Olhar da Geada
-Botas de Cota de Anéis
-Casaco de Cota de Anéis
-Luvas de Cota de Anéis
-Ripostar
-Correnteza
-Ascensão da Fênix
-Cetro do Ritual
+Gatilho Sensível
+Disco Ardente
+Construção Barata
 Despedaçador
-Botas Rebitadas
-Luvas Rebitadas
-Estrada Cortada
-Maça Podre de Robbie
-Pedra
-Quebra-Pedra
-Mascote Elemental de Pedra
-Vara da Detonação
-Chamas Rolantes
-Mascote Cabeça Rolante
-Banquete de Romira
-Raízes
-Corda
-Cordas
-Revingança de Rory
-Roseta
-Glifo Roseu
-Tribuna
-Talismã da Cabeça Pútrefa
-Talismã da Pena Apodrecida
-Entranha Pútrefa
-Extensão de Roth
-Escudo Redondo Apodrecido
-Estante de Armas Redonda
-Machado Real
-Mascote Sapo Azul Real
-Arco Real
-Elmo Real com Visor
-Mascote Sapo Verde Real
-Mascote Sapo Vermelho Real
-Cetro Real
-Sgian Real
-Cajado Real
-Amuleto de Rubi
-Frasco de Rubi
-Anel de Rubi
-Tapete
-Aljava Enrugada
-Marcha Estrondosa
-Mistura de Rumi
-Lâmina Rúnica
-Machadinha Rúnica
-Batedor de Russell
-Lâmina de Russell
-Porrete de Russell
-Cortador de Russell
-Cutelo de Russell
-Espada Grande de Russell
-Apito de Russell
-Arranhador de Russell
-Estoque de Russell
-Esmagador de Russell
-Varinha de Russell
-Ferrugem do Inverno
-Coifa Enferrujada
-Machadinha Enferrujada
-Espigão Enferrujado
-Espada Enferrujada
-Cinto Rústico
-Sabre
-Saco de Gemas
-Vaca Sagrada
-Frasco Híbrido Sagrado
-Frasco de Vida Sagrado
-Frasco de Mana Sagrado
-Sacrifício ao Amanhecer
-Sacrifício ao Anoitecer
-Sacrifício à Meia Noite
-Sacrifício ao Meio Dia
-Traje Sacrificial
-Colheita Sacrificial
-Sacrário Sacrificial
-Toque de Sadima
-Traje Sádico
-Presente de Saemus
-Quadro de Saffell
-Varinha do Sábio
-Robe do Filósofo
-Sai
-Cota de Malha Santificada
-Cota de Malha do Santo
-Morrião
-Cetro de Sambar
-Luvas de Samito
-Capacete de Samito
-Sapatilhas de Samito
-Frasco de Vida Santificado
-Frasco de Mana Santificado
-Areia da Eternidade
-Faixas Arenosas
-Armadura Serafim Sanguinária
-Botas Serafim Sanguinárias
-Luvas Serafim Sanguinário
-Capacete Serafim Sanguinário
-Fé de Santoni
-Frasco de Safira
-Anel de Safira
-Sarcófago
-Arcada Pavimentada
-Luvas de Cetim
-Sapatilhas de Cetim
-Satoshi
-Robe do Sábio
-Ciclone Serrador
-Trilhos de Lâmina de Serra
-Scaeva
-Gibão de Escamas
-Colete de Escamas
-Cicatriz da Sina
-Máscara Assustadora
-Vestes Escarlates
-Escudo Redondo Escarlate
-Livros Espalhados
-Filha do Carniceiro
-Destroços do Cetro de Deus
-Botas do Erudito
-O Erudito dos Mares
-Robe do Erudito
-Rédea da Censura
-Mascote Escorpião
-Pilha de Sucata
-Fragmento de Pergaminho
-Pergaminho de Sabedoria
-Ninho da Gaivota
-Ligação Cauterizadora
-Elmo de Secutor
-Sekhem
-Estandarte de Sekhema
-Auto-Flagelação
-Liderança Altruísta
-Resposta de Sentari
-Jaqueta da Sentinela
-Armadura Serafim
-Botas Serafim
-Arco Serafim
-Adaga Serafim
-Efeito de Pegada Serafim
-Luvas Serafim
-Capacete Serafim
-Escudo Serafim
-Efeito Arremesso Espectral Serafim
-Espada Serafim
-Efeito de Arma Serafim
-Asas do Serafim
-Varinha Ovo da Serpente
-Varinha da Serpente
-Cajado de Serpentina
-Botas de Escamas de Serpente
-Manoplas de Escamas de Serpente
-Aljava de Flechas Serrilhadas
-Aljava da Flecha Serrada
-Florete Serrilhado
-Moicano Serrilhado
-Passo das Sete Léguas
-Cabeças Decepadas
-Chaves do Esgoto
-Mapa do Esgoto
-Justilho Gasto
-Botas Acorrentadas
-Grilhões dos Miseráveis
-Sombra do Axioma
-Sombra
-Machado Sombrio
-Lâminas Sombrias
-Cetro Sombrio
-Sombras e Poeira
-Botas de Chagrém
-Luvas de Chagrém
-Escudo Torre de Chagrém
-Semente do Modelador
-Fragmento do Destino
-Botas de Pele de Tubarão
-Luvas de Pele de Tubarão
-Túnica de Pele de Tubarão
-Aljava de Flechas de Dente de Tubarão
-Garra de Dente de Tubarão
-Esmeril
-Lâmina Estilhaçada
-Correntes Despedaçadas
-Gambito de Shavronne
-Passada de Shavronne
-Revelação de Shavronne
-Vestimenta de Shavronne
-Prateleira
-Destroços da Prateleira
-Investida com Escudo
-Mapa do Estaleiro
-Ferroada Arrepiante
-Explosão Elétrica
-Totem de Onda de Choque
-Fogueira Litorânea
-Mapa do Litoral
-Destroços de Tábuas no Litoral
-Rochas Litorâneas
-Ponta do Litoral
-Arco Curto
-Tiro Estilhaçante
-Mapa do Sacrário
-Peitoral da Mortalha
-Botas da Mortalha
-Luvas da Mortalha
-Capacete da Mortalha
-Máscara da Mortalha
-Lamento de Sibila
-Mesinha
-Sopro dos Sidhe
-Machado de Cerco
-Balista de Cerco
-Efeito Tempestade de Fogo de Cerco
-Capacete de Cerco
-Luvas de Seda
-Robe de Seda
-Sapatilhas de Seda
-Traje de Seda
-Capuz de Seda
-Colete de Seda
-Manto de Seda
-Moeda de Prata
-Frasco de Prata
-Chave Prateada
-Mascote Kiwi Prata
-Asas Prateadas
-Galho de Prata
-Ramo Argênteo
-Robe Simples
-Jornada do Pecado
-Singularidade
-Pecador Tricorne
-Sifão
-Senhor das Estilhas
-Estátua do Leão Sentado
-Banqueta de Toco
-Sgian
-Correntes Esqueléticas
-Esqueleto
-Exibição de Esqueleto
-Transferência de Visual
-Faca de Esfola
-Conflito
-Exibição de Caveira
-Capuz da Caveira
-Pilha de Crânios
-Caveira
-CapaceteCrânio2_1
-CapaceteCrânio2_2
-CapaceteCrânio2_3
-CapaceteCrânio2_4
-Avanço Celeste
-Faca da Matança
-Carrinho de Escravos
-Poste de Escravos
-Martelo de Forja
-Casaco Lustroso
-Estátua do Leão Adormecido
-Botas de Fuga
-Luvas da Fuga
-Aperto Escorregadio
-Lascas de Providência
-Suporte: Projéteis Lentos
-Lesmas
-Construção da Favela
-Destroços de Favela
-Cerca da Favela
-Destroços Grandes de Favela
-Gaiola Pequena
-Estátua de Jardim Pequena
-Frasco Híbrido Pequeno
-Frasco de Vida Pequeno
-Frasco de Mana Pequeno
-Espada Pequena
-Mina de Fumaça
-Mordecobra
-Tiro de Elite
-Arco do Franco-Atirador
-Neve
-Dragoeiro
-Sofá
-Sofá-Cama
-Marreta Solar
-Tiara de Solaris
-Couraça Solar
-Trono Solaris
-Botas do Soldado
-Luvas do Soldado
-Capacete do Soldado
-Cota de Placas do Soldado
-Canção das Sereias
-Botas do Feiticeiro
-Luvas do Feiticeiro
-Manto d'Alma
-Efeito Clareza Poço da Alma
-Golpe d'Alma
-Ladrão de Almas
-Alma Sedenta
-Sentido Sul
-Efeito de Portal Soberano
-Moldura de Retrato Soberana
-Escudo Cravado da Soberania
-Efeito de Arma Soberano
-Centelha
-Efeito Aranhas Centelha
-Garra Brilhante
-Especializado
-Machado Espectral
-Mascote Basilisco Espectral
-Espada Espectral
-Arremesso Espectral
-Suporte: Eco Mágico
-Suporte: Totem de Magia
-Comida de Aranha
-Mapa da Floresta da Aranha
-Mapa do Covil da Aranha
-Lagarto-Aranha
-Robe de Seda de Aranha
-Maço de Espinhos
-Clava Cravada
-Escudo Redondo Cravado
-Aljava de Flechas Pontudas
-Espinhos
-Roca
-Arco de Espinha
-Espinha do Primeiro Requerente
-Talismã do Fuso Espinhal
-Trilhos de Armadilha Giratória
-Lâminas Etéreas Giratórias
-Marreta Espinheira
-Escudo Redondo Espinhoso
-Pedra Espiral
-Florete Espiralado
-Varinha Espiralada
-Espiral de Pedra
-Amuleto Espiritual
-Espíritos Guardiões
-Oferenda Espiritual
-Resposta Vivaz
-Pele Espiritual
-Escudo Redondo Esplêndido
-Farpa da Lua
-Escudo Torre Reduzido
-Madeira Lascada
-Flecha Repartida
-Suporte: Projéteis Divididos
-Talismã da Salamandra Partida
-Folha da Primavera
-Mapa das Nascentes
-Lajes de Pedra Amontoada
-Cetro do Cervo
-Cocheira
-Luminária
-Lâmpada em Pé
-Estátua do Leão Levantado
-Estrela de Wraeclast
-Cabeça de Starkonja
-Eletricidade Estática
-Golpe Estático
-Corrente Estática
-Botas Furtivas
-Luvas Furtivas
-Efeito de Portal Vapor
-Lâmina a Vapor
-Armadura a Vapor
-Botas a Vapor
-Acessório para Costas Motor Anexo a Vapor
-Luvas a Vapor
-Capacete a Vapor
-Efeito de Portal a Vapor
-Varinha a Vapor
-Tiara de Aço
-Manoplas de Aço
-Grevas de Aço
-Escudo Pipa de Aço
-Espírito de Aço
-Cabeça-de-Aço
-Botas de Escamas de Aço
-Manoplas de Escamas de Aço
-Arco de Pau-Aço
-Passo Natal
-Frasco de Estibina
-Pau com Crânio
-Estilete
-Manságua
-Chifres Fétidos
-Estoques
-Arco de Pedra
-Arcada de Pedra
-Machado de Pedra
-Busto de Pedra
-Mascote Gárgula de Pedra
-Martelo de Pedra
-Pedra de Lazhwar
-Pedaços de Pedra
-Pedaços de Pedra Destruídos
-Estátua de Pedra
-Banqueta
-Chamado da Tempestade
-Nuvem de Tempestade
-Prisão da Tormenta
-Rajada Tempestade
-Armadura Ártica Nuvem da Tempestade
-Mapa da Costa
-Barril Estranho
-Botas Amarradas
-Couraça Amarrada
-Luvas Amarradas
-Cinto Cravejado
-Escudo Redondo Cravejado
-Mesa de Estudos
-Suporte: Atordoar
-Evocar Espectro Estígio
-Frasco de Enxofre
-Caveira do Verão
-Convocar Golem de Caos
-Convocar Golem de Chamas
-Convocar Golem de Gelo
-Convocar Golem de Raio
-Convocar Espírito Furioso
-Convocar Esqueletos
-Visual de Convocar Estátuas
-Visual de Convocar Estátuas Femininas de Ouro
-Visual de Convocar Estátuas Masculinas de Ouro
-Visual de Convocar Estátuas Masculinas de Pedra
-Convocar Golem de Pedra
-Couraça do Sol
-Placas do Sol
-Explosão Solar
-Dança do Sol
-Ruptura
-Machado Desmembrador
-Escudo Cravado Supremo
-Superfície
-Pulso Vinculador
-Detritos Cirúrgicos
-Instintos de Sobrevivência
-Segredos de Sobrevivência
-Habilidades de Sobrevivência
-Efeito de Portal Descanso do Sobrevivente 
-Acessório para Costas Suprimentos do Sobrevivente 
-Árvore do Pântano
-Toco de Árvore do Pântano
-Varrida
-Espada no Chão
-Efeito Lança de Gelo Peixe-Espada
-Mesa
-Tabula Rasa
-Talismã do Vitorioso
-Machado Garra
-Escudo Espiritual Manchado
-Tremor de Taryn
-Sinete de Tasalio
-Sabor do Ódio
-Escudo Redondo de Teca
-Lágrima da Entropia
-Lágrimas da Pureza
-Teleportador
-Teleporte
-Dono do Teleporte
-Proximidade de Teleporte
-Florete Temperado
-Escudo da Tempestade
-Arco do Templo
-Mapa do Templo
-Grilhões Temporais
-Amaciadora
-Tenda
-Asas Tentaculares
-Terminus Est
-Mapa do Terraço
-Garra do Terror
-Marreta do Terror
-Emblema Taumético
-Sulfite Taumético
-O Esteta
-A Bigorna
-O Ápice
-O Campeão da Arena
-O Artista
-O Ascético
-O Vingador
-O Aylardex
-O Nascido para Batalha
-Xale de Pele da Fera
-A Traição
-A Dança Sangrenta
-O Ceifador Sanguinário
-O Espinho Sangrento
-O Corpo
-O Portador da Chuva
-O Imperador Frágil
-A Coroa Partida
-O Corvo da Carniça
-O Cartógrafo
-O Cataclismo
-O Catalisador
-O Cauterizador
-A Justicar Celestial
-As Correntes que Prendem
-O Conduíte
-A Escuridão Que Consome
-O Pacto
-Julgamento do Covarde
-O Rei Amaldiçoado
-O Dervixe Dançante
-O Elegante Prodígio
-O Mago Sombrio
-O Vidente Sombrio
-O Couro do Profundo
-A Demoníaca
-O Devastador
-O Doutor
-O Doppelgänger
-O Dragão
-O Coração do Dragão
-O Aristocrata Bêbado
-A Invasão da Escuridão
-O Iluminado
-O Etéreo
-O Explorador
-Olho do Desejo
-Olho da Fúria
-O Banquete
-O Demônio
-O Flecheiro
-O Presente da Flora
-A Raposa
-O Jogador
-O Lapidário
-O Cavalheiro
-O Gladiador
-O Vínculo da Deusa
-A Deusa Desprezada
-O Despertar da Deusa
-O Grifo
-A Gaivota
-A Colheita
-O Ceifador
-O Eremita
-A Riqueza
-A Fome
-O Ignomon
-O Imortal
-O Encantamento
-O Intocável
-O Inventor
-O Bobo
-A Lâmina do Rei
-O Coração do Rei
-O Último Sobrevivente
-A Pedra do Aprendizado
-O Lich
-O Leão
-O Lorde de Preto
-O Amante
-A Sacerdotisa Lunaris
-O Magnata
-O Mercenário
-O Presente do Ferreiro
-A Nomeação Temporária
-O Carvalho
-A Oferenda
-O Le Heup com Tudo
 Cálice Transbordante
-O Líder da Matilha
-O Pacto
-O Pária
-A Mansão de Perandus
-O Peregrino
-A Oferenda da Mandíbula da Praga
-O Poeta
-A Princesa
-A Rainha
-O Rhoa Furioso
-A Cremalheira
-A Gaiola do Rato
-O Rathorn
-A Proteção Incansável
-A Ânsia
-O Risco
-A Estrada para o Poder
-O Prado Cicatrizado
-O Erudito
-A Águia Gritante
-O Toque Lancinante
-O Sephirot
-O Emblema
-O Fogo Sinalizador
-A Sereia
+Último Suspiro de Zerphi
+Xale de Pele da Fera
+Treme-terra
+Escamas da Víbora
+Varunastra
+Axiom Perpetuum
+Santuário de Geofri
 O Sofrimento do Divino
-A Alma
-O Principe Mimado
-O Invocador da Tempestade
-O Coração do Temporal
-O Convocador
-O Sol
-A Verdade Suprema
-O Cirurgião
-O Topógrafo
-O Sobrevivencialista
-A Domesticação
-A Tempestade
+Perdição do Recife
+Despertar das Cinzas
+Paixão de Daresso
 O Aço Tempestuoso
-O Taumaturgista
-Os Três Dragões
-O Trono
-A Torre
-O Traidor
-A Provação
-As Gêmeas
-O Tirano
-A União
-O Vasto
-O Vórtice
-O Vigia
-A Praça Vinktar
-O Visionário
-O Além
-O Carcereiro
-O Senhor da Guerra
-O Sentinela
-A Teia
-Gelo Sussurrante
-O Vento
-A Sombra do Lobo
-A Ira
+Hálito Gélido
+Modela-Barro
+Mortífera
+Trefina
+Tesouros dos Renegados
+Tesouros da Salmoura Podre
+Tesouros da Lâmina Vermelha
+Tesouros do Vento Mudo
+Cinzas do Condenado
+Tormenta de Deshret
+Alavanca de Xirgil
+Fortaleza Avançada
+Geleira Intacta
+Umbilicus Immortalis
+Poder Emprestado
+WIP Stone Flask
+Chamas de Ngamahu
+Circuito de Malachai
 O Jarro Contorcido
-Árvores Espessas
-Arco do Matagal
-Mapa do Matagal
-Traje do Ladrão
-Tormento do Ladrão
-Pilar Fino
-Sede por Horrores
-Escudo Espiritual de Tório
-Rapieira de Espinho
-Mil Fitas
-Temu Mil-Dentes
-As Três Faces no Escuro
-Talismã das Três Mãos
-Talismã dos Três Ratos
-Agressão em Três Passos
-Garra de Debulhador
-Fura-Goela
-Trono
-Trovão do Amanhecer
-Punho do Trovão
-Céus Trovejantes
-Carrapato
-Gancho do Tigre
-Espada do Tigre
-Pata do Tigre
-Visual de Totem Tiki
-Machado Lenhador
+Domínio do Semideus
+Coração Invernal
+Caer Blaidd, Toca dos Lobos
+Espinhos de Rigwald
+Comando de Rigwald
+Selvageria de Rigwald
+Brasão de Rigwald
+Olhos do Lobo Grandioso
+Maldição de Rigwald
+Hierarquia Natural
+Poço Infestado
+Estrela de Wraeclast
+Verme da Essência
+Presa da Noite
+Alma Sedenta
+Sonho Cruel
+Singularidade
+Disjunção
+Eclipse Solaris
+Prisão da Tormenta
+Comandante de Ferro
+Espíritos Guardiões
+Saraivada
+Expansão Rápida
+Revolta dos Mortos
+O Dervixe Dançante
+Extrator de Mentes
+Dilema de Izaro
+Agulha de Chitus
+Tumulto de Izaro
+Espinha do Primeiro Requerente
+Sinal da Wyrm
+Obliteração
+Destransformação de Jogador
+Durações de Aflição
+Substituir Atributo
+Arma Elemental
+Não Pode Morrer
+Fêmures dos Santos
+Resposta Vivaz
+Recompensa do Inverno
+Chamas Rolantes
+O Vigia
+Entranha Pútrefa
+Ventos da Mudança
+Extensão de Roth
+Defesa Imprudente
+Avanço Celeste
+Estratagema de Kongming
+Vaso de Vinktar
+Fúria de Hezmana
+Aperto Sangrento
+A Ânsia
+Fim da Fome
+Fim do Banquete
+A Praça Vinktar
+Haste Agne do Oeste
+Agonia Crescente
+Espírito de Aço
+Escuridão Profunda
+Peso do Império
+Correntes Despedaçadas
+O Aylardex
+Elixir Coruscante
+O Pária
+Fé Quebrada
+Passo Natal
+Isca
+Lascas de Providência
+Brasa Desperta
+Trapaça de Ylfeban
+Coroa do Rei Pálido
+Aço Negro de Jorrhast
+Pináculo de Madeira-Troll
+Atropelador Lâmina Vermelha
+Passos Sussurrantes Vento Mudo
+Baleeiros da Salmoura Podre
+Farol do Semideus
+Flâmula do Vento Mudo
+Estandarte da Lâmina Vermelha
+Bandeira da Salmoura Podre
+Selo do Vento Mudo
+Faixa da Lâmina Vermelha
+Marca da Salmoura Podre
+O Coração do Temporal
+Devoradora de Carne
+Sabedoria de Lavianga
+Quebrador Sanguinário
+Lâmina de Lakishu
+A Princesa
+Asa do Dobrador da Lua
+Arcada do Pavor
+O Couro do Profundo
+Corte Selvagem
+Forja-Reino
+Chifre de Abberath
+Jogada Sangrenta
+Broca Sanguinária
+Guarda do Rei
+Poder em Todas as Formas
+Mente Saudável
+Eletricidade Estática
+Conhecimento Anatômico
+Energia Interna
+Armadura Energizada
+Nascido do Fogo
+Aço Frio
+Pugilista
+Chamado da Irmandade
+Impotência
+Fragilidade
+Pacifismo
+Barreira Frágil
+Sacrifício de Sangue
+Auto-Flagelação
+Energia Corrompida
+Juventude de Zerphi
+Abismo Faminto
+Crescimento Modificado
+Calafrio da Corrupção
+Pedras do Caminho Antigas
+Longevidade do Conquistador
+Potência do Conquistador
+Eficiência do Conquistador
+Velocidade do Assassino
+Alcance do Senhor da Guerra
+Mira do Larápio
+Sentenciamento Vaal
+Reinado dos Atziri
+Colheita Sacrificial
+Planejamento Cuidadoso
+Inércia
+Solução de Força Bruta
+Treino Eficiente
+Sovina da Miséria
+Especializado
+Mente Limpa
+Músculo
+Intenção Maliciosa
+Chuva de Farpas
+Potencial Oculto
+Florescer Frágil
+A Nomeação Temporária
+Mente Febril
+Peso do Pecado
+Combustíveis
+Pés-Quentes
+Poder do Vampiro
+Legião Fortificada
+Mantra das Chamas
+Aparições
+Espiral de Pedra
+Hábitos Canibalísticos
+Movimento Fluido
+Mente Fértil
+Segredos de Sobrevivência
+Instintos de Sobrevivência
+Habilidades de Sobrevivência
+Liderança Altruísta
+Salto Intuitivo
+Queda de Lioneye
+Artística Marcial
+Aprendizado Inspirado
+Conhecimento Ancião
+Faixa do Vitorioso
+Exército de Ossos
+Regicriador
+Twyzel
+Pesar
+Visão de Lioneye
+Sangue da Corrupção
+Lágrimas da Pureza
+Gelo Sussurrante
+Ornamento do Leste
+Rugido do Leão
+A Proteção Incansável
+Agarrada do Império
+Ichimonji
+O Despertar da Deusa
+Mão da Morte
+Callinellus Malleus
+Punho de Doryani
+Marreta de Cameria
+Fúria Implacável
+Varinha do Tremor
+Semente do Modelador
+A Escuridão Que Consome
+Influência de Victario
+Barril Estranho
+Senhor das Estilhas
+Amanhecer Dyadiano
+Laço do Coração
+Aposta de Ventor
+Tesouro Grande do Grão-Mestre
+Tesouro Corrupto do Grão-Mestre
+Descobertas do Grão-Mestre
+Fortuna do Grão-Mestre
+Tesouro Ornamentado do Grão-Mestre
+Tesouro da Cartografia do Grão-Mestre
+Tesouro Arcanista do Grão-Mestre
+Tesouro da Lapidação do Grão-Mestre
+Sentido Sul
+Agnerod Sul
+Crista do Sol Negro
+Escárnio de Doedre
+Relógio Deformado
+Abraço da Ganância
+Sabor do Ódio
+Borrifador de Chumbo de Brutus
+Rédea da Censura
+A Gaiola do Rato
+Sinete de Ngamahu
+Sinete de Tasalio
+Sinete de Valako
+Paciência de Rashkaldor
+Inclinação de Null
+Fervessangue
 Fecho do Tempo
-A Relíquia Perdida no Tempo
-Garra Desgastada
-Tipua Kaikohuru
-Armadura do Titã
-Manoplas do Titã
-Grevas do Titã
-Escudo Espiritual de Titânio
+Cinto do Enganador
+Pulso Vinculador
+Cair da Noite de Maloney
+A Coroa Partida
+Repreensão de Maligaro
+Lentes de Maligaro
+Harmonia de Ungil
+Vara da Reverberação
+Kikazaru
+Sopro Suspenso
+Tecelagem Prismática
+Agnerod Norte
+O Espinho Sangrento
+Talismã do Vitorioso
+Agnerod Leste
+Olho do Semideus
+Baú Lustroso de Oba
+Riquezas de Oba
+Tesouro Importante de Oba
+Proteção do Grande Antigo
+Semeador da Ruína
+Resposta de Sentari
+Estratagema de Malachai
+Salão dos Grão-Mestres
+Cabeça do Penhasco
+O Vidente Sombrio
+Limite da Loucura
+A Colheita
+Sombras e Poeira
+Corpo e Espírito
+Nulo e Vazio
+Jack, O Machado
+Fúria de Apep
+Maleficência do Querubim
+Tempestade de Nomic
+Momento da Gangue
+Pena do Sonho
+Mistura de Rumi
+Marca do Cavaleiro Duvidoso
+Abraço de Mokou
+Atitude de Fairgraves
+Temu Mil-Dentes
+Mandíbulas da Agonia
+Whakawairua Tuahu
+Sangue do Verão
+Cicatriz da Sina
+Era da Hegemonia
+Sabor Proibido
+Golpe d'Alma
+Cravo de Fidelitas
+Raízes de Kaom
+Aparato Empyreano
+Tesouro de Kaom
+Banco de Perandus
+Fúria de Hyaon
+Flecha da Ruína
+Mordida de Hyrri
+Coração Incandescente
+Ira da Asphyxia
+ NÃO USAR
+Recompensa do Semideus
+Vigília de Piscator
+Catalizador de Doryani
+Vis Mortis
+Desfavor de Atziri
+O Vórtice
+Esplendor de Atziri
+Acuidade de Atziri
+Promessa de Atziri
+Convite de Doryani
+Passo de Atziri
+Penhor das Mãos
+Retaguarda
+Fura-Pescoço
+Cuidado Vaal
+Olho do Além
+Caveira
+Trilha Guerreira de Alberon
+Mordecobra
+Respiração Moribunda
+Mjölner
+Grilhões dos Miseráveis
+Os Três Dragões
+Canção das Sereias
+Véu da Noite
+Cutelo do Bino
+Bobina do Charco
+Rajada Tempestade
+Dedo de Bartek
+Pastor Boreal
+A Águia Gritante
+Fragmento Celestial
+Soldaferro
+Alkem Eira
+Roda da Vela Náutica
+Chocalho da Morte
+Cálice de Horrores
+Couraça Solar
+Mapa de Cagan
+Morte e Impostos
+Fantasmarcha
+Toque do Semideus
+Vergôntea
+Doon Cuebiyari
+Grilhões do Tempo
+Lágrima da Entropia
+Relíquia do Ciclo
+Vestígio da Divindade
+Trovão do Amanhecer
+Cinzas do Sol
+Ferrugem do Inverno
+Sobras de Impérios
+Farpa da Lua
+Fragmento da Eternidade
+Carne Imortal
+Manto do Desafio
+Caçador de Cabeças
+A Gaivota
+Espírito de Lavianga
+Sangue dos Karui
+A Domesticação
+Descanso de Berek
+Empunhadura de Berek
+Passagem de Berek
+Segue-Cervo
+Explosão Solar
+Dyadus
+Banquete de Romira
+Bobina Elétrica
+Coração de Ming
+Fé de Santoni
+Desafio de Daresso
+Eclipse Prismático
+Pata de Cybil
+Sacrifício de Oro
+Embrulhobrusco
+Esponja de Mana
+Falácia de Marylene
+Elixir de Doedre
+Fenda Voltaxica
+Asas da Entropia
+Manságua
+Geis Pagão
+Riposta de Galla
+Caidente
+Gravurista de Maligaro
+Mordhau
+Quecholli
+Balanço Largo
+Combateveloz
+Dedúsculo
+Passo das Sete Léguas
+Conjuro Estrábico
+Espiral Mental
+Ventre da Fera
+O Vínculo da Deusa
+Portador do Vácuo
+Juramento da Morte
+Estripavento
+Passada do Semideus
+Coroa de Olhos
+Rainha da Floresta
+Divinação Destilada
+Pira
+Sinete de Perandus
+Agarrada de Mon'tregul
+A Bigorna
+A Deusa Desprezada
+Fúria Imortal de Kongor
+A Dança Sangrenta
+Guardaz Negroz
+Auxium
+Revelação de Shavronne
+Pressa da Morte
+Presentes do Céu
+Acuidade de Victario
+Devoção de Voll
+Saudação de Daresso
+Paraíso Imaculado
+Santuário Olmeca
+Ladrão de Almas
+Tesouro Maldito de Oba
+Lamento de Sibila
+Panteão de Wraeclast
+O Rathorn
+Mao Kun
+Convento da Chama dos Gêmeos
+Amuleto do Dr. Testapus
+Esmagadora do Carl
+Maça Podre de Robbie
+Maestria de Mark2
+Revingança de Rory
+Repreensão dos Vaal
+Bateria Vazia
+Vestes da Ruína da Luz
+Batina de Zahndetos
+NameGoesHere
+O Portador da Chuva
+Lanterna de Lori
+Ponto Fraco de Atziri
+Bobina de Ungil
+Al Dhih
+Marfim do Leviatã
+Último Recurso
+Sino dos Mortos
+Asilo de Poorjoy
+Tormento do Ladrão
+Aurumvorax
+Abyssus
+Ylfe Ban
+Tolice de Vizaru
+Ninho do Rato
+Mão do Morto
+Punho do Trovão
+Portador Infernal
+Honra de Arimagius
+Graça de Kalisa
+Toque Gentil de Asenath
+Punhovorme
+Manto d'Alma
+Tumba de Gelo
+Pilar do Deus Aprisionado
+Vetores do Raio Sombrio
+Tabula Rasa
+Passo do Arco-Íris
+Agilidade de Bronn
+Mil Fitas
+Ascensão da Fênix
+Uivo do Alfa
+Esmaga-Amaça
+Buscador de Sangue
+Cabeça de Starkonja
+Pesadelo de Acton
+Lanterna de Nycta
+Julgamento do Covarde
+Pilar de Cernobog
+Le Heup de Todos
+Jaqueta de Carcaça
+Turbilhão do Caos
+Destruidor de Corações
+Matua Tupuna
+Triunfo do Semideus
+Nuvem de Tempestade
+O Ceifador Sanguinário
+Espelho de Atziri
+Decreto da Rainha
+Mortem Morsu
+Manto Infernal
+O Pacto
+A Verdade Suprema
+Égide Aurora
+Aro de Ouro
+Tremor de Taryn
+Sombra da Raposa
 Palmo de Titucius
 Palmo de Titucus
-Mascote Sapo
-Bracelete de Tolman
-Tomahawk
-Tumba
-Lápide
-Lápide Profana
-Tábua de Ferramentas
-Frasco de Topázio
-Anel de Topázio
-Tocha
-Tiro Tornado
-Varinha do Tornado
-Mascote Tartaruga
-Jaula de Tortura
-Mapa da Câmara de Tortura
-Aparelho de Tortura
-Marreta Totêmica
-Toque da Angústia
-Toque de Deus
-Chave da Torre
-Tranquilidade
-Transformador
-Estilha de Transmutação
-Suporte: Dano de Armadilha e Mina
-Suporte: Resfriamento de Armadilhas
-Suporte: Armadilha
-Botas do Armadilheiro
-Luvas do Armadilheiro
-TrapperBodyTempName
-Carroça de Viagem
-Caçador de Tesouros
-Chave do Tesouro
-Árvore
-Casa na Árvore
-Varinha do Tremor
-Baú Tribal
-Tiara Tribal
-Clava Tribal
-Marreta Tribal
-Efeito Chamado da Tempestade Tribal
-Triclínico
-Tricorne
-Trishula
-Lamelar Triunfante
-Pináculo de Madeira-Troll
-Mapa da Ilha Tropical
-Trefina
-Mapa do Túnel
-Virando a Outra Face
-Amuleto de Turquesa
-Máscara Turquesa do Diabrete
-Efeito de Arma Turquesa
-Escudo Espiritual de Ramo
-Lâmina do Crepúsculo
-Garra Gêmea
-Chifres Torcidos
-Espada de Duas Mãos
-Aljava de Flechas de Duas Pontas
-Anel de Duas Pedras
-Twyzel
-Sekhem do Tirano
-Umbilicus Immortalis
-Fúria do Oprimido
-Mapa do Rio Subterrâneo
-Mapa do Mar Subterrâneo
-Talismã da Carne Imperecível
-Bobina de Ungil
-Desastre de Ungil
-Harmonia de Ungil
-Bobina de Ungil
-Anel Desmontado
-Carga Instável
-Paraíso Imaculado
-Urna
-Pele de Urso
-Arco Vaal
-Machado Vaal
-Lâmina Vaal
-Broquel Vaal
-Flecha Ardente Vaal
-Cuidado Vaal
-Clareza Vaal
-Garra Vaal
-Estalo Gelado Vaal
-Ciclone Vaal
-Destroços Vaal
-Detonar Morto Vaal
-Disciplina Vaal
-Golpe Duplo Vaal
-Poço de Fogo Vaal
-Bola de Fogo Vaal
-Armadilha de Fogo Vaal
-Explosão Flamejante Vaal
-Mobília Vaal
-Manoplas Vaal
-Martelo Glacial Vaal
-Graça Vaal
-Espada Larga Vaal
-Grevas Vaal
-Impacto Sísmico Vaal
-Ímpeto Vaal
-Machadinha Vaal
-Golpe Pesado Vaal
-Explosão Congelante Vaal
-Chamado Imortal Vaal
-Golpe Relampejante Vaal
-Armadilha Relampejante Vaal
-Teleporte Relampejante Vaal
-Marcador Vaal
-Máscara Vaal
-Escudo Flamejante Vaal
-Orbe Vaal
-Pilar Vaal
-Moldura de Retrato Vaal
-Sifão de Poder Vaal
-Pilone Vaal
-Pirâmide Vaal
-Mapa da Pirâmide Vaal
-Chuva de Flechas Vaal
-Rapieira Vaal
-Devastação Vaal
-Regalia Vaal
-Fogo da Justiça Vaal
-Cetro Vaal
-Selo Vaal
-Sentenciamento Vaal
-Centelha Vaal
-Arremesso Espectral Vaal
-Escudo Espiritual Vaal
-Chamado da Tempestade Vaal
-Convocar Esqueletos Vaal
-Varrida Vaal
-Mapa do Templo Vaal
-Vaso Vaal
-Efeito de Arma Vaal
-Sinete de Valako
-Efeito de Arma Coração dos Namorados (2013)
-Efeito de Arma Coração dos Namorados (2014)
-Efeito de Arma Coração dos Namorados (2015)
-Poder do Vampiro
-Armadura Vampírica
-Botas Vampíricas
-Efeito de Pegada Vampírico
-Luvas Vampíricas
-Capacete Vampírico
-Efeito de Arma Vampírico
-Tintura da Invisibilidade
-Efeito Ataque Tremeluzente Vapor
-Lâmina Variscita
-Casaco Envernizado
-Varunastra
-Relíquias de Atziri
-Véu da Noite
-Luvas de Veludo
-Sapatilhas de Veludo
-Vingança
-Aposta de Ventor
-Efeito de Flecha Espelhada e Ilusória Verdejante
-Armadura Verdejante
-Botas Verdejantes
-Efeito Pegadas Verdejantes
-Luvas Verdejantes
-Capacete Verdejante
-Trono Verdejante
-Efeito de Arma Verdejante
-Aríetes de Veruso
-Vaso de Vinktar
-Vestígio da Divindade
-Recipiente do Poder
-Máscara do Victario
-Acuidade de Victario
-Bondade de Victario
-Influência de Victario
-Asas Vitoriosas
-Golpe Vigilante
-Cajado Vil
-Mapa da Quinta
-Mapa das Ruínas do Vilarejo
-Tiara de Videira
-A Lembrancinha de Vinia
-Golpe da Víbora
-Escamas da Víbora
-Joia Viridiana
-Vis Mortis
-Morrião com Viseira
-Vitalidade
-Tolice de Vizaru
-Machado do Além
-Bateria Vazia
-Suporte: Manipulação do Vácuo
-Cetro do Além
-Portador do Vácuo
-Olho do Além
-Efeito de Portal Vácuo
-Coração Vazio
+Essentia Sanguis
+Infractem
+Manto das Chamas
+Ashrend
+Couro de Dewath
+Espinhoral
+Voo de Ondar
+Chin Sol
+Barganha da Meia Noite
 Lar do Além
-O Poder Volátil
-Mapa do Vulcão
-Chave de Volkuur
-Rajada Ígnea
-Confissão de Voll
-Devoção de Voll
-Protetor de Voll
-Visão de Voll
-Fenda Voltaxica
-Turbilhão
-Mina de Vórtice
-Vulnerabilidade
-Carroça
-Destroços de Carroça
-Despertar da Destruição
-Parede
-Muro de Espinhos
-Parede de Espinhos
-Interruptor de Parede
-Mascote Wallaby
-Escudo Espiritual de Nogueira
-Varinha Teleportadora
-Sede de Viajar
-Machado de Guerra
-Broquel de Guerra
-Martelo de Guerra
-Placas de Guerra
-Espada de Guerra
-Panteão de Wraeclast
-Marca do Senhor da Guerra
-Alcance do Senhor da Guerra
-Relógio Deformado
-Moldura de Retrato do Guerreiro
-Efeito de Portal Assalto do Guerreiro 
-Acessório para Costas Marca do Guerreiro 
-Mapa do Lago Poluído
-Mapa da Devastação
-Neblina D'Água
-Efeito Explosão Aquática
-Mapa dos Canais
-Trajes Encerados
-Pedra do Caminho
-Riqueza e Poder
-Suporte: Dano Elemental da Arma
-Estante de Armas
-Restos com Teias
-Toco com Teias
-Árvore com Teia
-Chapéu de Bruxa com Teia
-Peso do Pecado
-Peso do Império
-Poço
-Talismã da Garra do Licantropo
-Mascote Weta
-Whakawairua Tuahu
-Nadadeiras do Esqueleto de Baleia
-Ossos do Esqueleto de Baleia
-Cabeça do Esqueleto de Baleia
-Costelas do Esqueleto de Baleia
-Espinha do Esqueleto de Baleia
-Rapieira de Osso de Baleia
-Tapete de Cabana
-Mapa do Cais
-Roda da Vela Náutica
-Lâminas Giratórias
-Ciclone Branco
-Mascote Tigre Branco
-Efeito de Arma Branco
-Feixe de Luz Largo
-Balanço Largo
-Mortífera
-Robe da Viúva da Seda
-Couraça Selvagem
-Golpe Selvagem
-Mascote Peru Selvagem
-Fogo Selvagem
-Corte Selvagem
-Fogos de Artifício da Vitória
-Estripavento
-Ventos da Mudança
-Grito do Vento
-Estátua Alada
-Asas da Entropia
-Coração Invernal
-Recompensa do Inverno
-WIP Stone Flask
-Suporte: WIP
-Enxame de Vespas
-Chapéu de Bruxa
-Definhar
-Pele de Lobo
-Mascote Lobo
-Armadilha Maravilhosa
-Cajado de Madeira
-Cortador de Madeira
-Luvas de Lã
-Sapatos de Lã
-Machado do Espectro
-Espada Fantasma
-Botas Embrulhadas
-Luvas Embrulhadas
-Ira
-Corta-Pulso
-Talismã Contorcido
-Punhovorme
+Desmembrador
+Desdém Sombrio
+Chuva de Penas
+Vestimenta de Shavronne
+Ponta Brilhante
+Ossos de Ullr
+Goldwyrm
+Desastre de Ungil
+Devoção de Devoto
+Jornada do Pecado
+Quebra-Cara
+Torno de Meginord
+Torno de Deshret
+Coração da Carnificina
+Marohi Erqi
+Folha da Primavera
+Guardião Prismático
+Relíquias de Atziri
+Pesar da Lua
+Olhar da Geada
+Quadro de Saffell
+Investida de Ambu
+Tipua Kaikohuru
+Terminus Est
+Perseguição do Ceifador
+Remorso de Lioneye
+Brasão de Perandus
+Kaltenhalt
+Globo de Rathpith
+Coragem de Daresso
+Cinturão de Meginord
+Brasão de Perandus
+O Magnata
 Couro de Wurm
-Maça do Wyrm
-Rapieira de Osso de Wyrm
-Botas de Escamas de Wyrm
-Gibão de Escamas de Wyrm
-Manoplas de Escamas de Wyrm
-Sinal da Wyrm
-Alavanca de Xirgil
-Escudo de Yaksha
-Feixe de Luz Amarelo
-Efeito de Arma Amarelo
-Escudo Espiritual de Teixo
-Ylfe Ban
-Trapaça de Ylfeban
-Chave de Yriel
-Batina de Zahndetos
-Botas do Zelote
-Luvas do Zelote
-Capacete do Zelote
-Último Suspiro de Zerphi
-Juventude de Zerphi
-Visual de Totem Zigurate
-Couraça do Zodíaco
+Astramentis
+O Ignomon
+Cuidado Lochtonial
+Fivela de Ondar
+Posse de Doedre
+Toque de Sadima
+Aurseize
+Aperto Escorregadio
+Virtuosidade de Maligaro
+Pesar de Hrim
+Grito do Vento
+Dança do Sol
+Passada de Shavronne
+Sede de Viajar
+Despertar da Destruição
+Patas de Lioneye
+Esfola Poderosa
+Armadilha Maravilhosa
+Araku Tiki
+Elmo de Geofri
+Honralar
+O Peregrino
+Determinação de Hrimnor
+Ápice de Chitus
+Marca de Asenath
+Coroa de Espinhos
+Calafrio Quente
+Tricorne de Fairgraves
+Coração de Kaom
+Ira de Hyrri
+Olho de Chayula
+Proteção Karui
+Sopro dos Sidhe
+Golpe-Largo
+Brilho-Negro
+Fragmentos dos Sonhos
+Danação de Doedre
+Ferroada Arrepiante
+Investida de Rigvald
+Batismo de Geofri
+Hino de Hrimnor
+O Toque Lancinante
+Arpa da Morte
+Pico Ezomita
+Simula de Malachai
+Fio Efêmero
+Ramo Argênteo
+Divinarius
+Protetor de Voll
+Presença do Semideus
+Deslumbre de Lioneye
+Andvarius
+Bobina de Ungil
+Sinete de Kaom
+Coração Negro
+Pedra de Lazhwar
+Bico Vermelho
+Primazia de Kaom
+A Coleção do Adivinho
+Além da Visão IV
+Além da Visão III
+Além da Visão II
+Além da Visão I
+Os Incitadores da Guerra IV
+Os Incitadores da Guerra III
+Os Incitadores da Guerra II
+Os Incitadores da Guerra I
+Rivalidade Mortal V
+Rivalidade Mortal IV
+Rivalidade Mortal III
+Rivalidade Mortal II
+Rivalidade Mortal I
+O Bandido Ambicioso III
+O Bandido Ambicioso II
+O Bandido Ambicioso I
+A Rainha Que Não Respira V
+A Rainha Que Não Respira IV
+A Rainha Que Não Respira III
+A Rainha Que Não Respira II
+A Rainha Que Não Respira I
+Sussurros Insuportáveis V
+Sussurros Insuportáveis IV
+Sussurros Insuportáveis III
+Sussurros Insuportáveis II
+Sussurros Insuportáveis I
+O Invasor 
+A Terra que Treme
+O Coro Amaldiçoado
+O Enxame Faminto
+Solo, Minhocas e Sangue
+A Provação do Sonho
+Visões dos Afogados
+Praga dos Sapos
+O Espalhar da Corrupção
+Tesouro Monstruoso
+Invasão Vaal
+Tocado pela Morte
+Inimigo Possuído
+Os Gêmeos
+Os Mapas Perdidos
+Maculado no Cetro
+No Aperto da Corrupção
+Segurando a Ponte
+Energia Anormal
+O Armazenador
+A Guarnição Esquecida
+A Criança de Lunaris
+Piscinas de Riqueza
+Os Soldados Esquecidos
+Caminho da Traição
+Finalmente Pousio
+Fogos Vivos
+Ventos Vaal
+Nevasca Esmagadora
+A Tempestade Morta-Viva
+A Queda do Raio
+Gelo de Cima
+Fogo do Céu
+Impressões Persistentes
+Gêmeos Mortais
+Os Quatro Exilados Selvagens
+Armadilhas Caridosas
+Tentáculos Amaciadores
+Arte de Kalandra
+O Guia Bonito
+O Par
+Tocado pelo Vento
+Resistente à Mudança
+Transformação Vital
+Toque Dourado
+A Armadura Endurecida
+A Lâmina Afiada
+Renascimento
+Reforços Escondidos
+Finalizando o Tormento
+Apagado da Memória
+Dourado por Dentro
+Lição do Caçador
+A Benção
+Dia de Sacrifício IV
+Dia de Sacrifício III
+Dia de Sacrifício II
+Dia de Sacrifício I
+Mortos se Levantando
+Invasores Misteriosos
+Invasores Misteriosos
+Invasores Misteriosos
+Invasores Misteriosos
+Invasores Misteriosos
+Um Risco Inesperado
+Encantado Duplamente
+Fim da Anarquia IV
+Fim da Anarquia III
+Fim da Anarquia II
+Fim da Anarquia I
+Praga de Ratos
+O Lorde Selvagem V
+O Lorde Selvagem IV
+O Lorde Selvagem III
+O Lorde Selvagem II
+O Lorde Selvagem I
+Rivalidade Ancestral IV
+Rivalidade Ancestral III
+Rivalidade Ancestral II
+Rivalidade Ancestral I
+Pela Miragem
+Santuário de Pedra
+Entre no Redemoinho
+A Toca dos Piratas
+História Taumatúrgica IV
+História Taumatúrgica III
+História Taumatúrgica II
+História Taumatúrgica I
+A Mandíbula da Praga V
+A Mandíbula da Praga IV
+A Mandíbula da Praga III
+A Mandíbula da Praga II
+A Mandíbula da Praga I
+Riquezas Exuberantes
+Laços Refeitos
+Os Irmãos da Necromancia
+O Ninho
+Sangue nos Olhos
+Um Chamado no Vazio
+O Testemunho Vazio
+O Homem Esfolado
+Chorando a Morte
+Perdido nas Páginas
+Vento e Trovão
+Esplendor Anormal
+Fogo, Madeira e Pedra
+Carne da Besta
+Guardiões do Silêncio
+Carne Entalhada
+Coração do Fogo
+Sangue dos Traídos
+O Vigia do Vigia
+Uma Mão Prodígio
+A Última Vigília
+Uma Oração Sussurrada
+Os Imortais Perdidos
+Forte como um Touro
+Purificação dos Pecados
+A Vanguarda
+O Petrificado
+Tormenta no Litoral
+Chamas Graciosas
+O Executor Brutal
+Contra a Maré
+A Dama de Preto
+Batizado pela Morte
+A Pedra do Pecador
+A Fera sem Alma
+Legado de Roth
+A Chave da Prisão
+O Vasto Alcance do Medo
+A Proteção do Protetor
+Uma Base Segura
+Tempestade no Horizonte
+Da Morte Floresce a Vida
+O Pranto da Águia
+A Paixão do Rei da Espada
+O Guarda da Prisão
+A Montanha Andante
+A Pedra Negra IV
+A Pedra Negra III
+A Pedra Negra II
+A Pedra Negra I
+SHOULD NOT APPEAR
+A Rainha Mal Entendida
+O Início e o Fim
+Lupa do Poder
+Melodias Fúnebres do Inverno
+O Coração do Servo
+A Madeira Prateada
+Destruição Ancestral
+Os Membros Cortas
+O Predador do Ápice
+A Chama Extinta
+Resiliência da Natureza
+Boca dos Horrores
+Choro de Morte
+A Ressurreição das Flores Sangrentas
+Prazer e Dor
+Fogo e Gelo
+Uma Floresta e Falsos Ídolos
+Fogo e Enxofre
+Golpes Pesados
+Do Vazio
+A Música das Cordas do Arco
+O Fluxo de Energia
+O Rei e os Espinheiros
+A Rebelião Karui
+O Caminho do Rei
+Presente de Erasmus
+Um Mestre Gracioso
+O Toque do Joalheiro
+Do Lixo Ao Tesouro
+Conexões Predestinadas
+Uma Combinação Valiosa
+O Presente Misterioso
+Sangue Ressucitado
+Os Quatro Exilados Selvagens
+Os Brutos Mortos-Vivos
+Caminhos Ocultos dos Vaal
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Um Mestre Busca Ajuda
+Ecos do Amor Perdido
+Ecos da Mutação
+O Deus do Azar
+Ecos de Bruxaria
+Irmãos em Armas
+O Espírito do Esteta
+O Sonho do Sonhador
+Exorcismo Violento
+O Ferreiro
+NÃO DEVERIA APARECER
+Nêmesis da Ganância
+O Tesouro do Imperador
+O Corrupto
+Uma Morte Real
+O Alquimista
+Aguardando na Emboscada
+O Batedor
+O Exilado Rico
+O Espírito Singular
+Os Cofres da Rainha
+Teste de Falha e Delay
+Teste de Delay
+Teste de Falha

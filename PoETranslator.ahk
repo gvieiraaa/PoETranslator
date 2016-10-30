@@ -35,7 +35,6 @@ ItemName := 1
 FoundPT := 0
 FoundEN := 0
 
-
 ;CARREGAR EN
 ArrayCountEN = 0
 Loop, Read, EN.txt
@@ -54,7 +53,7 @@ Loop, Read, PT.txt
 
 
 ;COMANDO PRINCIPAL
-+t:: 
++y:: 
 #IfWinActive, Path of Exile ahk_class Direct3DWindowClass 
 {
 	GetItemName()
@@ -129,32 +128,27 @@ GetItemName() {
 
 if (FoundPT = 1 and FoundEN = 1)
 	{
-	clipboard = %ItemEN% Tem o mesmo nome em PT e EN.
+	clipboard = %ItemEN% Tem o mesmo nome em PT e EN. [Script em tiny.cc/tradutor]
 	conteudo = %ItemEN% Tem o mesmo nome em PT e EN.
 	ShowToolTip(conteudo)
 	}
 if (FoundPT = 1 and FoundEN != 1)
 	{
-	clipboard = %ItemPT% (PT) = %ItemEN% (EN)
+	clipboard = %ItemPT% (PT) = %ItemEN% (EN) [Script em tiny.cc/tradutor]
 	conteudo = %ItemPT% (PT) = %ItemEN% (EN)
 	ShowToolTip(conteudo)
 	}
 if (FoundPT != 1 and FoundEN = 1)
 	{
-	clipboard = %ItemEN% (EN) = %ItemPT% (PT)
+	clipboard = %ItemEN% (EN) = %ItemPT% (PT) [Script em tiny.cc/tradutor]
 	conteudo = %ItemEN% (EN) = %ItemPT% (PT)
 	ShowToolTip(conteudo)
 	}
 if (FoundPT != 1 and FoundEN != 1)
 	{
-	clipboard = %data2%: Item não encontrado
+	clipboard = %data2%: Item não encontrado [Script em tiny.cc/tradutor]
 	conteudo = %data2%: Item não encontrado
 	ShowToolTip(conteudo)
 	}
 }
 }		
-
-
-
-
-

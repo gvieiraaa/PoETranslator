@@ -1,3085 +1,3980 @@
-A Mother's Parting Gift
-Abandoned Cavern Map
-Abandoned Wealth
-Abberath's Horn
-Abyss Map
-Abyssal Axe
-Abyssal Cry
-Abyssal Sceptre
-Abyssus
-Academy Map
-Acid Scorpion Pet
-Acid Weapon Effect
-Acton's Nightmare
-Added Chaos Damage Support
-Added Cold Damage Support
-Added Fire Damage Support
-Added Lightning Damage Support
-Adder's Claw
-Additional Accuracy Support
-Advancing Fortress
-Aegis Aurora
-Agate Amulet
-Agave Plant
-Agnerod East
-Agnerod North
-Agnerod South
-Agnerod West
-Ailment Durations
-Al Dhih
-Alabaster Seraph Body Armour
-Alabaster Seraph Boots
-Alabaster Seraph Gloves
-Alabaster Seraph Helmet
-Alberon's Warpath
-Albino Kiwi Pet
-Albino Rhoa Feather
-Alchemy Shard
-Alder Spiked Shield
-Alien Grass
-Alira's Amulet
-Alkem Eira
-Allflame
-Alloyed Spiked Shield
-Allure
-Aloe Plant
-Alpha's Howl
-Altar
-Alteration Shard
-Alternate Raise Spectre
-Alternate Raise Zombie
-Alternate Totem
-Amaranthine Gargoyle Pet
-Amber Amulet
-Ambu's Charge
-Ambush Boots
-Ambush Mitts
-Ambush Ritual Horns
-Ambusher
-Amethyst Flask
-Amethyst Ring
-Ammonite Glyph
-Amplification Rod
-Amplifier Chair
-Anarchy's Price
-Anatomical Knowledge
-Ancestral Blademaster
-Ancestral Club
-Ancestral Protector
-Ancestral Warchief
-Ancient Gauntlets
-Ancient Greaves
-Ancient Spirit Shield
-Ancient Sword
-Ancient Vessel
-Ancient Waystones
-Andvarius
-Angelic Kite Shield
-Angelic Mask
-Anger
-Animal Cage
-Animal Pile
-Animate Guardian
-Animate Weapon
-Antique Gauntlets
-Antique Greaves
-Antique Rapier
-Antlers
-Anvil
-Apep's Rage
-Apex Rapier
-Apparitions
-Apprentice Banner Back Attachment
-Apprentice Body Armour
-Apprentice Boots
-Apprentice Gloves
-Apprentice Helmet
-Apprentice Hideout Banner
-Aquamarine Flask
-Arachnid Nest Map
-Araku Tiki
-Arc
-Arc of Courage
-Arc of Defiance
-Arcade Map
-Arcane Body Armour
-Arcane Boots
-Arcane Contagion Effect
-Arcane Essence Drain Effect
-Arcane Gloves
-Arcane Helmet
-Arcane Throne
-Arcane Weapon Effect
-Arcane Wither Effect
-Arcanist Gloves
-Arcanist Slippers
-Archon Kite Shield
-Arctic Armour
-Arctic Body Armour
-Arctic Boots
-Arctic Breath
-Arctic Crown
-Arctic Footprints Effect
-Arctic Gloves
-Arctic Helmet
-Arctic Ice Nova Effect
-Arctic Lynx Pet
-Arctic Portal Effect
-Arctic Skull
-Arctic Skull Hatred Effect
-Arctic Weapon Effect
-Arena Map
-Arena Plate
-Arid Lake Map
-Arimagius' Honor
-Arming Axe
-Armourer's Scrap
-Armourer's Workbench
-Army of Bones
-Arsenal Map
-Artisan's Bench
-Ascendant Portal Effect
-Ascendant Portrait Frame
-Ascendant Weapon Effect
-Ascent From Flesh
-Asenath's Gentle Touch
-Asenath's Mark
-Ashcaller
-Ashes of the Condemned
-Ashes of the Sun
-Ashrend
-Ashscale Talisman
-Asphyxia's Wrath
-Aspirant Portal Effect
-Aspirant Portrait Frame
-Aspirant Weapon Effect
-Assassin Bow
-Assassin's Boots
-Assassin's Favour
-Assassin's Garb
-Assassin's Haste
-Assassin's Mark
-Assassin's Mitts
-Astral Plate
-Astramentis
-Attribute Override
-Atziri's Acuity
-Atziri's Disfavour
-Atziri's Foible
-Atziri's Mirror
-Atziri's Promise
-Atziri's Reign
-Atziri's Splendour
-Atziri's Step
-Audacity
-Aura Effect 1
-Aura Effect 2
-Aura Effect 3
-Aura Effect 4
-Aureate Halo
-Auric Mace
-Aurseize
-Aurumvorax
-Auxium
-Aventail Helmet
-Avian Slippers
-Avian Twins Talisman
-Awakening Weapon Effect
-Awl
-Axiom Perpetuum
-Axiom Portrait Frame
-Axiom Weapon Effect
-Azure Imp Mask
-Azure Seraph Weapon Effect
-Azure Weapon Effect
-Baby Black Death Pet
-Baby Elephant
-Backstab
-Badge of Anguish
-Badge of Mirth
-Badge of Skulls
-Baleful Gem
-Ball Lightning
-Band of the Victor
-Bandana
-Bane of the Loyal
-Banner
-Barbed Club
-Barbute Helmet
-Baroque Round Shield
-Barrage
-Barrels
-Barricade
-Bartek's Finger
-Basalt Flask
-Baselard
-Basin
-Basket
-Basket Rapier
-Bastard Sword
-Bastinado
-Bated Breath
-Battered Foil
-Battered Helm
-Battle Buckler
-Battle Hammer
-Battle Lamellar
-Battle Plate
-Battle Sword
-Battlehaste
-Bazaar Map
-Beach Flies
-Beam
-Bear Trap
-Behemoth Mace
-Bell Lizard Pet
-Belly Ground Spikes
-Belly of the Beast
-Belt of the Deceiver
-Bent Horns
-Berek's Grip
-Berek's Pass
-Berek's Respite
-Bino's Kitchen Knife
-Bird Cage
-Birth of the Three
-Bismuth Flask
-Bitterdream
-Black Cat Pet
-Black Hole Portal Effect
-Black Maw Talisman
-Black Rat Pet
-Black Rose of Anarchy
-Black Sun Crest
-Blackgleam
-BlackGuardz
-Blackheart
-Blacksmith's Whetstone
-Blade Sentry Debris
-Blade Sentry Pet
-Blade Trap
 Blade Vortex
-Bladed Mace
-Bladefall
-Blasphemy Support
-Blast Rain
-Blessed Orb
-Blessing Font
+Spectral Spirits
+Fire Burst
+Fire Beam
+Atlas Riftwalk
+Inca Boss Freezing Pulse
+Goddess Beam
+Goddess Warp
+Wand Teleport
+Kill
+Bleed Nova
+Flask Charge Nova
+Damage On Movement Skill Use Aura
+Increased Damage Taken Aura
+Skeletal Chains
+Physical Degeneration Aura
+Slow Aura
+Elemental Projectiles
+Lacerate
+Ancestral Warchief
+Ancestral Blademaster
+Izaro Warp
+Izaro Reave
+Elemental Weakness
+Vulnerability
+Temporal Chains
+Summon Lightning Golem
+Face Last Target
+Icefire
+Doom Arrow
+Blade Trap
+Spirit Offering
+RepeatingShockwave
+Blade Flurry
+Charged Attack
+Commandment of Ire
+Decree of Ire
+Edict of Ire
+Word of Ire
+Energy Beam
+Molten Burst
+Riptide
 Blight
-Blightwell
-Blind Support
-Blind Venture
-Blinder
+Vortex
+Frost Bolt Channel
+Frostbolt
+Summon Spectral Wolf
+Talisman Summon Lightning Spiral
+Talisman Degen
+Range Finder
+Sunder
+Fire Burst
+Shadow Blades
+Vinktar Lightning Bond
+Storm Cloud Lightning Warp
+Ancestral Protector
+Siege Ballista
+Commandment of Fury
+Decree of Fury
+Edict of Fury
+Word of Fury
+Commandment of Spite
+Decree of Spite
+Edict of Spite
+Word of Spite
+Commandment of Blades
+Decree of Blades
+Edict of Blades
+Word of Blades
+Commandment of Frost
+Decree of Frost
+Edict of Frost
+Word of Frost
+Commandment of Inferno
+Decree of Inferno
+Edict of Inferno
+Word of Inferno
+Essence Drain
+Wither
+Contagion
+Earthquake
+Righteous Lightning
+Commandment of War
+Decree of War
+Edict of War
+Word of War
+Whirling Leap
+Commandment of Force
+Decree of Force
+Edict of Force
+Word of Force
+Summon Stone Golem
+Commandment of Thunder
+Decree of Thunder
+Edict of Thunder
+Word of Thunder
+Commandment of Light
+Decree of Light
+Edict of Light
+Word of Light
+Commandment of Reflection
+Decree of Reflection
+Edict of Reflection
+Word of Reflection
+Commandment of the Grave
+Decree of the Grave
+Edict of the Grave
+Word of the Grave
+Orb of Storms
+Manifest Dancing Dervish
+Commandment of Flames
+Decree of Flames
+Edict of Flames
+Word of Flames
+Frost Bomb
+Rain Of Blades
+Bladefall
+Piety Reverse Cleave
+Static Tether
+Shrapnel Shot
+Blast Rain
+Phase Run
+Mortar
+Ice Trap
+Piety Beam
+Wild Strike
+Arctic Armour
+Punishment
+Magma Orb
+Curse Consume
+Leap Slam
+Fire Elemental Cone
+Frost Blades
+Ice Elemental Spear
+Vigilant Strike
+Barrel Explosion
+Curse Transfer
+Gluttony of Elements
+Flame Dash
+Shock Nova
+Ice Crash
+Summon Flame Golem
+Summon Ice Golem
+Summon Chaos Golem
+Vengeance
+Commandment of the Tempest
+Decree of the Tempest
+Edict of the Tempest
+Word of the Tempest
+Static Strike
+Reckoning
+Riposte
+Mirror Arrow
 Blink Arrow
-Block Chance Reduction Support
-Blood and Bone
-Blood Fog (Red)
-Blood Fog (Yellow)
-Blood Magic Support
-Blood of Corruption
-Blood of Summer
-Blood of the Karui
-Blood Rage
-Blood Raiment
-Blood Sacrifice
-Blood Sceptre
-Blood Slam
-Bloodboil
-Bloodgrip
-Bloodletter
-Bloodletter of the Vaal
-Bloodlust Support
-Bloodplay
-Bloodseeker
-Bloodworm Pet
-Bloody Corpse
-Bloody Corpse Pile
-Blown Leaves
-Blue Cyclone
-Blue Flame Incinerate
-Blue Frog Pet
-Blue Land Crab Pet
-Blue Light Beam
-Blunt Arrow Quiver
-Boarding Axe
-Boat Remains
-Boat Wreckage
-Body Armour Stand
-Body Bag
-Body Parts
-Bog Map
-Bone Armour
-Bone Bow
-Bone Circlet
+Kinetic Blast
+Commandment of Winter
+Decree of Winter
+Edict of Winter
+Word of Winter
+Lightning Tendrils
+Poacher's Mark
+Herald of Thunder
+Herald of Ice
+Herald of Ash
+Herald of Blood
+Illusory Warp
+Tornado Shot
+Fire Nova Mine
+Convocation
+Molten Strike
+Glacial Cascade
 Bone Offering
-Bone Spirit Shield
-Bones of Ullr
-Bonespire Talisman
-Book of Reform
-Book of Regression
-Book of Regrets
-Book of Skill
-Book Pile
-Book Shelf
-Books
-Boot Blade
-Boot Knife
-Booth
-Boreal Shepherd
-Borrowed Power
+Flesh Offering
+Desecrate
+Flame Surge
+Summon Raging Spirit
+Wildfire
+Barrage
+Vaal Flameblast
+Flameblast
+Flameblast
+Vaal Storm Call
+Storm Call
+Purity of Lightning
+Purity of Ice
+Purity of Fire
+Animate Weapon
+Vaal Spectral Throw
+Spectral Throw
+Animate Guardian
+Smoke Mine
+Vaal Lightning Trap
+Lightning Trap
+Touch Of God
+Vaal Reave
+Reave
+Searing Bond
+Vaal Cyclone
+Cyclone
+Incinerate
+Incinerate
+Ball Lightning
+Conductivity
+Frostbite
+Flammability
+Flame Totem
+Arctic Armour
+Arctic Breath
+Ice Shot
+Ethereal Knives
+Devouring Totem
+Decoy Totem
+Vaal Fire Trap
+Fire Trap
+Freeze Mine
+Bear Trap
+Conversion Trap
+Rejuvenation Totem
+Shockwave Totem
+Detonate Mines
+Vaal Clarity
+Clarity
+Vaal Burning Arrow
+Burning Arrow
+Wrath
+Hatred
+Anger
+Determination
+Determination
+Vaal Grace
+Grace
+Vaal Discipline
+Discipline
+Vaal Vitality
+Vitality
+Purity of Elements
+Vaal Haste
+Haste
+Taunt
+Lightning Arrow
+Puncture
+Vaal Power Siphon
+Power Siphon
+Vaal Molten Shell
+Molten Shell
+Tempest Shield
+Vaal Lightning Strike
+Lightning Strike
+Icestorm
+Firestorm
+Vaal Rain of Arrows
+Rain of Arrows
+Dominating Blow
+Vaal Heavy Strike
+Heavy Strike
+Vaal Summon Skeletons
+Summon Skeletons
+Vaal Lightning Warp
+Lightning Warp
+Vulnerability
+Projectile Weakness
+Assassin's Mark
+Enfeeble
+Punishment
+Warlord's Mark
+Elemental Weakness
+Temporal Chains
+Explosive Arrow
+Phase Run
+Viper Strike
+Shock Nova
+Freezing Pulse
+Frost Wall
+Vaal Glacial Hammer
+Glacial Hammer
+Infernal Blow
+Raise Spectre
+Ice Spear
+Vaal Spark
+Spark
+Default Attack
+Portal
+Discharge
+Damage Infusion
+Fire Weapon
+Vaal Righteous Fire
+Righteous Fire
+Raise Zombie
+Vaal Arc
+Arc
+Vaal Fireball
+Fireball
+Ignite
+Vaal Ice Nova
+Ice Nova
+Vaal Cold Snap
+Cold Snap
+Split Arrow
+Blood Rage
+Throw
+Flicker Strike
+Snipe
+Vaal Detonate Dead
+Detonate Dead
+Backstab
+Caustic Arrow
+Frenzy
+Whirling Blades
+Dual Strike
+Vaal Immortal Call
+Immortal Call
+Elemental Hit
+Vaal Double Strike
+Double Strike
+Leap Slam
+Abyssal Cry
+Rallying Cry
+Enduring Cry
+Shield Charge
+Shield Charge
+Cleave
+Vaal Ground Slam
+Ground Slam
+Vaal Sweep
+Sweep
+Fire Beam
+Offering to the Goddess
+Skeletal Chains
+Elemental Projectiles
+Portal Shredder
+Black Rose of Anarchy
+Cogs of Disruption
+Sand of Eternity
+Vial Of Power
+Rod of Detonation
+Orb of Elemental Dispersion
+Cube Of Absorption
+Heart of the Gargoyle
+Bane of the Loyal
+Mawr Blaidd
+The Scavenger
+The Oath
+The Formless Sea
+The Valkyrie
+The Calling
+Dialla's Subjugation
+The Wolf
+The Penitent
+The Endurance
+Luck of the Vaal
+Light and Truth
+Lucky Deck
+Stacked Deck
+Cartographer's Delight
+Lysah's Respite
+The Stormcaller
+The Cursed King
+Emperor of Purity
+The Lunaris Priestess
+The Harvester
+The Web
+The Tyrant
+The Void
+Rain Tempter
+Heterochromia
+Shard of Fate
+Destined to Crumble
+The Devastator
 Boundless Realms
-Bow Rack
-Bowmaker's Tools
+The Throne
+The Immortal
+Dying Anguish
+Thunderous Skies
+The Visionary
+The Sephirot
+The Arena Champion
+The Wolf's Shadow
+Earth Drinker
+Treasure Hunter
+Her Mask
+Tranquillity
+The Risk
+Rats
+The Dragon
+The Lion
+The Soul
+The Rabid Rhoa
+The Dapper Prodigy
+The Sigil
+Prosperity
+The Ethereal
+Glimmer of Hope
+Turn the Other Cheek
+The Body
+A Mother's Parting Gift
+The Lord in Black
+Lost Worlds
+The Offering
+The Traitor
+The Demoness
+The Warlord
+The Cartographer
+Merciless Armament
+Blind Venture
+Hubris
+Last Hope
+Volatile Power
+The Surgeon
 Bowyer's Dream
-Bramblejack
-Branded Kite Shield
-Brass Maul
-Brass Spirit Shield
-Brawn
-Breakrib Talisman
-Breath of the Council
-Bricks
-Brightbeak
-Brilliant Crown Effect
-Brilliant Feathers
-Brinerot Cache
-Brinerot Flag
-Brinerot Mark
-Brinerot Whalers
-Briskwrap
-Brittle Barrier
-Broad Axe
-Broad Sword
-Broadhead Arrow Quiver
-Broadstroke
-Broken Blade Sentry
-Broken Faith
-Broken Ornate Fence
-Broken Spikes
+The Surveyor
+The Fletcher
+Hunter's Reward
+The Enlightened
+The Aesthete
+The Thaumaturgist
+The Lich
+Anarchy's Price
+The Twins
+The Tower
+The Conduit
+Scholar of the Seas
+Hunter's Resolve
+Assassin's Favour
+Audacity
+Pride Before the Fall
+Loyalty
+The Inoculated
+The Mercenary
+The Jester
+Grave Knowledge
+Death
+The Survivalist
+The Doppelganger
+The Fox
+The Dragon's Heart
+Gift of the Gemling Queen
+The Vast
+The Catalyst
+Wealth and Power
+House of Mirrors
+The Gentleman
+The Trial
+The King's Blade
+The Wrath
+The Encroaching Darkness
+Doedre's Madness
+The Last One Standing
+The One With All
+The Siren
+The Flora's Gift
+The Betrayal
+The Spoiled Prince
+The Explorer
+Humility
+The Queen
+The Union
+Jack in the Box
+The Pack Leader
+The Inventor
+The Artist
+The Chains that Bind
+The Celestial Justicar
+Gemcutter's Promise
+The Pact
+The Wind
+Abandoned Wealth
+The King's Heart
+Coveted Possession
+The Incantation
+The Watcher
+Rain of Chaos
+The Feast
+Lucky Connections
+Time-Lost Relic
+Emperor's Luck
+The Avenger
+The Road to Power
+Chaotic Disposition
+The Lover
+The Gambler
+The Gemcutter
+The Dark Mage
+The Scarred Meadow
+The Warden
+The Sun
+The Drunken Aristocrat
+The Hoarder
+The Hunger
+The Cataclysm
+The Summoner
+Vinia's Token
+Birth of the Three
+The Fiend
+Hope
+The Carrion Crow
+The Poet
+The Brittle Emperor
+The Scholar
+The Gladiator
+The Battle Born
+The Metalsmith's Gift
+Lantador's Lost Love
+The Hermit
+The Doctor
+Three Faces in the Dark
+Dark Firework
+Goddess Statue
+Kaom's Throne
+Rapture Device
+Dark Crystal
+Large Garden Statue
+Small Garden Statue
+Circular Column
+Garden Statue
+Spinner Tracks
+Sawblade Tracks
+Edge Blade
+Dart Debris
 Broken Spinner
 Broken Spinner Debris
-Bronn's Lithe
-Bronze Gargoyle Pet
-Bronze Gargoyle Statue
-Bronze Gauntlets
-Bronze Kiwi Pet
-Bronze Plate
-Bronze Sceptre
-Bronze Tower Shield
-Bronzescale Boots
-Bronzescale Gauntlets
-Brute Force Solution
-Brutus' Cradle
-Brutus' Lead Sprinkler
-Buckets
-Buckskin Tower Shield
-Buckskin Tunic
-Bulb Palm
-Bulwark Legion
-Bunk
-Burning Arrow
-Burnished Foil
-Burnished Spiked Shield
-Bush
-Bust of Gaius Sentari
-Bust of Hector Titucius
-Bust of Marceus Lioneye
-Butcher Axe
-Butcher Knife
-Butcher Sword
-Cabalist Regalia
-Cabinet
-Cactus
-Caer Blaidd, Wolfpack's Den
-Cagan's Map
-Cage
-Cairn
-Call of the Brotherhood
-Callinellus Malleus
-Callous Mask
-Cameria's Maul
-Candelabrum
-Cane Toad Beta
-Cane Toad Delta
-Cane Toad Epsilon
-Cane Toad Gamma
-Cane Toad Omega
-Cannibal Sheet
-Cannibalistic Habits
-Cannot Die
-Canyon Map
-Carcass Jack
-Cardinal Round Shield
-Careful Planning
-Carl's Crusher
-Carnage Heart
-Carnal Armour
-Carnal Boots
-Carnal Mitts
-Carnal Sceptre
-Carnival Fireworks
-Cart
-Cartographer's Chisel
-Cartographer's Delight
-Carved Wand
-Carving Knife
-Cast On Critical Strike Support
-Cast on Death Support
-Cast on Melee Kill Support
-Cast when Damage Taken Support
-Cast when Stunned Support
-Catacomb Map
-Catacomb Pillar
-Catapult
-Catapult Ammo
-Catapult Ball
-Cat's Paw
-Cauldron
-Caustic Arrow
-Cave Pillar
-Cave Stalagmite
-Cave Trash
-Cave Treasure
-Cavia Porcellus
-Cavia Porcellus Pile
-Cedar Tower Shield
-Celestial Fragment
-Cells Map
-Cemetery Map
-Centipede Pet
-Ceremonial Axe
-Ceremonial Kite Shield
-Ceremonial Mace
-Cerulean Seraph Body Armour
-Cerulean Seraph Boots
-Cerulean Seraph Gloves
-Cerulean Seraph Helmet
-Chain Belt
-Chain Boots
-Chain Gloves
-Chain Hauberk
-Chain Support
-Chainmail Doublet
-Chainmail Tunic
-Chainmail Vest
-Chains of Time
-Chair
-Chalice of Horrors
-Challenger Portal Effect
-Challenger Portrait Frame
-Challenger Trophy
-Challenger Weapon Effect
-Challenger's Golden Halo
-Challenger's Silver Halo
-Champion Kite Shield
-Champion Portrait Frame
-Champion's Arrival Portal Effect 
-Champion's Hour Back Attachment 
-Chance to Flee Support
-Chance to Ignite Support
-Channel Map
-Chaos Orb
-Chaotic Disposition
-Charged Attack
-Chateau Map
-Cheap Construction
-Chernobog's Pillar
-Cherrubim's Maleficence
-Chest Splitter
-Chestplate
-Chicken Pet
-Chill of Corruption
-Chiming Spirit Shield
-Chin Sol
-Chitus' Apex
-Chitus' Needle
-Chitus' Plum
-Chober Chaber
-Chopped Wood
-Chromatic Orb
-Chrome Scorpion Pet
-Chrysalis Talisman
-Church Debris
-Church Wall
-Church Wall Gate
-Circular Column
-Citadel Bow
-Citrine Amulet
-Clarity
-Clasped Boots
-Clasped Mitts
-Classical Wall Decoration
-Clayshaper
-Clear Mind
-Cleave
-Cleaver
-Cloak of Defiance
-Cloak of Flame
-Cloak of Tawm'r Isley
-Close Helmet
-Cloth Belt
-Clump of Vines
-Cluster Traps Support
-Clutching Talisman
-Coated Shrapnel
-Cobalt Halo
-Cobalt Jewel
-Cobra Pet
-Cockroach Pet
-Coffin
-Cogs
-Cogs of Disruption
-Coiled Staff
-Cold Grasp Effect
-Cold Penetration Support
-Cold Snap
-Cold Steel
-Cold to Fire Support
-Colonnade Map
-Colossal Hybrid Flask
-Colossal Life Flask
-Colossal Mana Flask
-Colossal Tower Shield
-Colossal Weta Pet
-Colosseum Map
-Colosseum Plate
-Colossus Hand
-Colossus Head
-Colossus Leg
-Colossus Mallet
-Colossus Sword
-Column
-Columns
-Combustibles
-Commander's Brigandine
-Composite Bow
-Compound Bow
-Compound Spiked Shield
-Concentrated Effect Support
-Conductive Quiver
-Conductivity
-Cone Helmet
-Conjurer Boots
-Conjurer Gloves
-Conjurer's Vestment
-Conqueror Portrait Frame
-Conqueror's Campaign Portal Effect 
-Conqueror's Efficiency
-Conqueror's Longevity
-Conqueror's Potency
-Conqueror's Reign Back Attachment
-Conquest Chainmail
-Conservatory Map
-Contagion
-Controlled Destruction Support
-Convent of the Twins' Flame
-Conversion Trap
-Convocation
-Copper Chest
-Copper Kris
-Copper Plate
-Copper Sword
-Copper Tower Shield
-Coral Amulet
-Coral Ring
-Core Map
-Coronal Leather
-Coronal Maul
-Corpse Cart
-Corpses
-Corroded Blade
-Corroded Tower Shield
-Corrugated Buckler
-Corrupt Marble
-Corrupted Energy
-Corrupted Specks
-Corruption
-Corsair Sword
-Coruscating Elixir
-Cospri's Will
-Courtesan Sword
-Courtyard Map
-Covered Corpses
-Coves Map
-Coveted Possession
-Cragfall
-Craghead
-Crane
-Crematorium Map
-Crescent Staff
-Crest of Perandus
-Crested Tower Shield
-Crimson Imp Mask
-Crimson Jewel
-Crimson Portal
-Crimson Portal Effect
-Crimson Raiment
-Crimson Round Shield
-Crimson Weapon Effect
-Crown of Eyes
-Crown of the Pale King
-Crown of Thorns
-Crude Bow
-Crude Fence
-Crumbled Barricade
-Crumbled Boxes
-Crumbled Carts
-Crumbled Flag
-Crusader Boots
-Crusader Buckler
-Crusader Chainmail
-Crusader Gloves
-Crusader Helmet
-Crusader Plate
-Crypt Armour
-Crypt Fire Pit
-Crypt Map
-Crypt Pillar
-Crypt Rubble
-Crypt Sword
-Crypt Table
-Crypt Tomb
-Crystal Debris
-Crystal Sceptre
-Crystal Wand
-Crystallised Skull
-Cube Of Absorption
-Culling Strike Support
-Cured Quiver
-Curse On Hit Support
-Curved Blade
-Curved Horns
-Cutlass
-Cutthroat's Garb
-Cybil's Paw
-Cyclone
-Dagger Axe
-Damage Infusion
-Damaged Barrels
-Damaged Cargo
-Damaged Shelves
-Dance - Duelist
-Dance - Marauder
-Dance - Ranger
-Dance - Scion
-Dance - Shadow
-Dance - Templar
-Dance - Witch
-Daresso's Courage
-Daresso's Defiance
-Daresso's Passion
-Daresso's Salute
-Dark Cargo Wagon
-Dark Crystal
-Dark Forest Map
-Dark Soulercoaster
-Dark Vessel
-Darkray Vectors
-Darkscorn
-Darkwood Sceptre
-Dart Debris
+Broken Blade Sentry
+Blade Sentry Debris
+Shattered Blade
+Rosette
+Rail Post
 Dead Fish
+Splintered Wood
+Corpses
+Classical Wall Decoration
+Church Debris
+Broken Spikes
+Clump of Vines
+Ornate Fence
+Broken Ornate Fence
+Crude Fence
+Column
+Labyrinth Plaque
+Wall Switch
+Lever
+Door Frame
+Cogs
+Poppy Plant
+Macrotaen Plant
+Flax
+Desert Plants
+Desert Grass
+Cactus
+Aloe Plant
+Agave Plant
+Water Fog
+Large Pillar
+Lantern
+Pipe
+Whare Rug
+Spiral Stone
+Large Skull Pile
+Skull Pile
+Sack of Gems
+Ropes
+Plate
+Palisade
+Lava Glow
+Spikes
+Rock
+Grass
+Lava Fountain
+Fence
+Meat Baskets
+Basket
+Mine Cart
+Mine Rock
+Fossilized Miners
+Corrupt Marble
+Tent
+Crumbled Flag
+Crumbled Carts
+Crumbled Boxes
+Crumbled Barricade
+Voll's Confession
+Slave Post
+Slave Cart
+Post
+Pit Flags
+Severed Heads
+Pitbull Corpse
+Corpse Cart
+Animal Pile
+Animal Cage
+Thin Pillar
+Pillar Debris
+Flower Pot
+Sand Tracks
+Tick
+Surgical Debris
+Surface
+Stinkhorns
+Wall of Spikes
+Socotra Tree
+Roots
+Pimple
+Malachai's Dedication
+Body Parts
+Alien Grass
+Eye
+Egg stalk
+Egg
+Crystal Debris
+Blood Fog (Yellow)
+Blood Fog (Red)
+Blood and Bone
+Glob
+Impaled Monster
+Belly Ground Spikes
+Large Aqueduct Boat
+Solaris Throne
+Golden Gargoyle Statue
+Bronze Gargoyle Statue
+Ice Crystal
+Sacred Cow
+Lucky Dog
+Challenger Trophy
+Verdant Throne
+Infernal Throne
+Arcane Throne
+Golden Lion Statue
+Standing Lion Statue
+Sleeping Lion Statue
+Sitting Lion Statue
+Helmet Stand
+Body Armour Stand
+Weapon Rack
+Round Weapon Rack
+Bow Rack
+Full Armour Stand
+Pumpkins
+Teleport Owner
+Teleport Proximity
+Telepad
+Teleport
+Wide Light Beam
+Exile
+Exile
+Whale Skeleton Spine
+Large Whale Skeleton Ribs
+Whale Skeleton Ribs
+Whale Skeleton Head
+Whale Skeleton Bones
+Whale Skeleton Arms
+Throne
+Pillars and Flag
+Golden Gate
+Table
+Desk
+Columns
+Red Carpet
+Golden Bars
+Swamp Tree
+Swamp Tree Stump
+Sacrificial Shrine
+Stall
+Rug
+Hut
+Hanging Brazier
+Low Fire Pit
+Grigor's Wall
+Bricks
+Anvil
+Pillar
+Cage
+Prison Bars
+Vaal Pyramid
+Vaal Pillar
+Vaal Seal
+Altar
+Mossy Wall Arch
+Stone Arch
+Low Mossy Wall
+Mossy Wall
+Tree Hut
+Webbed Tree
+Decorated Trees
+Decorated Tree
+Thick Trees
+Dry Tree
+ForestTree
+Obelisk
+Lion Statue
+Stone Archway
+Lighthouse Remains
+Letters
+Booth
+Palisade Gate
+Fortification Door
+Wisp Swarm
+Golden Sparkles
+Well
+Church Wall
+Fellshrine Ruins
+Large Crypt Rubble
+Pot
+Catacomb Pillar
+Crypt Pillar
+Large Church Wall Arch
+Church Wall Gate
+Golden Chest
+Copper Chest
+Decayed Statue
+Golden Statue
+Fortification
+Large Fortification
+Large Rocks
+Seagull Nest
+Rhoa Nest
+Mast Arch
+Driftwood Archway
+Driftwood Log
+Body Bag
+Boat Wreckage
+Large Boat Remains
+Boat Remains
+Sekhema's Banner
+Pipe Kit
+Corruption
+Corrupted Specks
+Impaling Spike
+Temple Arch
+Stone Statue
+Library Statue
+Large Golden Statue
+Medium Golden Statue
+Large Overgrown Statue
+Overgrown Statue
+Overgrown Offering Statue
+Stone Bust
+Golden Bust
+Torture Device
+Slum Building
+Rain
+Pipes
+Side Table
+Dining Table
+Triclinium
+Lordly Chair
+Dining Chair
+Energizer
+Transformer
+Extraction Device
+Piping
+Large Bird Cage
+Medium Bird Cage
+Small Bird Cage
+Golden Arch
+Blown Leaves
+Tree
+Sarn Archway
+Giant Whale Skeleton
+Messy Study Table
+Skull Display
+Skeleton Display
+Display Case
+Covered Corpses
+Bloody Corpse Pile
+Cavia Porcellus Pile
+Emaciated Corpse Pile
+Disembodied Corpse
+Bloody Corpse
+Cavia Porcellus
+Emaciated Corpse
+High Chair
+Market Pillar
+Letter
+Overgrown Wall
+Road Trim
+Path
+Overgrown Arch
+Large Tent
+Medium Tent
+Grandmaster Hideout Banner
+Master Hideout Banner
+Journeyman Hideout Banner
+Apprentice Hideout Banner
+Fireplace
+Railway
+Vaal Vessel
+Tribal Chest
+Sarcophagus
+Ancient Vessel
+Golden Vessel
+Dark Vessel
+Impaled Corpse
+Hung Corpse
+Fly Swarm
+Beach Flies
+Flies
+Slugs
+Energy Dome
+Catapult Ball
+Oriath Army Tent
+Damaged Shelves
+Damaged Cargo
+Damaged Barrels
+Travel Wagon
+Light Cargo Wagon
+Dark Cargo Wagon
+Wagon Debris
+Ravenal Tree
+Raphina Tree
+Palm Group
+Lush Tree
+Palm
+Bulb Palm
+Urn
+Experiment Table
+Scavenger's Daughter
+Iron Maiden
+Bastinado
+Chair
+Gilded Cradle
+Stocks
+Standing Lamp
+Sofa Bed
+Sofa
+Stool
+Stand Lamp
+Ornate Chair
+Mat
+Long Table
+Large Sofa Bed
+Floor
+Divider
+Book Shelf
+Basin
+Banner
+Hanging Lamp
+Drawing Table
+Spider Food
+Webbed Stump
+Webbed Remains
+Slum Fence
+Skeleton
+Painting
+Scepter Of God Debris
+Bird Cage
+Cabinet
+Dressing Table
+Study Desk
+Shelf
+Lounge Chair
+Candelabrum
+Book Pile
+Scattered Books
+Dead Sentinel
 Dead Guardian
+Dead Ribbon
+Slum Debris
+Slum Large Debris
+Spindle
+Rope
+Metal Rod
+Metal Plate
+Beam
+Machine
+Junk Pile
+Disk
+Gear
+Cart
+Crane
+Metal Beam
+Catapult Ammo
+Catapult
+Barricade
+Iron Boot
+Coffin
+Rack
+Tools Board
+Rostrum
+Large Shelf
+Shelf Debris
+Market Debris
+Stacked Stone Slabs
+Flat Stone Slabs
+Stone Shattered Pieces
+Stone Pieces
+Wall
+Forest Flowers
+Dead Oriath Soldier Pile
+Dead Oriath Soldier Pieces
+Dead Oriath Soldier Sitting
 Dead Oriath Soldier
 Dead Oriath Soldier Elite
-Dead Oriath Soldier Pieces
-Dead Oriath Soldier Pile
-Dead Oriath Soldier Sitting
-Dead Reckoning
-Dead Ribbon
-Dead Seagull
-Dead Seagull On Stick
-Dead Sentinel
-Deadhand Talisman
-Deadman's Hand
-Death
-Death and Taxes
-Death Bow
-Death Rattle
-Death Rush
-Death's Door
-Death's Hand
-Death's Harp
-Death's Oath
-Death's Opus
-Decanter Spiritus
-Decapitation
-Decayed Statue
-Decimation Bow
-Decorated Tree
-Decorated Trees
-Decorative Axe
-Decoy Totem
+Colossus Sword
+Colossus Leg
+Colossus Head
+Colossus Hand
+Oriath Armour Crate
+Oriath Supplies
+Oriath Weapons Crate
+Oriath Supply Crate
+Oriath Army Barrel
+Glowing Embers
+Prison Table
+Bunk
+Brutus' Cradle
+Books
+Amplifier Chair
+Vaal Pylon
+Vaal Furniture
+Vaal Fire Pit
+Vaal Debris
+Tomb
+Tombstone
+Winged Statue
 Decrepit Fence
-Decurve Bow
-Deep One Talisman
-Deerskin Boots
+Old Giblets
+Fresh Giblets
+Waystone
+Prayer Stones
+Stick With Skull
+Forest Rock
+Cairn
+Palisade Door
+Moss Monster
+Yellow Light Beam
+Falling Leaves
+Vaal Marker
+Den Large Stalagmites
+Den Stalagmites
+Den Small Rock
+Den Large Rock
+Den Pillar
+Cauldron
+Bush
+Flag
+Wagon
+Torch
+Sitting Log
+Scrap Pile
+Rhoa
+Pot Line
+Fish Stand
+Chopped Wood
+Buckets
+Barrels
+Crypt Tomb
+Crypt Table
+Crypt Rubble
+Crypt Fire Pit
+Cave Treasure
+Cave Trash
+Cave Stalagmite
+Cave Pillar
+Blue Light Beam
+Glow Worms
+Sword In Ground
+Shore Stub
+Snow
+Fetid Smog
+Ghostly Fog
+Cannibal Sheet
+Dead Seagull On Stick
+Dead Seagull
+Shore Rocks
+Shore Plank Debris
+Driftwood Branches
+Shore Bonfire
+Fetid Air Particles
+Gladiator's Workbench
+Map Device
+Artisan's Bench
+Blessing Font
+Sharpening Wheel
+Headstones
+Bowmaker's Tools
+Armourer's Workbench
+Fragment of the Hydra
+Fragment of the Chimera
+Fragment of the Minotaur
+Fragment of the Phoenix
+Volkuur's Key
+Inya's Key
+Yriel's Key
+Eber's Key
+Mortal Grief
+Mortal Ignorance
+Mortal Hope
+Mortal Rage
+Sacrifice at Dusk
+Sacrifice at Noon
+Sacrifice at Dawn
+Sacrifice at Midnight
+Mark of the Warrior Wings
+Vaal Temple Map
+The Shaper's Realm
+Forge of the Phoenix Map
+Maze of the Minotaur Map
+Lair of the Hydra Map
+Pit of the Chimera Map
+Overgrown Ruin Map
+Dark Forest Map
+Core Map
+Colosseum Map
+Abyss Map
+Volcano Map
+Springs Map
+Shrine Map
+Palace Map
+Mineral Pools Map
+Maze Map
+Waterways Map
+Sulphur Wastes Map
+Scriptorium Map
+Plaza Map
+High Gardens Map
+Gorge Map
+Beacon Map
+Lair Map
+Vault Map
+Shipyard Map
+Residence Map
+Ivory Temple Map
+Plateau Map
+Necropolis Map
+Estuary Map
+Crematorium Map
+Wasteland Map
+Underground Sea Map
+Torture Chamber Map
+Precinct Map
+Excavation Map
+Chateau Map
+Bazaar Map
+Shaped Underground River Map
+Underground River Map
+Shaped Terrace Map
+Terrace Map
+Shaped Quay Map
+Quay Map
+Shaped Malformation Map
+Malformation Map
+Shaped Courtyard Map
+Courtyard Map
+Shaped Arsenal Map
+Arsenal Map
+Shaped Colonnade Map
+Colonnade Map
+Shaped Temple Map
+Temple Map
+Shaped Reef Map
+Reef Map
+Shaped Promenade Map
+Promenade Map
+Shaped Overgrown Shrine Map
+Overgrown Shrine Map
+Shaped Orchard Map
+Orchard Map
+Shaped Museum Map
+Museum Map
+Shaped Crypt Map
+Crypt Map
+Shaped Coves Map
+Coves Map
+Shaped Tropical Island Map
+Tropical Island Map
+Shaped Shore Map
+Shore Map
+Shaped Pier Map
+Pier Map
+Shaped Atoll Map
+Atoll Map
+Shaped Barrows Map
+Barrows Map
+Shaped Cemetery Map
+Cemetery Map
+Shaped Bog Map
+Bog Map
+Shaped Arena Map
+Arena Map
+Shaped Arachnid Nest Map
+Arachnid Nest Map
+Shaped Mud Geyser Map
+Mud Geyser Map
+Shaped Ashen Wood Map
+Ashen Wood Map
+Shaped Armory Map
+Armory Map
+Shaped Cells Map
+Cells Map
+Shaped Catacombs Map
+Catacombs Map
+Shaped Castle Ruins Map
+Castle Ruins Map
+Shaped Arachnid Tomb Map
+Arachnid Tomb Map
+Shaped Wharf Map
+Wharf Map
+Shaped Vaal City Map
+Vaal City Map
+Shaped Thicket Map
+Thicket Map
+Shaped Strand Map
+Strand Map
+Shaped Spider Forest Map
+Spider Forest Map
+Shaped Ramparts Map
+Ramparts Map
+Shaped Racecourse Map
+Racecourse Map
+Shaped Quarry Map
+Quarry Map
+Shaped Canyon Map
+Canyon Map
+Shaped Tower Map
+Tower Map
+Shaped Spider Lair Map
+Spider Lair Map
+Shaped Primordial Pool Map
+Primordial Pool Map
+Shaped Pit Map
+Pit Map
+Shaped Mesa Map
+Mesa Map
+Shaped Dunes Map
+Dunes Map
+Shaped Peninsula Map
+Peninsula Map
+Shaped Burial Chambers Map
+Burial Chambers Map
+Shaped Waste Pool Map
+Waste Pool Map
+Shaped Villa Map
+Villa Map
+Shaped Phantasmagoria Map
+Phantasmagoria Map
+Shaped Graveyard Map
+Graveyard Map
+Shaped Dungeon Map
+Dungeon Map
+Shaped Acid Lakes Map
+Acid Lakes Map
+Shaped Academy Map
+Academy Map
+Shaped Vaal Pyramid Map
+Vaal Pyramid Map
+Shaped Sewer Map
+Sewer Map
+Shaped Marshes Map
+Marshes Map
+Shaped Grotto Map
+Grotto Map
+Shaped Channel Map
+Channel Map
+Shaped Cavern Map
+Cavern Map
+Shaped Arid Lake Map
+Arid Lake Map
+Shaped Oasis Map
+Oasis Map
+Shaped Ghetto Map
+Ghetto Map
+Shaped Factory Map
+Factory Map
+Shaped Beach Map
+Beach Map
+Shaped Jungle Valley Map
+Jungle Valley Map
+Shaped Desert Map
+Desert Map
+Shaped Crystal Ore Map
+Crystal Ore Map
+Shaped Arcade Map
+Arcade Map
+Maze Map
+Castle Ruin Map
+Prismatic Jewel
+Cobalt Jewel
+Viridian Jewel
+Crimson Jewel
+Trap Cooldown Support
+Minefield Support
+Elemental Focus Support
+Ancestral Warchief
+Ancestral Blademaster
+Ancestral Protector
+Vortex
+Frostbolt
+Sunder
+Cluster Traps Support
+Shadow Blades
+Rapid Decay Support
+Controlled Destruction Support
+Void Manipulation Support
+Essence Drain
+Blight
+Wither
+Contagion
+Earthquake
+Poison Support
+Righteous Lightning
+Summon Stone Golem
+Orb of Storms
+Frost Bomb
+Blade Vortex
+Static Tether
+Siege Ballista
+Bladefall
+Blast Rain
+Shrapnel Shot
+Wild Strike
+Ice Trap
+Trap and Mine Damage Support
+Magma Orb
+Innervate Support
+Hypothermia Support
+Ice Bite Support
+Fortify Support
+Vigilant Strike
+Frost Blades
+Flame Dash
+Detonate Mines
+Abyssal Cry
+Rallying Cry
+Ice Crash
+Blasphemy Support
+Summon Lightning Golem
+Summon Flame Golem
+Summon Ice Golem
+Summon Chaos Golem
+Physical to Lightning Support
+Touch of God
+Kinetic Blast
+Blink Arrow
+Mirror Arrow
+Lightning Channel
+Lightning Circle
+Lightning Tendrils
+Poacher's Mark
+Herald of Thunder
+Herald of Ice
+Herald of Ash
+Herald of Blood
+Generosity Support
+Vaal Lightning Trap
+Tornado Shot
+Fire Nova Mine
+Vaal Flameblast
+...
+Vaal Righteous Fire
+Vaal Sweep
+Vaal FireTrap
+Vaal Haste
+Vaal Discipline
+Vaal Grace
+Vaal Clarity
+Molten Strike
+Vaal Reave
+Block Chance Reduction Support
+Vaal Storm Call
+Vaal Summon Skeletons
+Vaal Glacial Hammer
+Vaal Double Strike
+Vaal Heavy Strike
+Vaal Lightning Strike
+Vaal Spectral Throw
+Vaal Cold Snap
+Vaal Rain of Arrows
+Vaal Ground Slam
+Vaal Detonate Dead
+Wand Teleport
+Vaal Ice Nova
+Vaal Cyclone
+Vaal Power Siphon
+Vaal Immortal Call
+Vaal Lightning Warp
+Vaal Molten Shell
+Vaal Burning Arrow
+Vaal Spark
+Vaal Arc
+Vaal Fireball
+Convocation
+Glacial Cascade
+Spirit Offering
+Bone Offering
+Flesh Offering
+Desecrate
+Enlighten Support
+Flame Surge
+Summon Raging Spirit
+Physical Projectile Attack Damage Support
+Wildfire
+Vortex Mine
+Ball Lightning
+Barrage
+Flameblast
+Storm Call
+Purity of Lightning
+Purity of Ice
+Purity of Fire
+Enhance Support
+Animate Weapon
+Cast when Stunned Support
+Cast when Damage Taken Support
+Cast on Death Support
+Less Duration Support
+Slower Projectiles Support
+Spectral Throw
+Animate Guardian
+Endurance Charge on Melee Stun Support
+Smoke Mine
+Lightning Trap
+Empower Support
+Multiple Traps Support
+Cast on Melee Kill Support
+Cast On Critical Strike Support
+Reave
+Curse On Hit Support
+Minion and Totem Elemental Resistance Support
+Increased Burning Damage Support
+Searing Bond
+Power Charge On Critical Support
+Melee Splash Support
+Spell Echo Support
+Multistrike Support
+Cyclone
+Incinerate
+Conductivity
+Frostbite
+Flammability
+Return Projectiles Support
+Fork Support
+Split Projectiles Support
+Chain Support
+Lightning Penetration Support
+Cold Penetration Support
+Fire Penetration Support
+Ranged Attack Totem Support
+Blind Support
+Flame Totem
+Arctic Armour
+Ethereal Knives
+Devouring Totem
+Decoy Totem
+Fire Trap
+Chance to Flee Support
+Bear Trap
+Conversion Trap
+Freeze Mine
+Rejuvenation Totem
+Shockwave Totem
+Remote Mine Support
+Spell Totem Support
+Melee Damage on Full Life Support
+Iron Will Support
+Iron Grip Support
+Point Blank Support
+Culling Strike Support
+WIP Support
+Clarity
+Blood Magic Support
+Elemental Proliferation Support
+Burning Arrow
+Wrath
+Hatred
+Anger
+Determination
+Grace
+Discipline
+Vitality
+Purity of Elements
+Haste
+Arc
+Lightning Arrow
+Puncture
+Blade Trap
+Power Siphon
+Molten Shell
+Tempest Shield
+Lightning Strike
+Firestorm
+Life Gain on Hit Support
+Bloodlust Support
+Weapon Elemental Damage Support
+Minion Life Support
+Minion Speed Support
+Chance to Ignite Support
+Cold to Fire Support
+Increased Duration Support
+Minion Damage Support
+Concentrated Effect Support
+Rain of Arrows
+Dominating Blow
+Heavy Strike
+Reckoning
+Vengeance
+Riposte
+Summon Skeletons
+Lightning Warp
+Vulnerability
+Projectile Weakness
+Assassin's Mark
+Enfeeble
+NewPunishment
+Punishment
+Warlord's Mark
+Elemental Weakness
+Temporal Chains
+Explosive Arrow
+Faster Casting Support
+Item Rarity Support
+Item Quantity Support
+Melee Physical Damage Support
+Phase Run
+Viper Strike
+Energy Beam
+New Shock Nova
+Shock Nova
+Freezing Pulse
+Frost Wall
+Glacial Hammer
+Infernal Blow
+Raise Spectre
+Trap Support
+Pierce Support
+Ice Spear
+Stun Support
+Spark
+Flicker Strike
+Backstab
+Riptide
+Added Chaos Damage Support
+Mana Leech Support
+Life Leech Support
+Knockback Support
+Increased Critical Damage Support
+Increased Critical Strikes Support
+Reduced Mana Support
+Portal
+Discharge
+Fire Weapon
+Righteous Fire
+Ignite
+Icefire
+Blood Rage
+Damage Infusion
+Added Lightning Damage Support
+Increased Area of Effect Support
+Additional Accuracy Support
+Added Cold Damage Support
+Faster Projectiles Support
+Lesser Multiple Projectiles Support
+Greater Multiple Projectiles Support
+Faster Attacks Support
+Added Fire Damage Support
+Split Arrow
+Static Strike
+Ice Shot
+Arctic Breath
+Caustic Arrow
+Snipe
+Detonate Dead
+Raise Zombie
+Cold Snap
+Frenzy
+Whirling Blades
+Dual Strike
+Immortal Call
+Elemental Hit
+Lacerate
+Double Strike
+Enduring Cry
+Shield Charge
+Cleave
+Ground Slam
+Sweep
+Blade Flurry
+Leap Slam
+Ice Nova
+Fireball
+Treasure Key
+Silver Key
+Golden Key
+Book of Skill
+Malachai's Entrails
+Malachai's Heart
+Malachai's Lungs
+The Eye of Desire
+The Eye of Fury
+Deshret's Banner
+Thaumetic Emblem
+Chitus' Plum
+Decanter Spiritus
+Golden Page
+Bust of Marceus Lioneye
+Bust of Gaius Sentari
+Bust of Hector Titucius
+Infernal Talc
+Sewer Keys
+Tower Key
+Ribbon Spool
+Tolman's Bracelet
+Thaumetic Sulphite
+Golden Hand
+Baleful Gem
+Maligaro's Spike
+The Apex
+Oak's Amulet
+Kraityn's Amulet
+Alira's Amulet
+Allflame
+Medicine Chest
+Roseus Glyph
+Ammonite Glyph
+Haliotis Glyph
+Book of Regression
+Book of Reform
+Book of Regrets
+Shaper's Orb (Tier 10)
+Shaper's Orb (Tier 9)
+Shaper's Orb (Tier 8)
+Shaper's Orb (Tier 7)
+Shaper's Orb (Tier 6)
+Shaper's Orb (Tier 5)
+Shaper's Orb (Tier 4)
+Shaper's Orb (Tier 3)
+Shaper's Orb (Tier 2)
+Shaper's Orb (Tier 1)
+Serrated Arrow Quiver
+Spike-Point Arrow Quiver
+Penetrating Arrow Quiver
+Broadhead Arrow Quiver
+Fire Arrow Quiver
+Blunt Arrow Quiver
+Sharktooth Arrow Quiver
+Two-Point Arrow Quiver
+Serrated Arrow Quiver
+Light Quiver
+Heavy Quiver
+Conductive Quiver
+Rugged Quiver
+Cured Quiver
+Bismuth Flask
+Silver Flask
+Sulphur Flask
+Stibnite Flask
+Aquamarine Flask
+Basalt Flask
+Jade Flask
+Quartz Flask
+Amethyst Flask
+Quicksilver Flask
+Granite Flask
+Topaz Flask
+Sapphire Flask
+Ruby Flask
+Diamond Flask
+Hallowed Hybrid Flask
+Sacred Hybrid Flask
+Colossal Hybrid Flask
+Large Hybrid Flask
+Medium Hybrid Flask
+Small Hybrid Flask
+Eternal Mana Flask
+Divine Mana Flask
+Sanctified Mana Flask
+Hallowed Mana Flask
+Sacred Mana Flask
+Colossal Mana Flask
+Giant Mana Flask
+Grand Mana Flask
+Greater Mana Flask
+Large Mana Flask
+Medium Mana Flask
+Small Mana Flask
+Eternal Life Flask
+Divine Life Flask
+Sanctified Life Flask
+Hallowed Life Flask
+Sacred Life Flask
+Colossal Life Flask
+Giant Life Flask
+Grand Life Flask
+Greater Life Flask
+Large Life Flask
+Medium Life Flask
+Small Life Flask
+Fingerless Silk Gloves
+Gripped Gloves
+Spiked Gloves
+Golden Bracers
+Murder Mitts
+Assassin's Mitts
+Carnal Mitts
+Ambush Mitts
+Trapper Mitts
+Clasped Mitts
+Strapped Mitts
+Wrapped Mitts
+Crusader Gloves
+Legion Gloves
+Soldier Gloves
+Zealot Gloves
+Riveted Gloves
+Mesh Gloves
+Ringmail Gloves
+Chain Gloves
+Dragonscale Gauntlets
+Hydrascale Gauntlets
+Wyrmscale Gauntlets
+Serpentscale Gauntlets
+Steelscale Gauntlets
+Bronzescale Gauntlets
+Ironscale Gauntlets
+Fishscale Gauntlets
+Sorcerer Gloves
+Arcanist Gloves
+Conjurer Gloves
+Samite Gloves
+Satin Gloves
+Embroidered Gloves
+Silk Gloves
+Velvet Gloves
+Wool Gloves
+Slink Gloves
+Stealth Gloves
+Shagreen Gloves
+Sharkskin Gloves
+Eelskin Gloves
+Nubuck Gloves
 Deerskin Gloves
-Deerstalker
+Goathide Gloves
+Rawhide Gloves
+Titan Gauntlets
+Vaal Gauntlets
+Goliath Gauntlets
+Ancient Gauntlets
+Antique Gauntlets
+Steel Gauntlets
+Bronze Gauntlets
+Plated Gauntlets
+Iron Gauntlets
+Two-Toned Boots
+Avian Slippers
+Golden Caligae
+Murder Boots
+Assassin's Boots
+Carnal Boots
+Ambush Boots
+Trapper Boots
+Shackled Boots
+Clasped Boots
+Strapped Boots
+Wrapped Boots
+Crusader Boots
+Legion Boots
+Soldier Boots
+Zealot Boots
+Riveted Boots
+Mesh Boots
+Ringmail Boots
+Chain Boots
+Dragonscale Boots
+Hydrascale Boots
+Wyrmscale Boots
+Serpentscale Boots
+Steelscale Boots
+Bronzescale Boots
+Ironscale Boots
+Leatherscale Boots
+Sorcerer Boots
+Arcanist Slippers
+Conjurer Boots
+Samite Slippers
+Satin Slippers
+Scholar Boots
+Silk Slippers
+Velvet Slippers
+Wool Shoes
+Slink Boots
+Stealth Boots
+Shagreen Boots
+Sharkskin Boots
+Eelskin Boots
+Nubuck Boots
+Deerskin Boots
+Goathide Boots
+Rawhide Boots
+Kaom's Greaves
+Titan Greaves
+Vaal Greaves
+Goliath Greaves
+Ancient Greaves
+Antique Greaves
+Reinforced Greaves
+Plated Greaves
+Steel Greaves
+Iron Greaves
+Golden Mantle
+Sacrificial Garb
+Carnal Armour
+Sadist Garb
+Blood Raiment
+Varnished Coat
+Sentinel Jacket
+Crypt Armour
+Lacquered Garb
+Crimson Raiment
+Sleek Coat
+Quilted Jacket
+Bone Armour
+Waxed Garb
+Scarlet Raiment
+Oiled Coat
+Padded Jacket
+Oiled Vest
+Padded Vest
+Saintly Chainmail
+Saint's Hauberk
+Elegant Ringmail
+Conquest Chainmail
+Loricated Ringmail
+Devout Chainmail
+Chain Hauberk
+Ornate Ringmail
+Crusader Chainmail
+Latticed Ringmail
+Holy Chainmail
+Full Chainmail
+Full Ringmail
+Chainmail Doublet
+Ringmail Coat
+Chainmail Tunic
+Chainmail Vest
+Triumphant Lamellar
+General's Brigandine
+Full Dragonscale
+Desert Brigandine
+Dragonscale Doublet
+Battle Lamellar
+Commander's Brigandine
+Full Wyrmscale
+Hussar Brigandine
+Wyrmscale Doublet
+Field Lamellar
+Soldier's Brigandine
+Full Scale Armour
+Infantry Brigandine
+Scale Doublet
+Light Brigandine
+Scale Vest
+Vaal Regalia
+Widowsilk Robe
+Occultist's Vestment
+Necromancer Silks
+Savant's Robe
+Destroyer Regalia
+Spidersilk Robe
+Conjurer's Vestment
+Silken Wrap
+Sage's Robe
+Cabalist Regalia
+Silk Robe
+Mage's Vestment
+Silken Garb
+Scholar's Robe
+Silken Vest
+Simple Robe
+Assassin's Garb
+Zodiac Leather
+Exquisite Leather
+Destiny Leather
+Sharkskin Tunic
+Cutthroat's Garb
+Coronal Leather
+Glorious Leather
+Frontier Leather
+Eelskin Tunic
+Thief's Garb
+Sun Leather
+Full Leather
+Wild Leather
+Buckskin Tunic
+Strapped Leather
+Shabby Jerkin
+Kaom's Plate
+Glorious Plate
+Gladiator Plate
+Astral Plate
+Crusader Plate
+Golden Plate
+Majestic Plate
+Colosseum Plate
+Sun Plate
+Battle Plate
+Bronze Plate
+Lordly Plate
+Arena Plate
+Full Plate
+War Plate
+Copper Plate
+Chestplate
+Plate Vest
+Bone Helmet
+Golden Wreath
 Deicide Mask
-Deidbell
-Deidbellow
-Demigod's Beacon
-Demigod's Bounty
-Demigod's Dominance
-Demigod's Eye
-Demigod's Presence
-Demigod's Stride
-Demigod's Touch
-Demigod's Triumph
+Vaal Mask
+Harlequin Mask
+Regicide Mask
+Callous Mask
+Raven Mask
+Golden Mask
+Festival Mask
+Iron Mask
+Plague Mask
+Scare Mask
+Praetor Crown
+Prophet Crown
+Magistrate Crown
+Great Crown
+Zealot Helmet
+Aventail Helmet
+Crusader Helmet
+Great Helmet
+Soldier Helmet
+Rusted Coif
+Nightmare Bascinet
+Pig-Faced Bascinet
+Fluted Bascinet
+Lacquered Helmet
+Fencer Helm
+Secutor Helm
+Gilded Sallet
+Visored Sallet
+Sallet
+Battered Helm
+Hubris Circlet
+Mind Cage
+Solaris Circlet
+Necromancer Circlet
+Steel Circlet
+Lunaris Circlet
+Bone Circlet
+Tribal Circlet
+Torture Cage
+Iron Circlet
+Vine Circlet
+Lion Pelt
+Sinner Tricorne
+Silken Hood
+Ursine Pelt
+Noble Tricorne
+Hunter Hood
+Wolf Pelt
+Leather Hood
+Tricorne
+Leather Cap
+Eternal Burgonet
+Royal Burgonet
+Ezomyte Burgonet
+Samite Helmet
+Siege Helmet
+Reaver Helmet
+Gladiator Helmet
+Close Helmet
+Barbute Helmet
+Cone Helmet
+Iron Hat
+Golden Flame
+Supreme Spiked Shield
+Mirrored Spiked Shield
+Ezomyte Spiked Shield
+Alder Spiked Shield
+Sovereign Spiked Shield
+Polished Spiked Shield
+Compound Spiked Shield
+Redwood Spiked Shield
+Ornate Spiked Shield
+Burnished Spiked Shield
+Alloyed Spiked Shield
+Driftwood Spiked Shield
+Spiked Bundle
+Archon Kite Shield
+Mosaic Kite Shield
+Champion Kite Shield
+Branded Kite Shield
+Angelic Kite Shield
+Laminated Kite Shield
+Steel Kite Shield
+Etched Kite Shield
+Ceremonial Kite Shield
+Layered Kite Shield
+Reinforced Kite Shield
+Linden Kite Shield
+Plank Kite Shield
+Elegant Round Shield
+Cardinal Round Shield
+Spiny Round Shield
+Teak Round Shield
+Baroque Round Shield
+Crimson Round Shield
+Spiked Round Shield
+Maple Round Shield
+Splendid Round Shield
+Scarlet Round Shield
+Studded Round Shield
+Fir Round Shield
+Rotted Round Shield
+Titanium Spirit Shield
+Harmonic Spirit Shield
+Vaal Spirit Shield
+Fossilised Spirit Shield
+Lacewood Spirit Shield
+Thorium Spirit Shield
+Chiming Spirit Shield
+Ancient Spirit Shield
+Ivory Spirit Shield
+Walnut Spirit Shield
+Brass Spirit Shield
+Jingling Spirit Shield
+Tarnished Spirit Shield
+Bone Spirit Shield
+Yew Spirit Shield
+Twig Spirit Shield
+Imperial Buckler
+Crusader Buckler
+Vaal Buckler
+Lacquered Buckler
+Ironwood Buckler
+Golden Buckler
+Battle Buckler
+Corrugated Buckler
+Enameled Buckler
+Oak Buckler
+Gilded Buckler
+War Buckler
+Hammered Buckler
+Painted Buckler
+Pine Buckler
+Goathide Buckler
+Pinnacle Tower Shield
+Colossal Tower Shield
+Ezomyte Tower Shield
+Ebony Tower Shield
+Shagreen Tower Shield
+Crested Tower Shield
+Girded Tower Shield
+Bronze Tower Shield
+Mahogany Tower Shield
+Buckskin Tower Shield
+Painted Tower Shield
+Reinforced Tower Shield
+Copper Tower Shield
+Cedar Tower Shield
+Rawhide Tower Shield
+Corroded Tower Shield
+Splintered Tower Shield
+Golden Obi
+Crystal Belt
+Vanguard Belt
+Studded Belt
+Cloth Belt
+Heavy Belt
+Leather Belt
+Chain Belt
+Rustic Sash
+Greatwolf Talisman
+Three Hands Talisman
+Monkey Paw Talisman
+Rotfeather Talisman
+Longtooth Talisman
+Monkey Twins Talisman
+Three Rat Talisman
+Spinefuse Talisman
+Horned Talisman
+Fangjaw Talisman
+Avian Twins Talisman
+Clutching Talisman
+Splitnewt Talisman
+Wereclaw Talisman
+Primal Skull Talisman
+Hexclaw Talisman
+Writhing Talisman
+Chrysalis Talisman
+Mandible Talisman
+Rot Head Talisman
+Undying Flesh Talisman
+Deadhand Talisman
+Breakrib Talisman
+Deep One Talisman
+Lone Antler Talisman
+Ashscale Talisman
+Bonespire Talisman
+Black Maw Talisman
+Marble Amulet
+Blue Pearl Amulet
+Jet Amulet
+Ruby Amulet
+Citrine Amulet
+Agate Amulet
+Turquoise Amulet
+Onyx Amulet
+Gold Amulet
+Lapis Amulet
+Jade Amulet
+Amber Amulet
+Coral Amulet
+Paua Amulet
+Opal Ring
+Steel Ring
+Jet Ring
+Unset Ring
+Two-Stone Ring
+Diamond Ring
+Amethyst Ring
+Moonstone Ring
+Prismatic Ring
+Ruby Ring
+Sapphire Ring
+Topaz Ring
+Gold Ring
+Paua Ring
+Coral Ring
+Iron Ring
+Golden Hoop
+Fishing Rod
+Coronal Maul
+Terror Maul
+Imperial Maul
+Meatgrinder
+Piledriver
+Colossus Mallet
+Karui Maul
+Solar Maul
+Dread Maul
+Plated Maul
+Spiny Maul
+Steelhead
+Great Mallet
+Totemic Maul
+Morning Star
+Fright Maul
+Brass Maul
+Jagged Maul
+Sledgehammer
+Mallet
+Tribal Maul
+Driftwood Maul
+Exquisite Blade
+Infernal Sword
+Lion Sword
+Vaal Greatsword
+Ezomyte Blade
+Reaver Sword
+Headman's Sword
+Lithe Blade
+Wraith Sword
+Tiger Sword
+Engraved Greatsword
+Highland Blade
+Footman Sword
+Butcher Sword
+Curved Blade
+Spectral Sword
+Ornate Sword
+Etched Greatsword
+Two-Handed Sword
+Bastard Sword
+Longsword
+Corroded Blade
+Fleshripper
+Void Axe
+Despot Axe
+Vaal Axe
+Ezomyte Axe
+Sundering Axe
+Karui Chopper
+Talon Axe
+Abyssal Axe
+Noble Axe
+Labrys
+Headsman Axe
+Timber Axe
+Jasper Chopper
+Dagger Axe
+Shadow Axe
+Gilded Axe
+Double Axe
+Poleaxe
+Woodsplitter
+Jade Chopper
+Stone Axe
+Eclipse Staff
+Judgement Staff
+Imperial Staff
+Maelström Staff
+Ezomyte Staff
+Lathi
+Primordial Staff
+Moon Staff
+Foul Staff
+Highborn Staff
+Serpentine Staff
+Military Staff
+Quarterstaff
+Woodful Staff
+Crescent Staff
+Vile Staff
+Royal Staff
+Coiled Staff
+Iron Staff
+Long Staff
+Primitive Staff
+Gnarled Branch
+Maraketh Bow
+Harbinger Bow
+Imperial Bow
+Spine Bow
+Assassin Bow
+Ranger Bow
+Citadel Bow
+Thicket Bow
+Steelwood Bow
+Decimation Bow
+Highborn Bow
+Ivory Bow
+Sniper Bow
+Compound Bow
+Decurve Bow
+Grove Bow
+Reflex Bow
+Death Bow
+Royal Bow
+Bone Bow
+Recurve Bow
+Composite Bow
+Long Bow
+Short Bow
+Crude Bow
+Sambar Sceptre
+Void Sceptre
+Carnal Sceptre
+Vaal Sceptre
+Platinum Sceptre
+Opal Sceptre
+Tyrant's Sekhem
+Karui Sceptre
+Stag Sceptre
+Abyssal Sceptre
+Royal Sceptre
+Blood Sceptre
+Lead Sceptre
+Crystal Sceptre
+Sekhem
+Grinning Fetish
+Horned Sceptre
+Shadow Sceptre
+Ritual Sceptre
+Ochre Sceptre
+Iron Sceptre
+Quartz Sceptre
+Bronze Sceptre
+Darkwood Sceptre
+Driftwood Sceptre
+Behemoth Mace
+Nightmare Mace
+Auric Mace
+Pernarch
+Legion Hammer
+Gavel
+Tenderizer
+Ancestral Club
+Dragon Mace
+Phantom Mace
+Ornate Mace
+Flanged Mace
+Battle Hammer
+Rock Breaker
+Barbed Club
+Petrified Club
+Wyrm Mace
+Dream Mace
+Ceremonial Mace
+Bladed Mace
+War Hammer
+Stone Hammer
+Spiked Club
+Tribal Club
+Driftwood Club
+Dragoon Sword
+Harpy Rapier
+Jewelled Foil
+Vaal Rapier
+Spiraled Foil
+Pecoraro
+Tempered Foil
+Dragonbone Rapier
+Courtesan Sword
+Apex Rapier
+Fancy Foil
+Primeval Rapier
+Serrated Foil
+Estoc
+Burnished Foil
+Wyrmbone Rapier
+Smallsword
+Thorn Rapier
+Elegant Foil
+Antique Rapier
+Jagged Foil
+Basket Rapier
+Battered Foil
+Whalebone Rapier
+Rusted Spike
+Tiger Hook
+Midnight Blade
+Eternal Sword
+Vaal Blade
+Legion Sword
+Gladius
+Corsair Sword
+Gemstone Sword
+Grappler
+Twilight Blade
+Graceful Sword
+Elder Sword
+Battle Sword
+Baselard
+Cutlass
+Variscite Blade
+Hook Sword
+Dusk Blade
+Elegant Sword
+Ancient Sword
+War Sword
+Broad Sword
+Sabre
+Copper Sword
+Rusted Sword
+Runic Hatchet
+Infernal Axe
+Royal Axe
+Vaal Hatchet
+Butcher Axe
+Reaver Axe
+Siege Axe
+Karui Axe
+Engraved Hatchet
+Wraith Axe
+Ceremonial Axe
+Chest Splitter
+War Axe
+Wrist Chopper
+Tomahawk
+Jasper Axe
+Etched Hatchet
+Spectral Axe
+Decorative Axe
+Arming Axe
+Broad Axe
+Cleaver
+Boarding Axe
+Jade Hatchet
+Rusted Hatchet
+Gemini Claw
+Terror Claw
+Imperial Claw
+Vaal Claw
+Eye Gouger
+Hellion's Paw
+Throat Stabber
+Great White Claw
+Twin Claw
+Eagle Claw
+Noble Claw
+Prehistoric Claw
+Gut Ripper
+Tiger's Paw
+Gouger
+Thresher Claw
+Double Claw
+Fright Claw
+Sparkling Claw
+Timeworn Claw
+Blinder
+Cat's Paw
+Awl
+Sharktooth Claw
+Nailed Fist
+Sai
 Demon Dagger
-Demon Hand Cleave Effect
+Imperial Skean
+Platinum Kris
+Ezomyte Dagger
+Ambusher
+Slaughter Knife
+Gutting Knife
+Trisula
+Fiend Dagger
+Royal Skean
+Golden Kris
+Boot Blade
+Poignard
+Butcher Knife
+Flaying Knife
+Prong Dagger
+Imp Dagger
+Skean
+Copper Kris
+Boot Knife
+Stiletto
+Carving Knife
+Skinning Knife
+Glass Shank
+Profane Wand
+Prophecy Wand
+Tornado Wand
+Opal Wand
+Imbued Wand
+Demon's Horn
+Heathen Wand
+Omen Wand
+Serpent Wand
+Crystal Wand
+Engraved Wand
+Faun's Horn
+Pagan Wand
+Sage Wand
+Spiraled Wand
+Quartz Wand
+Carved Wand
+Goat's Horn
+Driftwood Wand
+Keyblade
+Mystery Box
+Skin Transfer
+Grasping Hands Pet
+Inua Totems Pet
+Rabbit Pet
+Beetle Pet
+Navali's Monkey Pet
+Golden Parakeet Pet
+White Tiger Pet
+Blade Sentry Pet
+Amaranthine Gargoyle Pet
+Gold Gargoyle Pet
+Bronze Gargoyle Pet
+Stone Gargoyle Pet
+Wolf Pet
+Parasite Pet
+Centipede Pet
+Arctic Lynx Pet
+Merveil Pet
+Wallaby Pet
+Baby Elephant
+Magnus Rex
+Koala Bear Pet
+Tortoise Pet
+Rock Elemental Pet
+Pukeko Pet
+Peahen Pet
+Peacock Pet
+Lemur Pet
+Hedgehog Pet
+Wild Turkey Pet
+Chicken Pet
+Baby Black Death Pet
+Rolling Head Pet
+Black Rat Pet
+Bloodworm Pet
+Plummeting Ursa Pet
+Firefly Swarm Pet
+Ghostflame Swarm Pet
+Firefly Swarm
+Formosan Deer Pet
+Nursery Web Spider Pet
+Cane Toad Omega
+Cane Toad Epsilon
+Cane Toad Delta
+Cane Toad Gamma
+Cane Toad Beta
+Toad Pet
+Blue Land Crab Pet
+Two-Tailed Lizard Pet
+Formosan Bear Pet
+Cockroach Pet
+Cobra Pet
+Satoshi
+Shadow
+Bell Lizard Pet
+Garemon Pet
+Lightning Bat Pet
+Infernal Fox Pet
 Demon Hand Pet
-Demon King Body Armour
-Demon King Boots
-Demon King Gloves
-Demon King Helmet
-Demon King Horns
-Demon King Portal
+Black Cat Pet
+Ferret Pet
+Eternal Rhoa Pet
+Exalted Rhoa Pet
+Divine Rhoa Pet
+Regal Rhoa Pet
+Rhoa Pet
+Albino Kiwi Pet
+Diamond Kiwi Pet
+Gold Kiwi Pet
+Silver Kiwi Pet
+Bronze Kiwi Pet
+Kiwi Pet
+Gore Weta Pet
+Giant Weta Pet
+Colossal Weta Pet
+Weta Pet
+Lightning Scorpion Pet
+Acid Scorpion Pet
+Infernal Scorpion Pet
+Scorpion Pet
+Ivory Scorpion Pet
+Red Scorpion Pet
+Purple Scorpion Pet
+Chrome Scorpion Pet
+Ebony Scorpion Pet
+Mysterious Frog Pet
+Royal Red Frog Pet
+Red Frog Pet
+Royal Green Frog Pet
+Green Frog Pet
+Royal Blue Frog Pet
+Blue Frog Pet
+Spectral Basilisk Pet
+Infernal Basilisk Pet
+Green Basilisk Pet
+Golden Radiance
+Golden Path
+Grandmaster Export
+Trinity Purity of Elements Effect
+Carnage Vitality Effect
+Imp Haste Effect
+Dragon Totem Skin
+Black Hole Vortex Effect
+Black Hole Frostbolt Effect
+Rift Worm Shock Nova Effect
+Gore Portal Effect
+Carnage Wings
+Stag Hood Helmet
+Boar Hood Helmet
+Bear Hood Helmet
+Vampiric Wings
+Hydra Wings
+Carnage Shield
+Carnage Body Armour
+Carnage Gloves
+Carnage Boots
+Carnage Helmet
+Essence Footprints Effect
+Essence Portal Effect
+Essence Wings
+Phoenix Weapon Effect
+Chimera Weapon Effect
+Hydra Weapon Effect
+Minotaur Weapon Effect
+Phoenix Body Armour
+Phoenix Gloves
+Phoenix Boots
+Phoenix Helmet
+Chimera Body Armour
+Chimera Gloves
+Chimera Boots
+Chimera Helmet
+Hydra Body Armour
+Hydra Gloves
+Hydra Boots
+Hydra Helmet
+Minotaur Body Armour
+Minotaur Gloves
+Minotaur Boots
+Minotaur Helmet
+Lunaris Body Armour
+Lunaris Gloves
+Lunaris Boots
+Lunaris Helmet
+Phoenix Portrait Frame
+Chimera Portrait Frame
+Hydra Portrait Frame
+Minotaur Portrait Frame
+Reaper Spectral Throw Effect
+Arctic Wings
+Tentacle Caustic Arrow Effect
+Bear Body Armour
+Bear Gloves
+Bear Boots
+Bear Helmet
+Lightning Body Armour
+Lightning Gloves
+Lightning Boots
+Lightning Helmet
+Titan Maul
+Radiant Axe
+Siren Weapon
+Dragon Spear
+Dragon Mask
+Dragon Body Armour
+Dragon Gloves
+Dragon Boots
+Dragon Helmet
+Gloom Body Armour
+Gloom Gloves
+Gloom Boots
+Gloom Helmet
+Gloom Herald Effect
+Shroud Mask
+Shroud Body Armour
+Shroud Gloves
+Shroud Boots
+Shroud Helmet
+Prophecy Portrait Frame
+Raven Raging Spirit Effect
+Gloom Wings
+Demon King Portal Effect
 Demon King Wings
+Prophecy Portal Effect
+Prophecy Weapon Effect
+Prophecy Footprints Effect
+Yaksha Shield
+Garuda Dagger
+Kacha Axe
+Naga Helmet
+Steam-powered Weapon
+Ebony Blast Rain Effect
+Gore Lightning Arrow Effect
+Frostflower Ice Trap Effect
+Demonic Split Arrow Effect
+Verdant Split Arrow Effect
+Gore Earthquake Effect
+Gore Sunder Effect
+Radiant Blade
+Radiant Shield
+Radiant Body Armour
+Radiant Gloves
+Radiant Boots
+Radiant Helmet
+Iron Brand
+Perandus Portal Effect
+Perandus Weapon Effect
+Perandus Footprints Effect
+Arctic Crown
+Golden Bladefall Effect
+Arcane Contagion Effect
 Demonic Blade Vortex Effect
+Malachai Portal Effect
+Seraph Dagger
+Arcane Wither Effect
+Arcane Essence Drain Effect
+Arctic Body Armour
+Arctic Gloves
+Arctic Boots
+Arctic Helmet
+Ghostflame Body Armour
+Ghostflame Gloves
+Ghostflame Boots
+Ghostflame Helmet
+Ascendant Weapon Effect
+Sovereign Weapon Effect
+Challenger Weapon Effect
+Aspirant Weapon Effect
+Ascendant Portal Effect
+Sovereign Portal Effect
+Challenger Portal Effect
+Aspirant Portal Effect
+Ascendant Portrait Frame
+Sovereign Portrait Frame
+Challenger Portrait Frame
+Aspirant Portrait Frame
+Gore Body Armour
+Gore Gloves
+Gore Boots
+Gore Helmet
+Rigwald's Body Armour
+Rigwald's Gloves
+Rigwald's Boots
+Rigwald's Helmet
+Ziggurat Totem Skin
+Acid Magma Orb Effect
+Ghostflame Herald of Ash
+Eagle Guardian Totem Skin
+Stygian Raise Spectre
+Ghostflame Flame Totem
+Webbed Witch Hat
+Aura Effect 4
+Aura Effect 3
+Aura Effect 2
+Aura Effect 1
+Divine Righteous Fire Effect
+Raven Wings
+Highgate Portrait Frame
+Lunaris Portrait Frame
+Vaal Portrait Frame
+Axiom Portrait Frame
+Vaal Weapon Effect
+Bloodletter of the Vaal
+Lunaris Weapon Effect
+Harbinger of Lunaris
+Highgate Weapon Effect
+Overlord of Highgate
+Axiom Weapon Effect
+Shade of Axiom
+Awakening Weapon Effect
+Necrotic Body Armour
+Necrotic Gloves
+Necrotic Boots
+Necrotic Helmet
+Infernal Body Armour
+Infernal Gloves
+Infernal Boots
+Infernal Helmet
+Azure Seraph Weapon Effect
+Demon King Body Armour
+Demon King Gloves
+Demon King Boots
+Demon King Helmet
+Face Parasite
+Seraph Bow
+Verdant Blink and Mirror Arrow Effect
+Steam-powered Engine Back Attachment
+Gem-powered Body Armour
+Steam-powered Body Armour
+Steam-powered Gloves
+Steam-powered Boots
+Steam-powered Helmet
+Arctic Portal Effect
+Ghost Flicker Strike Effect
+Vapour Flicker Strike Effect
+Steam-powered Wand
+Serpent Egg Wand
+Eagle Claw Wand
+Flare Discharge Effect
+Victario Mask
+Ondar Mask
+Marylene Mask
+Witch Hat
+Jack-o'-Lantern
+Seraph Shield
+Gore Skull
+SkullHelmet2_4
+SkullHelmet2_3
+SkullHelmet2_2
+SkullHelmet2_1
 Demonic Flameblast Effect
 Demonic Reave Effect
-Demonic Split Arrow Effect
-Demon's Horn
-Den Large Rock
-Den Large Stalagmites
-Den Pillar
-Den Small Rock
-Den Stalagmites
-De-Playerification
-Desecrate
-Desert Brigandine
-Desert Grass
-Desert Map
-Desert Plants
-Deshret's Banner
-Deshret's Storm
-Deshret's Vise
-Desk
-Despot Axe
-Destined to Crumble
-Destiny Leather
-Destroyer Regalia
-Determination
-Detonate Dead
-Detonate Mines
-Devoto's Devotion
+Swordfish Ice Spear Effect
+Kaom Mask
+Hussar Wings
+Razor Axe
+Challenger's Silver Halo
+Challenger's Golden Halo
+Seraph Sword
+Grandmaster Gloves
+Grandmaster Boots
+Grandmaster Helmet
+Grandmaster Body Armour
+Master Gloves
+Master Boots
+Master Helmet
+Master Body Armour
+Journeyman Gloves
+Journeyman Boots
+Journeyman Helmet
+Journeyman Body Armour
+Apprentice Gloves
+Apprentice Boots
+Apprentice Helmet
+Apprentice Body Armour
+Lioneye Mask
+Arc of Defiance
+Arc of Courage
+Runic Blade
 Devourer Maul
-Devouring Totem
-Devout Chainmail
-Dewath's Hide
-Diamond Flask
-Diamond Kiwi Pet
-Diamond Ring
-Dining Chair
-Dining Table
-Discharge
-Discipline
-Discipline Forcefield Effect
-Disembodied Corpse
-Disjunction
-Disk
-Display Case
-Divider
-Divinarius
-Divination Distillate
-Divine Life Flask
-Divine Mana Flask
-Divine Orb
-Divine Rhoa Pet
-Divine Righteous Fire Effect
-Divine Sign
-Divine Weapon Effect
-DO NOT USE
-Doedre's Damning
-Doedre's Elixir
-Doedre's Madness
-Doedre's Scorn
-Doedre's Tenure
-Dominating Blow
-Doom Arrow
-Doomfletch
-Doomfletch's Prism
-Doomsower
-Doon Cuebiyari
-Door Frame
-Doryani's Catalyst
-Doryani's Fist
-Doryani's Invitation
-Double Axe
-Double Claw
-Double Strike
-Dragon Body Armour
-Dragon Boots
-Dragon Fireball Effect
-Dragon Gloves
-Dragon Helmet
-Dragon Mace
-Dragon Mask
-Dragon Spear
-Dragonbone Rapier
-Dragonscale Boots
-Dragonscale Doublet
-Dragonscale Gauntlets
-Dragoon Sword
-Drawing Table
-Dread Maul
-Dreadarc
-Dream Fragments
-Dream Mace
-Dreamfeather
-Dressing Table
-Driftwood Archway
-Driftwood Branches
-Driftwood Club
-Driftwood Log
-Driftwood Maul
-Driftwood Sceptre
-Driftwood Spiked Shield
-Driftwood Wand
-Drillneck
-DrTestapus' Charm
-Dry Peninsula Map
-Dry Tree
-Dry Woods Map
-Dual Strike
-Dunes Map
-Dungeon Map
-Dusk Blade
-Dusktoe
-Duskwing
-Dyadian Dawn
-Dyadus
-Dying Anguish
-Dying Breath
-Eagle Claw
-Eagle Claw Wand
-Eagle Guardian Totem Skin
-Earth Drinker
-Earthquake
-Earthshakers
-Eber's Key
-Ebony Blast Rain Effect
-Ebony Footprints Effect
-Ebony Scorpion Pet
-Ebony Spectral Throw Effect
-Ebony Tower Shield
-Ebony Weapon Effect
-Eclipse Solaris
-Eclipse Staff
-Edge Blade
-Edge of Madness
-Eelskin Boots
-Eelskin Gloves
-Eelskin Tunic
-Efficient Training
-Egg
-Egg stalk
-Elder Sword
-Eldritch Knowledge
-Elegant Foil
-Elegant Ringmail
-Elegant Round Shield
-Elegant Sword
-Elemental Focus Support
-Elemental Hit
-Elemental Projectiles
-Elemental Proliferation Support
-Elemental Weakness
-Elemental Weapon
-Elite Body Armour
-Elite Boots
+Gargoyle Axe
+Crypt Sword
+Adder's Claw
+Badge of Skulls
+Badge of Mirth
+Badge of Anguish
+Grandmaster Banner Back Attachment
+Master Banner Back Attachment
+Journeyman Banner Back Attachment
+Apprentice Banner Back Attachment
+Bandana
+Dark Fireworks
+Carnival Fireworks
+Northern Light Effect
+Gore Fireworks
+Red, White and Blue Fireworks
+Red and White Fireworks
+Win Fireworks
+Tentacle Wings
+Seraph Wings
+Ambush Ritual Horns
+Invasion Ritual Horns
+Verdant Helmet
+Verdant Gloves
+Verdant Boots
+Verdant Body Armour
+Vampiric Helmet
+Vampiric Gloves
+Vampiric Boots
+Vampiric Body Armour
+Arcane Helmet
+Arcane Gloves
+Arcane Boots
+Arcane Body Armour
+Sanguine Seraph Helmet
+Sanguine Seraph Gloves
+Sanguine Seraph Boots
+Sanguine Seraph Body Armour
+Obsidian Seraph Helmet
+Obsidian Seraph Gloves
+Obsidian Seraph Boots
+Obsidian Seraph Body Armour
+Golden Seraph Helmet
+Golden Seraph Gloves
+Golden Seraph Boots
+Golden Seraph Body Armour
+Cerulean Seraph Helmet
+Cerulean Seraph Gloves
+Cerulean Seraph Boots
+Cerulean Seraph Body Armour
+Alabaster Seraph Gloves
+Alabaster Seraph Helmet
+Alabaster Seraph Boots
+Alabaster Seraph Body Armour
 Elite Gloves
 Elite Helmet
-Emaciated Corpse
-Emaciated Corpse Pile
-Emberwake
-Embroidered Gloves
-Emerald Imp Mask
-Emerald Rain of Arrows Effect
-Emerald Split Arrow Effect
+Elite Boots
+Elite Body Armour
+Seraph Helmet
+Seraph Gloves
+Seraph Boots
+Seraph Body Armour
+Grandmaster Portrait Frame
+Master Portrait Frame
+Journeyman Portrait Frame
+Conqueror Portrait Frame
+Champion Portrait Frame
+Warrior Portrait Frame
+Shaper Portal Effect
+Conqueror's Campaign Portal Effect 
+Champion's Arrival Portal Effect 
+Warrior's Assault Portal Effect 
+Survivor's Respite Portal Effect 
+Black Hole Portal Effect
+Voidgate Portal Effect
+Steam-powered Portal Effect
+Steam1 Portal Effect
+Crimson Portal Effect
+Orange Portal Effect
+Conqueror's Reign Back Attachment
+Champion's Hour Back Attachment 
+Warrior's Mark Back Attachment 
+Survivor's Supplies Back Attachment 
+Holiday Present Sack Back Attachment
+Exile's Essentials Back Attachment 
+Golden Skull
+Summer Skull
+Ornamental Skull
+Crystallised Skull
+Engraved Skull
+Ghostflame Skull
+Ghostflame Footprints Effect
+Verdant Footprints Effect
+Reaper Footprints Effect
+Seraph Footprints Effect
+Razer Footprints Effect
+Gore Footprints Effect
+Necrotic Footprints Effect
+Radiant Footprints Effect
+Vampiric Footprints Effect
+Ebony Footprints Effect
+Arctic Footprints Effect
+Lightning Footprints Effect
+Infernal Footprints Effect
+Carnage Weapon Effect
+Ghostflame Weapon Effect
+Seraph Weapon Effect
+Lightning Weapon Effect
+Infernal Weapon Effect
+Arctic Weapon Effect
+Eternal Weapon Effect
+Exalted Weapon Effect
+Divine Weapon Effect
+Regal Weapon Effect
+Ivory Weapon Effect
+Valentine's Heart Weapon Effect (2015)
+Valentine's Heart Weapon Effect (2014)
+Valentine's Heart Weapon Effect (2013)
+Yellow Weapon Effect
+White Weapon Effect
+Crimson Weapon Effect
+Lavender Weapon Effect
 Emerald Weapon Effect
-Emperor of Purity
-Emperor's Cunning
-Emperor's Luck
+Azure Weapon Effect
+Ebony Weapon Effect
+Turquoise Weapon Effect
+Vampiric Weapon Effect
+Necrotic Weapon Effect
+Verdant Weapon Effect
+Acid Weapon Effect
+Arcane Weapon Effect
+Radiant Weapon Effect
+Ghostflame Raging Spirit Effect
+Soul Nexus Clarity Effect
+Gore Glacial Cascade Effect
+Arctic Ice Nova Effect
+Tribal Storm Call Effect
+Olmec Totem Effect
+Seraph Spectral Throw Effect
+OLD VERSION - DO NOT USE
+Golden Spectral Throw Effect
+Arctic Skull Hatred Effect
+Infernal Skull Anger Effect
+Lightning Skull Wrath Effect
+Discipline Forcefield Effect
+Demon Hand Cleave Effect
+Green Searing Bond Effect
+Stormcloud Arctic Armour
+Blue Cyclone
+White Cyclone
+Sawblade Cyclone
+Blue Flame Incinerate
+Tiki Totem Skin
+Spark Spiders Effect
+Ethereal Stars Effect
+Cold Grasp Effect
+Water Nova Effect
+Plinth Warp
+Siege Firestorm Effect
+Alternate Totem
+Alternate Raise Zombie
+Alternate Raise Spectre
+Emerald Rain of Arrows Effect
+Dragon Fireball Effect
+Blood Slam
+Crimson Portal
+Raise Mummy Skin
+Summon Statues Skin Male Gold
+Summon Statues Skin Female Gold
+Summon Statues Skin Male Stone
+Summon Statues Skin
+Tombstone Desecrate
+Titan Armour
+Angelic Mask
+Guardian Mask
+Lightning Skull
+Arctic Skull
+Crimson Imp Mask
+Golden Imp Mask
+Azure Imp Mask
+Lavender Imp Mask
+Emerald Imp Mask
+Turquoise Imp Mask
+Infernal Skull
+Ornate Pilgrim Hat
+Pilgrim Hat
+Medusa Snakes
+Decapitation
+Skull Hood
+Serrated Mohawk
+Brilliant Crown Effect
+Demon King Horns
+Twisted Horns
+Antlers
+Spirit Charm
+Divine Sign
+Victorious Wings
+Brilliant Feathers
+Silver Wings
+Mark of the Phoenix
+Ice Crown
+Curved Horns
+Bent Horns
+Aureate Halo
+Cobalt Halo
+Fiery Visage
+Recover Cosmetic Effect
+Vanishing Dye
+First Blood Weapon Effect
+First Blood
+Extra Gore
+Dance - Scion
+Dance - Witch
+Dance - Templar
+Dance - Shadow
+Dance - Ranger
+Dance - Marauder
+Dance - Duelist
+Passive Skill Refund
+Unshaping Orb
+Master Cartographer's Seal
+Journeyman Cartographer's Seal
+Apprentice Cartographer's Seal
+Master Cartographer's Sextant
+Journeyman Cartographer's Sextant
+Apprentice Cartographer's Sextant
+Remnant of Corruption
+Essence of Delirium
+Essence of Horror
+Essence of Insanity
+Essence of Hysteria
+Deafening Essence of Envy
+Shrieking Essence of Envy
+Screaming Essence of Envy
+Deafening Essence of Scorn
+Shrieking Essence of Scorn
+Screaming Essence of Scorn
+Deafening Essence of Dread
+Shrieking Essence of Dread
+Screaming Essence of Dread
+Deafening Essence of Misery
+Shrieking Essence of Misery
+Screaming Essence of Misery
+Deafening Essence of Zeal
+Shrieking Essence of Zeal
+Screaming Essence of Zeal
+Wailing Essence of Zeal
+Deafening Essence of Spite
+Shrieking Essence of Spite
+Screaming Essence of Spite
+Wailing Essence of Spite
+Deafening Essence of Loathing
+Shrieking Essence of Loathing
+Screaming Essence of Loathing
+Wailing Essence of Loathing
+Deafening Essence of Anguish
+Shrieking Essence of Anguish
+Screaming Essence of Anguish
+Wailing Essence of Anguish
+Deafening Essence of Doubt
+Shrieking Essence of Doubt
+Screaming Essence of Doubt
+Wailing Essence of Doubt
+Weeping Essence of Doubt
+Deafening Essence of Wrath
+Shrieking Essence of Wrath
+Screaming Essence of Wrath
+Wailing Essence of Wrath
+Weeping Essence of Wrath
+Deafening Essence of Rage
+Shrieking Essence of Rage
+Screaming Essence of Rage
+Wailing Essence of Rage
+Weeping Essence of Rage
+Deafening Essence of Suffering
+Shrieking Essence of Suffering
+Screaming Essence of Suffering
+Wailing Essence of Suffering
+Weeping Essence of Suffering
+Deafening Essence of Fear
+Shrieking Essence of Fear
+Screaming Essence of Fear
+Wailing Essence of Fear
+Weeping Essence of Fear
+Muttering Essence of Fear
+Deafening Essence of Torment
+Shrieking Essence of Torment
+Screaming Essence of Torment
+Wailing Essence of Torment
+Weeping Essence of Torment
+Muttering Essence of Torment
+Deafening Essence of Anger
+Shrieking Essence of Anger
+Screaming Essence of Anger
+Wailing Essence of Anger
+Weeping Essence of Anger
+Muttering Essence of Anger
+Deafening Essence of Sorrow
+Shrieking Essence of Sorrow
+Screaming Essence of Sorrow
+Wailing Essence of Sorrow
+Weeping Essence of Sorrow
+Muttering Essence of Sorrow
+Deafening Essence of Contempt
+Shrieking Essence of Contempt
+Screaming Essence of Contempt
+Wailing Essence of Contempt
+Weeping Essence of Contempt
+Muttering Essence of Contempt
+Whispering Essence of Contempt
+Deafening Essence of Greed
+Shrieking Essence of Greed
+Screaming Essence of Greed
+Wailing Essence of Greed
+Weeping Essence of Greed
+Muttering Essence of Greed
+Whispering Essence of Greed
+Deafening Essence of Woe
+Shrieking Essence of Woe
+Screaming Essence of Woe
+Wailing Essence of Woe
+Weeping Essence of Woe
+Muttering Essence of Woe
+Whispering Essence of Woe
+Deafening Essence of Hatred
+Shrieking Essence of Hatred
+Screaming Essence of Hatred
+Wailing Essence of Hatred
+Weeping Essence of Hatred
+Muttering Essence of Hatred
+Whispering Essence of Hatred
+Prophecy
+Silver Coin
+Perandus Coin
+Enchant
+Vaal Orb
+Imprint
+Eternal Orb
+Albino Rhoa Feather
+Alchemy Shard
+Alteration Shard
+Transmutation Shard
+Scroll Fragment
+Cartographer's Chisel
+Blessed Orb
+Divine Orb
+Jeweller's Orb
+Orb of Fusing
+Chromatic Orb
+Gemcutter's Prism
+Glassblower's Bauble
+Portal Scroll
+Orb of Augmentation
+Regal Orb
+Exalted Orb
+Orb of Scouring
+Orb of Alteration
+Orb of Transmutation
+Orb of Regret
+Orb of Chance
+Orb of Alchemy
+Mirror of Kalandra
+Armourer's Scrap
+Chaos Orb
+Scroll of Wisdom
+Blacksmith's Whetstone
+Hallowed Ground
+Atziri's Vessel
+The Putrid Cloister
+Dying Sun
+Witchfire Brew
+The Warden's Brand
+Shaper's Touch
+Voidwalker
+Unending Hunger
+Starforge
+Cospri's Malice
+The Scourge
+Snakepit
+Obscurantis
+Slivertongue
+Eye of Innocence
+Razor of the Seventh Sun
+Brain Rattler
+The Brass Dome
+Valyrium
+Kondo's Pride
+Praxis
+Kaom's Way
+The Plaguemaw's Offering
+Queen's Escape
+Realm Ender
+Amplification Rod
+Hrimnor's Dirge
+The Tempest
+Silverbough
+Doomfletch's Prism
+The Cauteriser
+The Gryphon
+Kaltensoul
+The Oak
+Thirst for Horrors
+Deidbellow
+Ezomyte Hold
+Martyr's Crown
+Hrimburn
+Ngamahu Tiki
+The Signal Fire
+Cragfall
+Voidheart
+Breath of the Council
+Reach of the Council
+Death's Door
+TrapperBodyTempName
+Kiara's Determination
+Grip of the Council
+The Learning Stone
+Skirmish
+The Ascetic
+Cospri's Will
+Death's Opus
+Shavronne's Gambit
+Wall of Brambles
+Karui Charge
+Malachai's Vision
+Voll's Vision
+Primordial Shaping
+Lycosidae
+Ewar's Mirage
+Hiltless
+Spiritskin
+Touch of Anguish
+Underdog's Fury
+Rumblemarch
+Kintsugi
+Veruso’s Battering Rams
+Saemus' Gift
+Scaeva
+Kitava's Thirst
+Hinekora's Sight
+Mind of the Council
+Ascent From Flesh
+Grand Spectrum
+Cloak of Tawm'r Isley
+The Rack
+Three-step Assault
+Bloodletter
+Duskwing
+Innsbury Edge
+The Perandus Manor
+Victario's Charity
 Emperor's Mastery
 Emperor's Might
 Emperor's Wit
-Empire's Grasp
-Empower Support
-Empyrean Apparatus
-Enameled Buckler
-Enchant
-Endurance Charge on Melee Stun Support
-Enduring Cry
-Energised Armour
-Energizer
-Energy Beam
-Energy Dome
-Energy From Within
-Enfeeble
-Engraved Greatsword
-Engraved Hatchet
-Engraved Skull
-Engraved Wand
-Enhance Support
-Enlighten Support
-Ephemeral Edge
-Essence Drain
-Essence Worm
-Essentia Sanguis
-Estoc
-Etched Greatsword
-Etched Hatchet
-Etched Kite Shield
-Eternal Burgonet
-Eternal Life Flask
-Eternal Mana Flask
-Eternal Orb
-Eternal Rhoa Pet
-Eternal Sword
-Eternal Weapon Effect
-Ethereal Knives
-Ethereal Stars Effect
-Ewar's Mirage
-Exalted Orb
-Exalted Rhoa Pet
-Exalted Weapon Effect
-Excavation Map
-Exile
-Exile
-Exile's Essentials Back Attachment 
-Experiment Table
-Explosive Arrow
-Exquisite Blade
-Exquisite Leather
-Extra Gore
-Extraction Device
-Extractor Mentis
-Eye
-Eye Gouger
-Eye of Chayula
-Eyes of the Greatwolf
-Ezomyte Axe
-Ezomyte Blade
-Ezomyte Burgonet
-Ezomyte Dagger
-Ezomyte Hold
-Ezomyte Peak
-Ezomyte Spiked Shield
-Ezomyte Staff
-Ezomyte Tower Shield
-Face Parasite
-Facebreaker
-Fairgraves' Bearing
-Fairgraves' Tricorne
-Falling Leaves
-Faminebind
-Fancy Foil
-Fangjaw Talisman
-Faster Attacks Support
-Faster Casting Support
-Faster Projectiles Support
-Faun's Horn
-Feastbind
-Fellshrine Ruins
-Felltooth
-Femurs of the Saints
-Fence
-Fencer Helm
-Fencoil
-Ferret Pet
-Fertile Mind
-Festival Mask
-Fetid Air Particles
-Fetid Smog
-Fevered Mind
-Fidelitas' Spike
-Field Lamellar
-Fiend Dagger
-Fiery Visage
-Fir Round Shield
-Fire Arrow Quiver
-Fire Nova Mine
-Fire Penetration Support
-Fire Trap
-Fire Weapon
-Fireball
-Fireborn
-Firefly Swarm
-Firefly Swarm Pet
-Fireplace
-Firestorm
-Fish Stand
-Fishing Rod
-Fishscale Gauntlets
-Flag
-Flame Dash
-Flame Surge
-Flame Totem
-Flameblast
-Flammability
-Flanged Mace
-Flare Discharge Effect
-Flat Stone Slabs
-Flax
-Flaying Knife
-Flesh and Spirit
-Flesh Offering
-Flesh-Eater
-Fleshripper
-Flicker Strike
-Flies
-Floor
-Flower Pot
-Fluid Motion
-Fluted Bascinet
-Fly Swarm
-Footman Sword
-Forbidden Taste
-Forest Flowers
-Forest Rock
-ForestTree
-Fork Support
-Formosan Bear Pet
-Formosan Deer Pet
-Fortification
-Fortification Door
-Fortify Support
-Fossilised Spirit Shield
-Fossilized Miners
-Foul Staff
-Foxshade
-Fragile Bloom
-Fragility
-Fragment of Eternity
-Freeze Mine
-Freezing Pulse
-Frenzy
-Fresh Giblets
-Fright Claw
-Fright Maul
-Frontier Leather
-Frost Blades
-Frost Bomb
-Frost Unbroken
-Frost Wall
-Frostbite
-Frostbolt
-Frostbreath
-Frostflower Ice Trap Effect
-Full Armour Stand
-Full Chainmail
-Full Dragonscale
-Full Leather
-Full Plate
-Full Ringmail
-Full Scale Armour
-Full Wyrmscale
-Galla's Riposte
-Gang's Momentum
-Garden Statue
-Garemon Pet
-Gargoyle Axe
-Garuda Dagger
-Gavel
-Gear
-Gemcutter's Prism
-Gemcutter's Promise
-Gemini Claw
-Gem-powered Body Armour
-Gemstone Sword
-General's Brigandine
-Generosity Support
-Geofri's Baptism
-Geofri's Crest
-Geofri's Sanctuary
-Ghetto Map
-Ghost Flicker Strike Effect
-Ghostflame Body Armour
-Ghostflame Boots
-Ghostflame Flame Totem
-Ghostflame Footprints Effect
-Ghostflame Gloves
-Ghostflame Helmet
-Ghostflame Herald of Ash
-Ghostflame Raging Spirit Effect
-Ghostflame Skull
-Ghostflame Swarm Pet
-Ghostflame Weapon Effect
-Ghostly Fog
-Ghostmarch
-Giant Life Flask
-Giant Mana Flask
-Giant Weta Pet
-Giant Whale Skeleton
-Gift of the Gemling Queen
-Gifts from Above
-Gilded Axe
-Gilded Buckler
-Gilded Cradle
-Gilded Sallet
-Girded Tower Shield
-Glacial Cascade
-Glacial Hammer
-Gladiator Helmet
-Gladiator Plate
-Gladiator's Workbench
-Gladius
-Glass Shank
-Glassblower's Bauble
-Glimmer of Hope
-Glitterdisc
-Glob
-Gloom Body Armour
-Gloom Boots
-Gloom Gloves
-Gloom Helmet
-Gloom Herald Effect
-Gloom Wings
-Glorious Leather
-Glorious Plate
-Glow Worms
-Glowing Embers
-Gnarled Branch
-Goathide Boots
-Goathide Buckler
-Goathide Gloves
-Goat's Horn
-Goddess Statue
-Gold Amulet
-Gold Gargoyle Pet
-Gold Kiwi Pet
-Gold Ring
-Golden Arch
-Golden Bars
-Golden Bladefall Effect
-Golden Bracers
-Golden Buckler
-Golden Bust
-Golden Caligae
-Golden Chest
-Golden Flame
-Golden Gargoyle Statue
-Golden Gate
-Golden Hand
-Golden Hoop
-Golden Imp Mask
-Golden Key
-Golden Kris
-Golden Lion Statue
-Golden Mantle
-Golden Mask
-Golden Obi
-Golden Page
-Golden Path
-Golden Plate
-Golden Radiance
-Golden Seraph Body Armour
-Golden Seraph Boots
-Golden Seraph Gloves
-Golden Seraph Helmet
-Golden Skull
-Golden Sparkles
-Golden Spectral Throw Effect
-Golden Statue
-Golden Vessel
-Golden Wreath
-Goldrim
-Goldwyrm
-Goliath Gauntlets
-Goliath Greaves
-Gore Body Armour
-Gore Boots
-Gore Earthquake Effect
-Gore Fireworks
-Gore Footprints Effect
-Gore Glacial Cascade Effect
-Gore Gloves
-Gore Helmet
-Gore Lightning Arrow Effect
-Gore Skull
-Gore Sunder Effect
-Gore Weta Pet
-Gorebreaker
-Goredrill
-Gorge Map
-Gouger
-Grace
-Graceful Sword
-Grand Life Flask
-Grand Mana Flask
-Grand Spectrum
-Grandmaster Banner Back Attachment
-Grandmaster Body Armour
-Grandmaster Boots
-Grandmaster Export
-Grandmaster Gloves
-Grandmaster Helmet
-Grandmaster Hideout Banner
-Grandmaster Portrait Frame
-Grandmaster's Arcanist Cache
-Grandmaster's Cartography Cache
-Grandmaster's Corrupted Cache
-Grandmaster's Gemcutting Cache
-Grandmaster's Large Cache
-Grandmaster's Ornate Cache
-Grandmaster's Treasury
-Grandmaster's Trove
-Granite Flask
-Grappler
-Grass
-Grave Knowledge
-Graveyard Map
-Great Crown
-Great Helmet
-Great Mallet
-Great Old One's Ward
-Great White Claw
-Greater Life Flask
-Greater Mana Flask
-Greater Multiple Projectiles Support
-Greatwolf Talisman
-Greed's Embrace
-Green Basilisk Pet
-Green Frog Pet
-Green Searing Bond Effect
-Grigor's Wall
-Grinning Fetish
-Grip of the Council
-Grotto Map
-Ground Slam
-Grove Bow
-Growing Agony
-Guardian Mask
-Gut Ripper
-Gutting Knife
-Hair Trigger
-Haliotis Glyph
-Hall of Grandmasters
-Hallowed Hybrid Flask
-Hallowed Life Flask
-Hallowed Mana Flask
-Hammered Buckler
-Hanging Brazier
-Hanging Lamp
-Harbinger Bow
-Harbinger of Lunaris
-Harlequin Mask
-Harmonic Spirit Shield
-Harpy Rapier
-Haste
-Hatred
-Headhunter
-Headman's Sword
-Headsman Axe
-Headstones
-Healthy Mind
-Heart of the Gargoyle
-Heartbound Loop
-Heartbreaker
-Heathen Wand
-Heatshiver
-Heavy Belt
-Heavy Quiver
-Heavy Strike
-Hedgehog Pet
-Hegemony's Era
-Hellbringer
-Hellion's Paw
-Helmet Stand
-Her Mask
-Herald of Ash
-Herald of Blood
-Herald of Ice
-Herald of Thunder
+Emperor's Cunning
 Heretic's Veil
-Heterochromia
-Hexclaw Talisman
-Hezmana's Bloodlust
-Hidden Potential
-High Chair
-Highborn Bow
-Highborn Staff
-Highgate Portrait Frame
-Highgate Weapon Effect
-Highland Blade
-Hiltless
-Hinekora's Sight
-Holiday Present Sack Back Attachment
-Holy Chainmail
-Honourhome
-Hook Sword
-Hope
-Horned Sceptre
-Horned Talisman
-Hotfooted
-House of Mirrors
-Hrimburn
-Hrimnor's Dirge
-Hrimnor's Hymn
-Hrimnor's Resolve
-Hrimsorrow
-Hubris
-Hubris Circlet
-Humility
-Hung Corpse
-Hungry Abyss
-Hunter Hood
-Hunter's Resolve
-Hunter's Reward
-Hussar Brigandine
-Hussar Wings
-Hut
-Hyaon's Fury
-Hydrascale Boots
-Hydrascale Gauntlets
-Hypothermia Support
-Hyrri's Bite
-Hyrri's Ire
-Ice Bite Support
-Ice Crash
-Ice Crown
-Ice Crystal
-Ice Nova
-Ice Rune Trap
-Ice Shot
-Ice Spear
-Ice Trap
-Icefire
-Icetomb
-Ichimonji
-Ignite
-Imbued Wand
-Immortal Call
-Immortal Flesh
-Imp Dagger
-Impaled Corpse
-Impaled Monster
-Impaling Spike
-Imperial Bow
-Imperial Buckler
-Imperial Claw
-Imperial Maul
-Imperial Skean
-Imperial Staff
-Imprint
-Incandescent Heart
-Incinerate
-Increased Area of Effect Support
-Increased Burning Damage Support
-Increased Critical Damage Support
-Increased Critical Strikes Support
-Increased Duration Support
-Inertia
-Infantry Brigandine
-Infernal Axe
-Infernal Basilisk Pet
-Infernal Blow
-Infernal Body Armour
-Infernal Boots
-Infernal Footprints Effect
-Infernal Fox Pet
-Infernal Gloves
-Infernal Helmet
-Infernal Mantle
-Infernal Scorpion Pet
-Infernal Skull
-Infernal Skull Anger Effect
-Infernal Sword
-Infernal Talc
-Infernal Throne
-Infernal Weapon Effect
-Infractem
-Innervate Support
-Innsbury Edge
-Inspired Learning
-Intuitive Leap
-Invasion Ritual Horns
-Inya's Key
-Iron Boot
-Iron Brand Helmet Attachment
-Iron Circlet
-Iron Commander
-Iron Gauntlets
-Iron Greaves
-Iron Grip Support
-Iron Hat
-Iron Maiden
-Iron Mask
-Iron Ring
-Iron Sceptre
-Iron Staff
-Iron Will Support
-Ironscale Boots
-Ironscale Gauntlets
-Ironweld
-Ironwood Buckler
-Item Quantity Support
-Item Rarity Support
-Ivory Bow
-Ivory Scorpion Pet
-Ivory Spirit Shield
-Ivory Weapon Effect
-Izaro's Dilemma
-Izaro's Turmoil
-Jack in the Box
-Jack, The Axe
-Jack-o'-Lantern
-Jade Amulet
-Jade Chopper
-Jade Flask
-Jade Hatchet
-Jagged Foil
-Jagged Maul
-Jasper Axe
-Jasper Chopper
-Jaws of Agony
-Jet Amulet
-Jet Ring
-Jewelled Foil
-Jeweller's Orb
-Jingling Spirit Shield
-Jorrhast's Blacksteel
-Journeyman Banner Back Attachment
-Journeyman Body Armour
-Journeyman Boots
-Journeyman Gloves
-Journeyman Helmet
-Journeyman Hideout Banner
-Journeyman Portrait Frame
-Judgement Staff
-Jungle Valley Map
-Junk Pile
-Kacha Axe
-Kalisa's Grace
-Kaltenhalt
-Kaltensoul
-Kaom Mask
-Kaom's Cache
-Kaom's Greaves
-Kaom's Heart
-Kaom's Plate
-Kaom's Primacy
-Kaom's Roots
-Kaom's Sign
-Kaom's Throne
-Kaom's Way
-Karui Axe
-Karui Charge
-Karui Chopper
-Karui Maul
-Karui Sceptre
-Karui Ward
-Keyblade
-Kiara's Determination
-Kikazaru
-Kinetic Blast
-Kingmaker
-Kingsguard
-Kintsugi
-Kitava's Thirst
-Kiwi Pet
-Knockback Support
-Koala Bear Pet
-Kongming's Stratagem
-Kongor's Undying Rage
-Kraityn's Amulet
-Labrys
-Labyrinth Plaque
-Lacerate
-Lacewood Spirit Shield
-Lacquered Buckler
-Lacquered Garb
-Lacquered Helmet
-Lakishu's Blade
-Laminated Kite Shield
-Lantador's Lost Love
-Lantern
-Lapis Amulet
-Large Aqueduct Boat
-Large Bird Cage
-Large Boat Remains
-Large Church Wall Arch
-Large Crypt Rubble
-Large Fortification
-Large Garden Statue
-Large Golden Statue
-Large Hybrid Flask
-Large Life Flask
-Large Mana Flask
-Large Overgrown Statue
-Large Pillar
-Large Rocks
-Large Shelf
-Large Skull Pile
-Large Sofa Bed
-Large Tent
-Large Whale Skeleton Ribs
-Last Hope
-Last Resort
-Lathi
-Latticed Ringmail
-Lava Fountain
-Lava Glow
-Lavender Imp Mask
-Lavender Weapon Effect
-Lavianga's Spirit
-Lavianga's Wisdom
-Layered Kite Shield
-Le Heup of All
-Lead Sceptre
-Leap Slam
-Leather Belt
-Leather Cap
-Leather Hood
-Leatherscale Boots
-Leer Cast
-Legion Boots
-Legion Gloves
-Legion Hammer
-Legion Sword
-Lemur Pet
-Less Duration Support
-Lesser Multiple Projectiles Support
-Letter
-Letters
-Lever
-Leviathan Ivory
-Library Statue
-Life Gain on Hit Support
-Life Leech Support
-Lifesprig
-Light Brigandine
-Light Cargo Wagon
-Light Quiver
-Lightbane Raiment
-Lighthouse Remains
-Lightning Arrow
-Lightning Bat Pet
-Lightning Channel
-Lightning Circle
-Lightning Coil
-Lightning Footprints Effect
-Lightning Penetration Support
-Lightning Scorpion Pet
-Lightning Skull
-Lightning Skull Wrath Effect
-Lightning Strike
-Lightning Tendrils
-Lightning Trap
-Lightning Warp
-Lightning Weapon Effect
-Limbsplit
-Linden Kite Shield
-Lion Pelt
-Lion Statue
-Lion Sword
-Lioneye Mask
-Lioneye's Fall
-Lioneye's Glare
-Lioneye's Paws
-Lioneye's Remorse
-Lioneye's Vision
-Lion's Roar
-Lithe Blade
-Lochtonial Caress
-Lone Antler Talisman
-Long Bow
-Long Staff
-Long Table
-Longsword
-Longtooth Talisman
-Lordly Chair
-Lordly Plate
-Loricated Ringmail
-Lori's Lantern
-Lost Worlds
-Lounge Chair
-Low Fire Pit
-Low Mossy Wall
-Loyalty
-Lucky Connections
-Lucky Dog
-Lunaris Circlet
-Lunaris Portrait Frame
-Lunaris Weapon Effect
-Lush Tree
-Lycosidae
-Lysah's Respite
-Machine
-Macrotaen Plant
-Maelström of Chaos
-Maelström Staff
-Mage's Vestment
-Magistrate Crown
-Magma Orb
-Magma Orb Concoction
-Magnus Rex
-Mahogany Tower Shield
-Majestic Plate
-Malachai Portal Effect
-Malachai's Artifice
-Malachai's Dedication
-Malachai's Entrails
-Malachai's Heart
-Malachai's Loop
-Malachai's Lungs
-Malachai's Simula
-Malachai's Vision
-Malformation Map
-Malicious Intent
-Maligaro's Etcher
-Maligaro's Lens
-Maligaro's Restraint
-Maligaro's Spike
-Maligaro's Virtuosity
-Mallet
-Maloney's Nightfall
-Mana Leech Support
-Mana Sponge
-Mandible Talisman
-Mantra of Flames
-Mao Kun
-Map Device
-Maple Round Shield
-Maraketh Bow
-Mark of the Doubting Knight
-Mark of the Phoenix
-Mark of the Warrior Wings
-Mark2's Mastery
-Market Debris
-Market Pillar
-Marohi Erqi
-Martial Artistry
-Martyr's Crown
-Marylene Mask
-Marylene's Fallacy
-Mast Arch
-Master Banner Back Attachment
-Master Body Armour
-Master Boots
-Master Gloves
-Master Helmet
-Master Hideout Banner
-Master Portrait Frame
-Mat
-Matua Tupuna
-Meat Baskets
-Meatgrinder
-Medicine Chest
-Medium Bird Cage
-Medium Golden Statue
-Medium Hybrid Flask
-Medium Life Flask
-Medium Mana Flask
-Medium Tent
-Medusa Snakes
-Meginord's Girdle
-Meginord's Vise
-Melee Damage on Full Life Support
-Melee Physical Damage Support
-Melee Splash Support
-Merciless Armament
-Merveil Pet
-Mesh Boots
-Mesh Gloves
-Messy Study Table
-Metal Beam
-Metal Plate
-Metal Rod
-Midnight Bargain
-Midnight Blade
-Might in All Forms
-Mightflay
-Military Staff
-Mind Cage
-Mind of the Council
-Mindspiral
-Mine Cart
-Mine Rock
-Minefield Support
-Ming's Heart
-Minion and Totem Elemental Resistance Support
-Minion Damage Support
-Minion Life Support
-Minion Speed Support
-Mirror Arrow
-Mirror of Kalandra
-Mirrored Spiked Shield
-Miser of Misery
-Mjölner
-Mokou's Embrace
-Molten Shell
-Molten Strike
-Monkey Paw Talisman
-Monkey Twins Talisman
-Mon'tregul's Grasp
-Moon Staff
-Moonbender's Wing
-Moonsorrow
-Moonstone Ring
-Mordhau
-Morning Star
-Mortal Grief
-Mortal Hope
-Mortal Ignorance
-Mortal Rage
-Mortem Morsu
-Mosaic Kite Shield
-Moss Monster
-Mossy Wall
-Mossy Wall Arch
-Mountain Ledge Map
-Mud Geyser Map
-Multiple Traps Support
-Multistrike Support
-Murder Boots
-Murder Mitts
-Museum Map
-Mutated Growth
-Mutewind Cache
-Mutewind Pennant
-Mutewind Seal
-Mutewind Whispersteps
-Mysterious Frog Pet
-Mystery Box
-Naga Helmet
-Nailed Fist
-NameGoesHere
-Natural Hierarchy
-Navali's Monkey Pet
-Necromancer Circlet
-Necromancer Silks
-Necropolis Map
-Necrotic Body Armour
-Necrotic Boots
-Necrotic Footprints Effect
-Necrotic Gloves
-Necrotic Helmet
-Necrotic Weapon Effect
-New Shock Nova
-NewPunishment
-Ngamahu Tiki
-Ngamahu's Flame
-Ngamahu's Sign
-Nightmare Bascinet
-Nightmare Mace
-Night's Hold
-Noble Axe
-Noble Claw
-Noble Tricorne
-Nomic's Storm
-Northern Light Effect
-Nubuck Boots
-Nubuck Gloves
-Null and Void
-Null's Inclination
+Unstable Payload
+Coated Shrapnel
 Nuro's Harp
-Nursery Web Spider Pet
-Nycta's Lantern
-Oak Buckler
-Oak's Amulet
-Oba's Cursed Trove
-Oba's Glittering Stash
-Oba's Prized Cache
-Oba's Riches
-Obelisk
-Obliteration
-Obsidian Seraph Body Armour
-Obsidian Seraph Boots
-Obsidian Seraph Gloves
-Obsidian Seraph Helmet
-Occultist's Vestment
-Ochre Sceptre
-Offering to the Goddess
-Oiled Coat
-Oiled Vest
-Old Giblets
-Olmec Totem Effect
-Olmec's Sanctum
-Omen Wand
-Ondar Mask
-Ondar's Clasp
-Ondar's Flight
-Onyx Amulet
-Opal Sceptre
-Opal Wand
-Orange Portal Effect
-Orb of Alchemy
-Orb of Alteration
-Orb of Augmentation
-Orb of Chance
-Orb of Elemental Essence
-Orb of Fusing
-Orb of Regret
-Orb of Scouring
-Orb of Storms
-Orb of Transmutation
-Orchard Map
-Oriath Armour Crate
-Oriath Army Barrel
-Oriath Army Tent
-Oriath Supplies
-Oriath Supply Crate
-Oriath Weapons Crate
-Ornament of the East
-Ornamental Skull
-Ornate Chair
-Ornate Fence
-Ornate Mace
-Ornate Pilgrim Hat
-Ornate Ringmail
-Ornate Spiked Shield
-Ornate Sword
-Oro's Sacrifice
-Overgrown Arch
-Overgrown Offering Statue
-Overgrown Ruin Map
-Overgrown Shrine Map
-Overgrown Statue
-Overgrown Wall
-Overlord of Highgate
-Pacifism
-Padded Jacket
-Padded Vest
-Pagan Geis
-Pagan Wand
-Painted Buckler
-Painted Tower Shield
-Painting
-Palace Map
-Palisade
-Palisade Door
-Palisade Gate
-Palm
-Palm Group
-Parasite Pet
-Parrot Pet
-Passive Skill Refund
-Path
-Paua Amulet
-Paua Ring
-Peacock Pet
-Peahen Pet
-Pecoraro
-Penetrating Arrow Quiver
-Perandus Bank
-Perandus Blazon
-Perandus Coin
-Perandus Footprints Effect
-Perandus Portal Effect
-Perandus Signet
-Perandus Weapon Effect
-Pernarch
-Petrified Club
-Phantasmagoria Map
-Phantom Mace
-Phase Run
-Physical Projectile Attack Damage Support
-Physical to Lightning Support
-Pier Map
-Pierce Support
-Pig-Faced Bascinet
-Piledriver
-Pilgrim Hat
-Pillar
-Pillar Debris
-Pillar of the Caged God
-Pillars and Flag
-Pimple
-Pine Buckler
-Pinnacle Tower Shield
-Pipe
-Pipe Kit
-Pipes
-Piping
-Piscator's Vigil
-Pit Flags
-Pit Map
-Pitbull Corpse
-Pitch Darkness
-Plague Mask
-Plank Kite Shield
-Plate
-Plate Vest
-Plateau Map
-Plated Gauntlets
-Plated Greaves
-Plated Maul
-Platinum Kris
-Platinum Sceptre
-Plaza Map
-Pledge of Hands
-Plinth Warp
-Plummeting Ursa Pet
-Poacher's Aim
-Poacher's Mark
-Poignard
-Point Blank Support
-Poison Support
-Poleaxe
-Polished Spiked Shield
-Poorjoy's Asylum
-Poppy Plant
-Portal
-Portal Scroll
-Portal Shredder
-Post
-Pot
-Pot Line
-Power Charge On Critical Support
-Power Siphon
-Powerlessness
-Praetor Crown
-Prayer Stones
-Precinct Map
-Prehistoric Claw
-Pride Before the Fall
-Primal Skull Talisman
-Primeval Rapier
-Primitive Staff
-Primordial Shaping
-Primordial Staff
-Prism Guardian
-Prismatic Eclipse
-Prismatic Jewel
-Prismatic Ring
-Prismweave
-Prison Bars
-Prison Table
-Profane Wand
-Projectile Weakness
-Promenade Map
-Prong Dagger
-Prophecy
-Prophecy Footprints Effect
-Prophecy Portal Effect
-Prophecy Portrait Frame
-Prophecy Wand
-Prophecy Weapon Effect
-Prophet Crown
-Prosperity
-Prototype Snipe Totem
-Pugilist
-Pukeko Pet
-Pumpkins
-Puncture
-Punishment
-Purity of Elements
-Purity of Fire
-Purity of Ice
-Purity of Lightning
-Purple Scorpion Pet
-Pyre
-Quake Slam
-Quarry Map
-Quarterstaff
-Quartz Flask
-Quartz Sceptre
-Quartz Wand
-Quecholli
-Queen of the Forest
-Queen's Decree
-Queen's Escape
-Quicksilver Flask
-Quill Rain
-Quilted Jacket
-Rack
-Radiant Blade
-Radiant Body Armour
-Radiant Boots
-Radiant Footprints Effect
-Radiant Gloves
-Radiant Helmet
-Radiant Shield
-Radiant Weapon Effect
-Rail Post
-Railway
-Rain
-Rain of Arrows
-Rain of Chaos
-Rain of Splinters
-Rain Tempter
-Rainbowstride
-Raise Mummy Skin
-Raise Spectre
-Raise Zombie
-Rallying Cry
-Ranged Attack Totem Support
-Ranger Bow
-Raphina Tree
-Rapid Decay Support
-Rapid Expansion
-Rapture Device
-Rashkaldor's Patience
-Rathpith Globe
-Rats
-Rat's Nest
-Raven Mask
-Raven Raging Spirit Effect
-Raven Wings
-Ravenal Tree
-Rawhide Boots
-Rawhide Gloves
-Rawhide Tower Shield
-Razer Footprints Effect
-Razor Axe
-Reach of the Council
-Realm Ender
-Realmshaper
-Reaper Footprints Effect
-Reaper's Pursuit
-Rearguard
-Reave
-Reaver Axe
-Reaver Helmet
-Reaver Sword
-Rebuke of the Vaal
-Reckless Defence
-Reckoning
-Recover Cosmetic Effect
-Recurve Bow
-Red and White Fireworks
-Red Carpet
-Red Frog Pet
-Red Scorpion Pet
-Red, White and Blue Fireworks
-Redbeak
-Redblade Band
-Redblade Banner
-Redblade Cache
-Redblade Tramplers
-Reduced Mana Support
-Redwood Spiked Shield
-Reef Map
-Reefbane
-Reflex Bow
-Regal Orb
-Regal Rhoa Pet
-Regal Weapon Effect
-Regicide Mask
-Reinforced Greaves
-Reinforced Kite Shield
-Reinforced Tower Shield
-Rejuvenation Totem
-Relentless Fury
-Relic of the Cycle
-Remnant of Empires
-Remote Mine Support
-Renegades Cache
-Repentance
-Residence Map
-Return Projectiles Support
-Reverberation Rod
-Rhoa
-Rhoa Nest
-Rhoa Pet
-Ribbon Spool
-Righteous Fire
-Righteous Lightning
-Rigvald's Charge
-Rigwald's Body Armour
-Rigwald's Boots
-Rigwald's Command
-Rigwald's Crest
-Rigwald's Curse
-Rigwald's Gloves
-Rigwald's Helmet
-Rigwald's Quills
-Rigwald's Savagery
-Rime Gaze
-Ringmail Boots
-Ringmail Coat
-Ringmail Gloves
-Riposte
-Riptide
-Rise of the Phoenix
-Ritual Sceptre
+Hair Trigger
+Glitterdisc
+Cheap Construction
 Rive
-Riveted Boots
-Riveted Gloves
-Road Trim
-Robbie's Rotten Mace
-Rock
-Rock Breaker
-Rock Elemental Pet
-Rod of Detonation
-Rolling Flames
-Rolling Head Pet
-Romira's Banquet
-Roots
-Rope
-Ropes
-Rory's Revengance
-Rosette
-Roseus Glyph
-Rostrum
-Rot Head Talisman
-Rotfeather Talisman
-Rotgut
-Roth's Reach
-Rotted Round Shield
-Round Weapon Rack
-Royal Axe
-Royal Blue Frog Pet
-Royal Bow
-Royal Burgonet
-Royal Green Frog Pet
-Royal Red Frog Pet
-Royal Sceptre
-Royal Skean
-Royal Staff
-Ruby Amulet
-Ruby Flask
-Ruby Ring
-Rug
-Rugged Quiver
-Rumblemarch
-Rumi's Concoction
-Runic Blade
-Runic Hatchet
-Russell's Basher
-Russell's Blade
-Russell's Bludgeoner
-Russell's Chopper
-Russell's Cleaver
-Russell's Greatsword
-Russell's Pinger
-Russell's Scratcher
-Russell's Shank
-Russell's Smasher
-Russell's Wand
-Rust of Winter
-Rusted Coif
-Rusted Hatchet
-Rusted Spike
-Rusted Sword
-Rustic Sash
-Sabre
-Sack of Gems
-Sacred Cow
-Sacred Hybrid Flask
-Sacred Life Flask
-Sacred Mana Flask
-Sacrifice at Dawn
-Sacrifice at Dusk
-Sacrifice at Midnight
-Sacrifice at Noon
-Sacrificial Garb
-Sacrificial Harvest
-Sacrificial Shrine
-Sadima's Touch
-Sadist Garb
-Saemus' Gift
-Saffell's Frame
-Sage Wand
-Sage's Robe
-Sai
-Saintly Chainmail
-Saint's Hauberk
-Sallet
-Sambar Sceptre
-Samite Gloves
-Samite Helmet
-Samite Slippers
-Sanctified Life Flask
-Sanctified Mana Flask
-Sand of Eternity
-Sand Tracks
-Sanguine Seraph Body Armour
-Sanguine Seraph Boots
-Sanguine Seraph Gloves
-Sanguine Seraph Helmet
-Santoni's Faith
-Sapphire Flask
-Sapphire Ring
-Sarcophagus
-Sarn Archway
-Satin Gloves
-Satin Slippers
-Satoshi
-Savant's Robe
-Sawblade Cyclone
-Sawblade Tracks
-Scaeva
-Scale Doublet
-Scale Vest
-Scar of Fate
-Scare Mask
-Scarlet Raiment
-Scarlet Round Shield
-Scattered Books
-Scavenger's Daughter
-Scepter Of God Debris
-Scholar Boots
-Scholar of the Seas
-Scholar's Robe
-Scold's Bridle
-Scorpion Pet
-Scrap Pile
-Scroll Fragment
-Scroll of Wisdom
-Seagull Nest
-Searing Bond
-Secutor Helm
-Sekhem
-Sekhema's Banner
-Self-Flagellation
-Selfless Leadership
-Sentari's Answer
-Sentinel Jacket
-Seraph Body Armour
-Seraph Boots
-Seraph Bow
-Seraph Dagger
-Seraph Footprints Effect
-Seraph Gloves
-Seraph Helmet
-Seraph Shield
-Seraph Spectral Throw Effect
-Seraph Sword
-Seraph Weapon Effect
-Seraph Wings
-Serpent Egg Wand
-Serpent Wand
-Serpentine Staff
-Serpentscale Boots
-Serpentscale Gauntlets
-Serrated Arrow Quiver
-Serrated Arrow Quiver
-Serrated Foil
-Serrated Mohawk
-Seven-League Step
-Severed Heads
-Sewer Keys
-Sewer Map
-Shabby Jerkin
-Shackled Boots
-Shackles of the Wretched
-Shade of Axiom
-Shadow
-Shadow Axe
-Shadow Blades
-Shadow Sceptre
-Shadows and Dust
-Shagreen Boots
-Shagreen Gloves
-Shagreen Tower Shield
-Shaper's Seed
-Shard of Fate
-Sharkskin Boots
-Sharkskin Gloves
-Sharkskin Tunic
-Sharktooth Arrow Quiver
-Sharktooth Claw
-Sharpening Wheel
-Shattered Blade
-Shattered Chains
-Shavronne's Gambit
-Shavronne's Pace
-Shavronne's Revelation
-Shavronne's Wrappings
-Shelf
-Shelf Debris
-Shield Charge
-Shipyard Map
-Shiversting
-Shock Nova
-Shockwave Totem
-Shore Bonfire
-Shore Map
-Shore Plank Debris
-Shore Rocks
-Shore Stub
-Short Bow
-Shrapnel Shot
-Shrine Map
-Shroud Body Armour
-Shroud Boots
-Shroud Gloves
-Shroud Helmet
-Shroud Mask
-Sibyl's Lament
-Side Table
-Sidhebreath
-Siege Axe
-Siege Ballista
-Siege Firestorm Effect
-Siege Helmet
-Silk Gloves
-Silk Robe
-Silk Slippers
-Silken Garb
-Silken Hood
-Silken Vest
-Silken Wrap
-Silver Coin
-Silver Flask
-Silver Key
-Silver Kiwi Pet
-Silver Wings
-Silverbough
-Silverbranch
-Simple Robe
-Sin Trek
-Singularity
-Sinner Tricorne
-Siphon
-Sire of Shards
-Sitting Lion Statue
-Sitting Log
-Skean
-Skeletal Chains
-Skeleton
-Skeleton Display
-Skin Transfer
-Skinning Knife
-Skirmish
-Skull Display
-Skull Hood
-Skull Pile
-Skullhead
-SkullHelmet2_1
-SkullHelmet2_2
-SkullHelmet2_3
-SkullHelmet2_4
-Skyforth
-Slaughter Knife
-Slave Cart
-Slave Post
-Sledgehammer
-Sleek Coat
-Sleeping Lion Statue
-Slink Boots
-Slink Gloves
-Slitherpinch
-Slivers of Providence
-Slower Projectiles Support
-Slugs
-Slum Building
-Slum Debris
-Slum Fence
-Slum Large Debris
-Small Bird Cage
-Small Garden Statue
-Small Hybrid Flask
-Small Life Flask
-Small Mana Flask
-Smallsword
-Smoke Mine
-Snakebite
-Snipe
-Sniper Bow
-Snow
-Socotra Tree
-Sofa
-Sofa Bed
-Solar Maul
-Solaris Circlet
-Solaris Lorica
-Solaris Throne
-Soldier Boots
-Soldier Gloves
-Soldier Helmet
-Soldier's Brigandine
-Song of the Sirens
-Sorcerer Boots
-Sorcerer Gloves
-Soul Mantle
-Soul Nexus Clarity Effect
-Soul Strike
-Soul Taker
-Soulthirst
-Southbound
-Sovereign Portal Effect
-Sovereign Portrait Frame
-Sovereign Spiked Shield
-Sovereign Weapon Effect
-Spark
-Spark Spiders Effect
-Sparkling Claw
-Specialised
-Spectral Axe
-Spectral Basilisk Pet
-Spectral Sword
-Spectral Throw
-Spell Echo Support
-Spell Totem Support
-Spider Food
-Spider Forest Map
-Spider Lair Map
-Spider Lizard
-Spidersilk Robe
-Spiked Bundle
-Spiked Club
-Spiked Round Shield
-Spike-Point Arrow Quiver
-Spikes
-Spindle
-Spine Bow
-Spine of the First Claimant
-Spinefuse Talisman
-Spinner Tracks
-Spinning Ethereal Blades
-Spiny Maul
-Spiny Round Shield
-Spiral Stone
-Spiraled Foil
-Spiraled Wand
-Spire of Stone
-Spirit Charm
-Spirit Guards
-Spirit Offering
-Spirited Response
-Spiritskin
-Splendid Round Shield
-Splinter of the Moon
-Splintered Tower Shield
-Splintered Wood
-Split Arrow
-Split Projectiles Support
-Splitnewt Talisman
-Springleaf
-Springs Map
-Stacked Stone Slabs
-Stag Sceptre
-Stall
-Stand Lamp
-Standing Lamp
-Standing Lion Statue
-Star of Wraeclast
-Starkonja's Head
-Static Electricity
-Static Strike
-Static Tether
-Stealth Boots
-Stealth Gloves
-Steam1 Portal Effect
-Steam-powered Blade
-Steam-powered Body Armour
-Steam-powered Boots
-Steam-powered Engine Back Attachment
-Steam-powered Gloves
-Steam-powered Helmet
-Steam-powered Portal Effect
-Steam-powered Wand
-Steel Circlet
-Steel Gauntlets
-Steel Greaves
-Steel Kite Shield
-Steel Spirit
-Steelhead
-Steelscale Boots
-Steelscale Gauntlets
-Steelwood Bow
-Steppan Eard
-Stibnite Flask
-Stick With Skull
-Stiletto
-Stillwater
-Stinkhorns
-Stocks
-Stone Arch
-Stone Archway
-Stone Axe
-Stone Bust
-Stone Gargoyle Pet
-Stone Hammer
-Stone of Lazhwar
-Stone Pieces
-Stone Shattered Pieces
-Stone Statue
-Stool
-Storm Call
-Storm Cloud
-Storm Prison
-Stormblast
-Stormcloud Arctic Armour
-Strand Map
-Strange Barrel
-Strapped Boots
-Strapped Leather
-Strapped Mitts
-Studded Belt
-Studded Round Shield
-Study Desk
-Stun Support
-Stygian Raise Spectre
-Sulphur Flask
-Summer Skull
-Summon Chaos Golem
-Summon Flame Golem
-Summon Ice Golem
-Summon Lightning Golem
-Summon Raging Spirit
-Summon Skeletons
-Summon Statues Skin
-Summon Statues Skin Female Gold
-Summon Statues Skin Male Gold
-Summon Statues Skin Male Stone
-Summon Stone Golem
-Sun Leather
-Sun Plate
-Sunblast
-Sundance
-Sunder
-Sundering Axe
-Supreme Spiked Shield
-Surface
-Surgebinders
-Surgical Debris
-Survival Instincts
-Survival Secrets
-Survival Skills
-Survivor's Respite Portal Effect 
-Survivor's Supplies Back Attachment 
-Swamp Tree
-Swamp Tree Stump
-Sweep
-Sword In Ground
-Swordfish Ice Spear Effect
-Table
-Tabula Rasa
-Talisman of the Victor
-Talon Axe
-Tarnished Spirit Shield
-Taryn's Shiver
-Tasalio's Sign
-Taste of Hate
-Teak Round Shield
-Tear of Entropy
-Tear of Purity
-Telepad
-Teleport
-Teleport Owner
-Teleport Proximity
-Tempered Foil
-Tempest Shield
-Temple Arch
-Temple Map
-Temporal Chains
-Tenderizer
-Tent
-Tentacle Wings
-Terminus Est
-Terrace Map
-Terror Claw
-Terror Maul
-Thaumetic Emblem
-Thaumetic Sulphite
-The Aesthete
-The Anvil
-The Apex
-The Arena Champion
-The Artist
-The Ascetic
-The Avenger
-The Aylardex
-The Battle Born
-The Beast Fur Shawl
-The Betrayal
-The Blood Dance
-The Blood Reaper
-The Blood Thorn
-The Body
-The Bringer of Rain
-The Brittle Emperor
-The Broken Crown
-The Carrion Crow
-The Cartographer
-The Cataclysm
-The Catalyst
-The Cauteriser
-The Celestial Justicar
-The Chains that Bind
-The Conduit
-The Consuming Dark
-The Covenant
-The Coward's Trial
-The Cursed King
-The Dancing Dervish
-The Dapper Prodigy
-The Dark Mage
-The Dark Seer
-The Deep One's Hide
-The Demoness
-The Devastator
-The Doctor
-The Doppelganger
-The Dragon
-The Dragon's Heart
-The Drunken Aristocrat
-The Encroaching Darkness
-The Enlightened
-The Ethereal
-The Explorer
-The Eye of Desire
-The Eye of Fury
-The Feast
-The Fiend
-The Fletcher
-The Flora's Gift
-The Fox
-The Gambler
-The Gemcutter
-The Gentleman
-The Gladiator
-The Goddess Bound
-The Goddess Scorned
-The GoddessUnleashed
-The Gryphon
-The Gull
-The Harvest
-The Harvester
-The Hermit
-The Hoarder
-The Hunger
-The Ignomon
-The Immortal
-The Incantation
-The Inoculated
-The Inventor
-The Jester
-The King's Blade
-The King's Heart
-The Last One Standing
-The Learning Stone
-The Lich
-The Lion
-The Lord in Black
-The Lover
-The Lunaris Priestess
-The Magnate
-The Mercenary
-The Metalsmith's Gift
-The Naming Temporary
-The Oak
-The Offering
-The One With All
 The Overflowing Chalice
-The Pack Leader
-The Pact
-The Pariah
-The Perandus Manor
-The Peregrine
-The Plaguemaw's Offering
-The Poet
-The Princess
-The Queen
-The Rabid Rhoa
-The Rack
-The Rat Cage
-The Rathorn
-The Restless Ward
-The Retch
-The Risk
-The Road to Power
-The Scarred Meadow
-The Scholar
-The Screaming Eagle
-The Searing Touch
-The Sephirot
-The Sigil
-The Signal Fire
-The Siren
+Zerphi's Last Breath
+The Beast Fur Shawl
+Earthshakers
+Viper's Scales
+Varunastra
+Axiom Perpetuum
+Geofri's Sanctuary
 The Sorrow of the Divine
-The Soul
-The Spoiled Prince
-The Stormcaller
-The Stormheart
-The Summoner
-The Sun
-The Supreme Truth
-The Surgeon
-The Surveyor
-The Survivalist
-The Taming
-The Tempest
+Reefbane
+Ashcaller
+Daresso's Passion
 The Tempestuous Steel
-The Thaumaturgist
-The Three Dragons
-The Throne
-The Tower
-The Traitor
-The Trial
-The Twins
-The Tyrant
-The Union
-The Vast
-The Vertex
-The Vigil
-The Vinktar Square
-The Visionary
-The Void
-The Warden
-The Warlord
-The Watcher
-The Web
-The Whispering Ice
-The Wind
-The Wolf's Shadow
-The Wrath
+Frostbreath
+Clayshaper
+Widowmaker
+Trypanon
+Renegades Cache
+Brinerot Cache
+Redblade Cache
+Mutewind Cache
+Ashes of the Condemned
+Deshret's Storm
+Xirgil's Crank
+Advancing Fortress
+Frost Unbroken
+Umbilicus Immortalis
+Borrowed Power
+WIP Stone Flask
+Ngamahu's Flame
+Malachai's Loop
 The Writhing Jar
-Thick Trees
-Thicket Bow
-Thicket Map
-Thief's Garb
-Thief's Torment
-Thin Pillar
-Thirst for Horrors
-Thorium Spirit Shield
-Thorn Rapier
-Thousand Ribbons
-Thousand Teeth Temu
-Three Faces in the Dark
-Three Hands Talisman
-Three Rat Talisman
-Three-step Assault
-Thresher Claw
-Throat Stabber
-Throne
-Thunder of the Dawn
-Thunderfist
-Thunderous Skies
-Tick
-Tiger Hook
-Tiger Sword
-Tiger's Paw
-Tiki Totem Skin
-Timber Axe
+Demigod's Dominance
+Winterheart
+Caer Blaidd, Wolfpack's Den
+Rigwald's Quills
+Rigwald's Command
+Rigwald's Savagery
+Rigwald's Crest
+Eyes of the Greatwolf
+Rigwald's Curse
+Natural Hierarchy
+Blightwell
+Star of Wraeclast
+Essence Worm
+Night's Hold
+Soulthirst
+Bitterdream
+Singularity
+Disjunction
+Eclipse Solaris
+Storm Prison
+Iron Commander
+Spirit Guards
+Volley Fire
+Rapid Expansion
+Dead Reckoning
+The Dancing Dervish
+Extractor Mentis
+Izaro's Dilemma
+Chitus' Needle
+Izaro's Turmoil
+Spine of the First Claimant
+Wyrmsign
+Obliteration
+De-Playerification
+Ailment Durations
+Attribute Override
+Elemental Weapon
+Cannot Die
+Femurs of the Saints
+Spirited Response
+Winter's Bounty
+Rolling Flames
+The Vigil
+Rotgut
+Winds of Change
+Roth's Reach
+Reckless Defence
+Skyforth
+Kongming's Stratagem
+Vessel of Vinktar
+Hezmana's Bloodlust
+Bloodgrip
+The Retch
+Faminebind
+Feastbind
+The Vinktar Square
+Agnerod West
+Growing Agony
+Steel Spirit
+Pitch Darkness
+Weight of the Empire
+Shattered Chains
+The Aylardex
+Coruscating Elixir
+The Pariah
+Broken Faith
+Steppan Eard
+Allure
+Slivers of Providence
+Emberwake
+Ylfeban's Trickery
+Crown of the Pale King
+Jorrhast's Blacksteel
+Trolltimber Spire
+Redblade Tramplers
+Mutewind Whispersteps
+Brinerot Whalers
+Demigod's Beacon
+Mutewind Pennant
+Redblade Banner
+Brinerot Flag
+Mutewind Seal
+Redblade Band
+Brinerot Mark
+The Stormheart
+Flesh-Eater
+Lavianga's Wisdom
+Gorebreaker
+Lakishu's Blade
+The Princess
+Moonbender's Wing
+Dreadarc
+The Deep One's Hide
+Wildslash
+Realmshaper
+Abberath's Horn
+Bloodplay
+Goredrill
+Kingsguard
+Might in All Forms
+Healthy Mind
+Static Electricity
+Anatomical Knowledge
+Energy From Within
+Energised Armour
+Fireborn
+Cold Steel
+Pugilist
+Call of the Brotherhood
+Powerlessness
+Fragility
+Pacifism
+Brittle Barrier
+Blood Sacrifice
+Self-Flagellation
+Corrupted Energy
+Zerphi's Youth
+Hungry Abyss
+Mutated Growth
+Chill of Corruption
+Ancient Waystones
+Conqueror's Longevity
+Conqueror's Potency
+Conqueror's Efficiency
+Assassin's Haste
+Warlord's Reach
+Poacher's Aim
+Vaal Sentencing
+Atziri's Reign
+Sacrificial Harvest
+Careful Planning
+Inertia
+Brute Force Solution
+Efficient Training
+Miser of Misery
+Specialised
+Clear Mind
+Brawn
+Malicious Intent
+Rain of Splinters
+Hidden Potential
+Fragile Bloom
+The Naming Temporary
+Fevered Mind
+Weight of Sin
+Combustibles
+Hotfooted
+Vampire's Might
+Bulwark Legion
+Mantra of Flames
+Apparitions
+Spire of Stone
+Cannibalistic Habits
+Fluid Motion
+Fertile Mind
+Survival Secrets
+Survival Instincts
+Survival Skills
+Selfless Leadership
+Intuitive Leap
+Lioneye's Fall
+Martial Artistry
+Inspired Learning
+Eldritch Knowledge
+Band of the Victor
+Army of Bones
+Kingmaker
+Twyzel
+Repentance
+Lioneye's Vision
+Blood of Corruption
+Tear of Purity
+The Whispering Ice
+Ornament of the East
+Lion's Roar
+The Restless Ward
+Empire's Grasp
+Ichimonji
+The GoddessUnleashed
+Death's Hand
+Callinellus Malleus
+Doryani's Fist
+Cameria's Maul
+Relentless Fury
+Tremor Rod
+Shaper's Seed
+The Consuming Dark
+Victario's Influence
+Strange Barrel
+Sire of Shards
+Dyadian Dawn
+Heartbound Loop
+Ventor's Gamble
+Grandmaster's Large Cache
+Grandmaster's Corrupted Cache
+Grandmaster's Trove
+Grandmaster's Treasury
+Grandmaster's Ornate Cache
+Grandmaster's Cartography Cache
+Grandmaster's Arcanist Cache
+Grandmaster's Gemcutting Cache
+Southbound
+Agnerod South
+Black Sun Crest
+Doedre's Scorn
+Warped Timepiece
+Greed's Embrace
+Taste of Hate
+Brutus' Lead Sprinkler
+Scold's Bridle
+The Rat Cage
+Ngamahu’s Sign
+Tasalio’s Sign
+Valako's Sign
+Rashkaldor's Patience
+Null's Inclination
+Bloodboil
 Timeclasp
-Time-Lost Relic
-Timeworn Claw
-Tipua Kaikohuru
-Titan Armour
-Titan Gauntlets
-Titan Greaves
-Titanium Spirit Shield
+Belt of the Deceiver
+Surgebinders
+Maloney's Nightfall
+The Broken Crown
+Maligaro's Restraint
+Maligaro's Lens
+Ungil's Harmony
+Reverberation Rod
+Kikazaru
+Bated Breath
+Prismweave
+Agnerod North
+The Blood Thorn
+Talisman of the Victor
+Agnerod East
+Demigod's Eye
+Oba's Glittering Stash
+Oba's Riches
+Oba's Prized Cache
+Great Old One's Ward
+Doomsower
+Sentari's Answer
+Malachai's Artifice
+Hall of Grandmasters
+Craghead
+The Dark Seer
+Edge of Madness
+The Harvest
+Shadows and Dust
+Flesh and Spirit
+Null and Void
+Jack, The Axe
+Apep's Rage
+Cherrubim's Maleficence
+Nomic's Storm
+Gang's Momentum
+Dreamfeather
+Rumi's Concoction
+Mark of the Doubting Knight
+Mokou's Embrace
+Fairgraves' Bearing
+Thousand Teeth Temu
+Jaws of Agony
+Whakawairua Tuahu
+Blood of Summer
+Scar of Fate
+Hegemony's Era
+Forbidden Taste
+Soul Strike
+Fidelitas' Spike
+Kaom's Roots
+Empyrean Apparatus
+Kaom's Cache
+Perandus Bank
+Hyaon's Fury
+Doomfletch
+Hyrri's Bite
+Incandescent Heart
+Asphyxia's Wrath
+ DO NOT USE
+Demigod's Bounty
+Piscator's Vigil
+Doryani's Catalyst
+Vis Mortis
+Atziri's Disfavour
+The Vertex
+Atziri's Splendour
+Atziri's Acuity
+Atziri's Promise
+Doryani's Invitation
+Atziri's Step
+Pledge of Hands
+Rearguard
+Drillneck
+Vaal Caress
+Voideye
+Skullhead
+Alberon's Warpath
+Snakebite
+Dying Breath
+Mjölner
+Shackles of the Wretched
+The Three Dragons
+Song of the Sirens
+Veil of the Night
+Bino's Kitchen Knife
+Fencoil
+Stormblast
+Bartek's Finger
+Boreal Shepherd
+The Screaming Eagle
+Celestial Fragment
+Ironweld
+Alkem Eira
+Wheel of the Stormsail
+Death Rattle
+Chalice of Horrors
+Solaris Lorica
+Cagan's Map
+Death and Taxes
+Ghostmarch
+Demigod's Touch
+Lifesprig
+Doon Cuebiyari
+Chains of Time
+Tear of Entropy
+Relic of the Cycle
+Vestige of Divinity
+Thunder of the Dawn
+Ashes of the Sun
+Rust of Winter
+Remnant of Empires
+Splinter of the Moon
+Fragment of Eternity
+Immortal Flesh
+Cloak of Defiance
+Headhunter
+The Gull
+Lavianga's Spirit
+Blood of the Karui
+The Taming
+Berek's Respite
+Berek's Grip
+Berek's Pass
+Deerstalker
+Sunblast
+Dyadus
+Romira's Banquet
+Lightning Coil
+Ming's Heart
+Santoni's Faith
+Daresso's Defiance
+Prismatic Eclipse
+Cybil's Paw
+Oro's Sacrifice
+Briskwrap
+Mana Sponge
+Marylene's Fallacy
+Doedre's Elixir
+Voltaxic Rift
+Wings of Entropy
+Stillwater
+Pagan Geis
+Galla's Riposte
+Felltooth
+Maligaro's Etcher
+Mordhau
+Quecholli
+Wideswing
+Battlehaste
+Dusktoe
+Seven-League Step
+Leer Cast
+Mindspiral
+Belly of the Beast
+The Goddess Bound
+Voidbringer
+Death's Oath
+Windripper
+Demigod's Stride
+Crown of Eyes
+Queen of the Forest
+Divination Distillate
+Pyre
+Perandus Signet
+Mon'tregul's Grasp
+The Anvil
+The Goddess Scorned
+Kongor's Undying Rage
+The Blood Dance
+BlackGuardz
+Auxium
+Shavronne's Revelation
+Death Rush
+Gifts from Above
+Victario's Acuity
+Voll's Devotion
+Daresso's Salute
+Untainted Paradise
+Olmec's Sanctum
+Soul Taker
+Oba's Cursed Trove
+Sibyl's Lament
+Wareclast Pantheon
+The Rathorn
+Mao Kun
+Convent of the Twins' Flame
+DrTestapus' Charm
+Carl's Crusher
+Robbie's Rotten Mace
+Mark2's Mastery
+Rory's Revengance
+Rebuke of the Vaal
+Void Battery
+Lightbane Raiment
+Zahndethus' Cassock
+NameGoesHere
+The Bringer of Rain
+Lori's Lantern
+Atziri's Foible
+Ungils's Coil
+Al Dhih
+Leviathan Ivory
+Last Resort
+Deidbell
+Poorjoy's Asylum
+Thief's Torment
+Aurumvorax
+Abyssus
+Ylfe Ban
+Vizaru's Folly
+Rat's Nest
+Deadman's Hand
+Thunderfist
+Hellbringer
+Arimagius' Honor
+Kalisa's Grace
+Asenath's Gentle Touch
+Wurmfist
+Soul Mantle
+Icetomb
+Pillar of the Caged God
+Darkray Vectors
+Tabula Rasa
+Rainbowstride
+Bronn's Lithe
+Thousand Ribbons
+Rise of the Phoenix
+Alpha's Howl
+Chober Chaber
+Bloodseeker
+Starkonja's Head
+Acton's Nightmare
+Nycta's Lantern
+The Coward's Trial
+Chernobog's Pillar
+Le Heup of All
+Carcass Jack
+Maelström of Chaos
+Heartbreaker
+Matua Tupuna
+Demigod's Triumph
+Storm Cloud
+The Blood Reaper
+Atziri's Mirror
+Queen's Decree
+Mortem Morsu
+Infernal Mantle
+The Covenant
+The Supreme Truth
+Aegis Aurora
+Goldrim
+Taryn's Shiver
+Foxshade
 Titucius' Span
 Titucus Span
-Toad Pet
-Tolman's Bracelet
-Tomahawk
-Tomb
-Tombstone
-Tombstone Desecrate
-Tools Board
-Topaz Flask
-Topaz Ring
-Torch
-Tornado Shot
-Tornado Wand
-Tortoise Pet
-Torture Cage
-Torture Chamber Map
-Torture Device
-Totemic Maul
-Touch of Anguish
-Touch of God
-Tower Key
-Tranquillity
-Transformer
-Transmutation Shard
-Trap and Mine Damage Support
-Trap Cooldown Support
-Trap Support
-Trapper Boots
-Trapper Mitts
-TrapperBodyTempName
-Travel Wagon
-Treasure Hunter
-Treasure Key
-Tree
-Tree Hut
-Tremor Rod
-Tribal Chest
-Tribal Circlet
-Tribal Club
-Tribal Maul
-Tribal Storm Call Effect
-Triclinium
-Tricorne
-Trisula
-Triumphant Lamellar
-Trolltimber Spire
-Tropical Island Map
-Trypanon
-Tunnel Map
-Turn the Other Cheek
-Turquoise Amulet
-Turquoise Imp Mask
-Turquoise Weapon Effect
-Twig Spirit Shield
-Twilight Blade
-Twin Claw
-Twisted Horns
-Two-Handed Sword
-Two-Point Arrow Quiver
-Two-Stone Ring
-Twyzel
-Tyrant's Sekhem
-Umbilicus Immortalis
-Underdog's Fury
-Underground River Map
-Underground Sea Map
-Undying Flesh Talisman
-Ungil's Coil
-Ungil's Gauche
-Ungil's Harmony
-Ungils's Coil
-Unset Ring
-Unstable Payload
-Untainted Paradise
-Urn
-Ursine Pelt
-Vaal Arc
-Vaal Axe
-Vaal Blade
-Vaal Buckler
-Vaal Burning Arrow
-Vaal Caress
-Vaal Clarity
-Vaal Claw
-Vaal Cold Snap
-Vaal Cyclone
-Vaal Debris
-Vaal Detonate Dead
-Vaal Discipline
-Vaal Double Strike
-Vaal Fire Pit
-Vaal Fireball
-Vaal FireTrap
-Vaal Flameblast
-Vaal Furniture
-Vaal Gauntlets
-Vaal Glacial Hammer
-Vaal Grace
-Vaal Greatsword
-Vaal Greaves
-Vaal Ground Slam
-Vaal Haste
-Vaal Hatchet
-Vaal Heavy Strike
-Vaal Ice Nova
-Vaal Immortal Call
-Vaal Lightning Strike
-Vaal Lightning Trap
-Vaal Lightning Warp
-Vaal Marker
-Vaal Mask
-Vaal Molten Shell
-Vaal Orb
-Vaal Pillar
-Vaal Portrait Frame
-Vaal Power Siphon
-Vaal Pylon
-Vaal Pyramid
-Vaal Pyramid Map
-Vaal Rain of Arrows
-Vaal Rapier
-Vaal Reave
-Vaal Regalia
-Vaal Righteous Fire
-Vaal Sceptre
-Vaal Seal
-Vaal Sentencing
-Vaal Spark
-Vaal Spectral Throw
-Vaal Spirit Shield
-Vaal Storm Call
-Vaal Summon Skeletons
-Vaal Sweep
-Vaal Temple Map
-Vaal Vessel
-Vaal Weapon Effect
-Valako's Sign
-Valentine's Heart Weapon Effect (2013)
-Valentine's Heart Weapon Effect (2014)
-Valentine's Heart Weapon Effect (2015)
-Vampire's Might
-Vampiric Body Armour
-Vampiric Boots
-Vampiric Footprints Effect
-Vampiric Gloves
-Vampiric Helmet
-Vampiric Weapon Effect
-Vanishing Dye
-Vapour Flicker Strike Effect
-Variscite Blade
-Varnished Coat
-Varunastra
-Vaults of Atziri
-Veil of the Night
-Velvet Gloves
-Velvet Slippers
-Vengeance
-Ventor's Gamble
-Verdant Blink and Mirror Arrow Effect
-Verdant Body Armour
-Verdant Boots
-Verdant Footprints Effect
-Verdant Gloves
-Verdant Helmet
-Verdant Throne
-Verdant Weapon Effect
-Veruso's Battering Rams
-Vessel of Vinktar
-Vestige of Divinity
-Vial Of Power
-Victario Mask
-Victario's Acuity
-Victario's Charity
-Victario's Influence
-Victorious Wings
-Vigilant Strike
-Vile Staff
-Villa Map
-Village Ruin Map
-Vine Circlet
-Vinia's Token
-Viper Strike
-Viper's Scales
-Viridian Jewel
-Vis Mortis
-Visored Sallet
-Vitality
-Vizaru's Folly
-Void Axe
-Void Battery
-Void Manipulation Support
-Void Sceptre
-Voidbringer
-Voideye
-Voidgate Portal Effect
-Voidheart
+Essentia Sanguis
+Infractem
+Cloak of Flame
+Ashrend
+Dewath's Hide
+Bramblejack
+Ondar's Flight
+Chin Sol
+Midnight Bargain
 Voidhome
-Volatile Power
-Volcano Map
-Volkuur's Key
-Volley Fire
-Voll's Confession
-Voll's Devotion
-Voll's Protector
-Voll's Vision
-Voltaxic Rift
-Vortex
-Vortex Mine
-Vulnerability
-Wagon
-Wagon Debris
-Wake of Destruction
-Wall
-Wall of Brambles
-Wall of Spikes
-Wall Switch
-Wallaby Pet
-Walnut Spirit Shield
-Wand Teleport
-Wanderlust
-War Axe
-War Buckler
-War Hammer
-War Plate
-War Sword
-Wareclast Pantheon
-Warlord's Mark
-Warlord's Reach
-Warped Timepiece
-Warrior Portrait Frame
-Warrior's Assault Portal Effect 
-Warrior's Mark Back Attachment 
-Waste Pool Map
-Wasteland Map
-Water Fog
-Water Nova Effect
-Waterways Map
-Waxed Garb
-Waystone
-Wealth and Power
-Weapon Elemental Damage Support
-Weapon Rack
-Webbed Remains
-Webbed Stump
-Webbed Tree
-Webbed Witch Hat
-Weight of Sin
-Weight of the Empire
-Well
-Wereclaw Talisman
-Weta Pet
-Whakawairua Tuahu
-Whale Skeleton Arms
-Whale Skeleton Bones
-Whale Skeleton Head
-Whale Skeleton Ribs
-Whale Skeleton Spine
-Whalebone Rapier
-Whare Rug
-Wharf Map
-Wheel of the Stormsail
-Whirling Blades
-White Cyclone
-White Tiger Pet
-White Weapon Effect
-Wide Light Beam
-Wideswing
-Widowmaker
-Widowsilk Robe
-Wild Leather
-Wild Strike
-Wild Turkey Pet
-Wildfire
-Wildslash
-Win Fireworks
-Windripper
-Winds of Change
-Windscream
-Winged Statue
-Wings of Entropy
-Winterheart
-Winter's Bounty
-WIP Stone Flask
-WIP Support
-Wisp Swarm
-Witch Hat
-Wither
-Wolf Pelt
-Wolf Pet
-Wondertrap
-Woodful Staff
-Woodsplitter
-Wool Gloves
-Wool Shoes
-Wraith Axe
-Wraith Sword
-Wrapped Boots
-Wrapped Mitts
-Wrath
-Wrist Chopper
-Writhing Talisman
-Wurmfist
+Limbsplit
+Darkscorn
+Quill Rain
+Shavronne's Wrappings
+Brightbeak
+Bones of Ullr
+Goldwyrm
+Ungil's Gauche
+Devoto's Devotion
+Sin Trek
+Facebreaker
+Meginord's Vise
+Deshret's Vise
+Carnage Heart
+Marohi Erqi
+Springleaf
+Prism Guardian
+Vaults of Atziri
+Moonsorrow
+Rime Gaze
+Saffell's Frame
+Ambu's Charge
+Tipua Kaikohuru
+Terminus Est
+Reaper's Pursuit
+Lioneye's Remorse
+Crest of Perandus
+Kaltenhalt
+Rathpith Globe
+Daresso's Courage
+Meginord's Girdle
+Perandus Blazon
+The Magnate
 Wurm's Molt
-Wyrm Mace
-Wyrmbone Rapier
-Wyrmscale Boots
-Wyrmscale Doublet
-Wyrmscale Gauntlets
-Wyrmsign
-Xirgil's Crank
-Yaksha Shield
-Yellow Light Beam
-Yellow Weapon Effect
-Yew Spirit Shield
-Ylfe Ban
-Ylfeban's Trickery
-Yriel's Key
-Zahndethus' Cassock
-Zealot Boots
-Zealot Gloves
-Zealot Helmet
-Zerphi's Last Breath
-Zerphi's Youth
-Ziggurat Totem Skin
-Zodiac Leather
+Astramentis
+The Ignomon
+Lochtonial Caress
+Ondar's Clasp
+Doedre's Tenure
+Sadima's Touch
+Aurseize
+Slitherpinch
+Maligaro's Virtuosity
+Hrimsorrow
+Windscream
+Sundance
+Shavronne's Pace
+Wanderlust
+Wake of Destruction
+Lioneye's Paws
+Mightflay
+Wondertrap
+Araku Tiki
+Geofri's Crest
+Honourhome
+The Peregrine
+Hrimnor's Resolve
+Chitus' Apex
+Asenath's Mark
+Crown of Thorns
+Heatshiver
+Fairgraves' Tricorne
+Kaom's Heart
+Hyrri's Ire
+Eye of Chayula
+Karui Ward
+Sidhebreath
+Broadstroke
+Blackgleam
+Dream Fragments
+Doedre's Damning
+Shiversting
+Rigvald's Charge
+Geofri's Baptism
+Hrimnor's Hymn
+The Searing Touch
+Death's Harp
+Ezomyte Peak
+Malachai's Simula
+Ephemeral Edge
+Silverbranch
+Divinarius
+Voll's Protector
+Demigod's Presence
+Lioneye's Glare
+Andvarius
+Ungil's Coil
+Kaom's Sign
+Blackheart
+Stone of Lazhwar
+Redbeak
+Kaom's Primacy
+The Fortune Teller's Collection
+Beyond Sight IV
+Beyond Sight III
+Beyond Sight II
+Beyond Sight I
+The Warmongers IV
+The Warmongers III
+The Warmongers II
+The Warmongers I
+Deadly Rivalry V
+Deadly Rivalry IV
+Deadly Rivalry III
+Deadly Rivalry II
+Deadly Rivalry I
+The Ambitious Bandit III
+The Ambitious Bandit II
+The Ambitious Bandit I
+The Unbreathing Queen V
+The Unbreathing Queen IV
+The Unbreathing Queen III
+The Unbreathing Queen II
+The Unbreathing Queen I
+Unbearable Whispers V
+Unbearable Whispers IV
+Unbearable Whispers III
+Unbearable Whispers II
+Unbearable Whispers I
+The Invader
+The Trembling Earth
+The Cursed Choir
+The Hungering Swarm
+Soil, Worms and Blood
+The Dream Trial
+Visions of the Drowned
+Plague of Frogs
+The Spread of Corruption
+Monstrous Treasure
+Vaal Invasion
+Touched by Death
+Possessed Foe
+The Twins
+The Lost Maps
+Defiled in the Sceptre
+In the Grasp of Corruption
+Holding the Bridge
+Unnatural Energy
+The Stockkeeper
+The Forgotten Garrison
+The Child of Lunaris
+Pools of Wealth
+The Forgotten Soldiers
+Path of Betrayal
+Fallow At Last
+Living Fires
+Vaal Winds
+Crushing Squall
+The Undead Storm
+Lightning Falls
+Ice from Above
+Fire from the Sky
+Lasting Impressions
+Deadly Twins
+The Four Feral Exiles
+Bountiful Traps
+Smothering Tendrils
+Kalandra's Craft
+The Beautiful Guide
+The Pair
+Touched by the Wind
+Resistant to Change
+Vital Transformation
+Golden Touch
+The Hardened Armour
+The Sharpened Blade
+Rebirth
+Hidden Reinforcements
+Ending the Torment
+Erased from Memory
+Gilded Within
+Hunter's Lesson
+The Blessing
+Day of Sacrifice IV
+Day of Sacrifice III
+Day of Sacrifice II
+Day of Sacrifice I
+Undead Uprising
+Mysterious Invaders
+Mysterious Invaders
+Mysterious Invaders
+Mysterious Invaders
+Mysterious Invaders
+An Unseen Peril
+Twice Enchanted
+Anarchy's End IV
+Anarchy's End III
+Anarchy's End II
+Anarchy's End I
+Plague of Rats
+The Feral Lord V
+The Feral Lord IV
+The Feral Lord III
+The Feral Lord II
+The Feral Lord I
+Ancient Rivalries IV
+Ancient Rivalries III
+Ancient Rivalries II
+Ancient Rivalries I
+Through the Mirage
+Sanctum of Stone
+Enter the Maelström
+The Pirate's Den
+Thaumaturgical History IV
+Thaumaturgical History III
+Thaumaturgical History II
+Thaumaturgical History I
+The Plaguemaw V
+The Plaguemaw IV
+The Plaguemaw III
+The Plaguemaw II
+The Plaguemaw I
+Overflowing Riches
+Reforged Bonds
+The Brothers of Necromancy
+The Nest
+Blood in the Eyes
+A Call into the Void
+The Hollow Pledge
+The Flayed Man
+Weeping Death
+Lost in the Pages
+Wind and Thunder
+Abnormal Effulgence
+Fire, Wood and Stone
+Flesh of the Beast
+Custodians of Silence
+Notched Flesh
+Heart of the Fire
+Blood of the Betrayed
+The Watcher's Watcher
+A Prodigious Hand
+The Last Watch
+A Whispered Prayer
+The Lost Undying
+Strong as a Bull
+Cleanser of Sins
+The Vanguard
+The Petrified
+Storm on the Shore
+Graceful Flames
+The Brutal Enforcer
+Against the Tide
+The Lady in Black
+Baptism by Death
+The Sinner's Stone
+The Soulless Beast
+Roth's Legacy
+The Prison Key
+Fear's Wide Reach
+The Ward's Ward
+A Firm Foothold
+Storm on the Horizon
+From Death Springs Life
+The Eagle's Cry
+The Sword King's Passion
+The Prison Guard
+The Walking Mountain
+The Black Stone IV
+The Black Stone III
+The Black Stone II
+The Black Stone I
+SHOULD NOT APPEAR
+The Misunderstood Queen
+The Beginning and the End
+Power Magnified
+Winter's Mournful Melodies
+The Servant's Heart
+The Silverwood
+Ancient Doom
+Severed Limbs
+The Apex Predator
+The Snuffed Flame
+Nature's Resilience
+Mouth of Horrors
+Dying Cry
+The Bloody Flowers Redux
+Pleasure and Pain
+Fire and Ice
+A Forest of False Idols
+Fire and Brimstone
+Heavy Blows
+From The Void
+The Bowstring's Music
+The Flow of Energy
+The King and the Brambles
+The Karui Rebellion
+The King's Path
+Erasmus' Gift
+A Gracious Master
+The Jeweller's Touch
+Trash to Treasure
+Fated Connections
+A Valuable Combination
+The Mysterious Gift
+Risen Blood
+The Four Feral Exiles
+The Undead Brutes
+Hidden Vaal Pathways
+A Master Seeks Help
+A Master Seeks Help
+A Master Seeks Help
+A Master Seeks Help
+A Master Seeks Help
+A Master Seeks Help
+A Master Seeks Help
+Echoes of Lost Love
+Echoes of Mutation
+The God of Misfortune
+Echoes of Witchcraft
+Brothers in Arms
+The Aesthete's Spirit
+The Dreamer's Dream
+Forceful Exorcism
+The Blacksmith
+SHOULD NOT APPEAR
+Nemesis of Greed
+The Emperor's Trove
+The Corrupt
+A Regal Death
+The Alchemist
+Waiting in Ambush
+The Scout
+The Wealthy Exile
+The Singular Spirit
+The Queen's Vaults
+Delay and Crash Test
+Delay Test
+Crash Test
