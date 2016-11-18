@@ -3978,3 +3978,6 @@ The Queen's Vaults
 Delay and Crash Test
 Delay Test
 Crash Test
+Blade Flurry
+Scorching Ray
+Blight

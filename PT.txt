@@ -3978,3 +3978,6 @@ Os Cofres da Rainha
 Teste de Falha e Delay
 Teste de Delay
 Teste de Falha
+Ataque Carregado
+Raio Escaldante
+Mangra

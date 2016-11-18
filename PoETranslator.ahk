@@ -54,7 +54,7 @@ Loop, Read, PT.txt
 
 ;COMANDO PRINCIPAL
 +y:: 
-#IfWinActive, Path of Exile ahk_class Direct3DWindowClass 
+#IfWinActive, Path of Exile ahk_class POEWindowClass 
 {
 	GetItemName()
 }
@@ -86,7 +86,7 @@ SubWatchCursor:
 return
 
 GetItemName() {
-	IfWinActive, Path of Exile ahk_class Direct3DWindowClass
+	IfWinActive, Path of Exile ahk_class POEWindowClass
   {
     Send ^c
     Sleep 250
