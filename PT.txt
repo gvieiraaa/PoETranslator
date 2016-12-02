@@ -1,7 +1,17 @@
+Evocar Aranhas
+Disparo Elétrico
+Explosão Óssea
+Inveja
+Ataque Tremeluzente
+Morteiro de Ossos
+Consumo de Ossos
+Turbilhão de Lâminas
+Sopro de Chamas
+Uivo Fortalecedor
 Turbilhão de Lâminas
 Espíritos Espectrais
 Erupção de Chamas
-Raio de Fogo
+Raio Escaldante
 Caminhar da Fenda do Atlas
 Pulso Congelante do Chefe Inca
 Raio da Deusa
@@ -24,15 +34,15 @@ Devastação de Izaro
 Fraqueza Elemental
 Vulnerabilidade
 Grilhões Temporais
+WIP
 Convocar Golem de Raio
 Enfrentar Último Alvo
 Fogo Congelante
 Flecha da Destruição
 Armadilha de Lâminas
 Oferenda Espiritual
-Onda de Choque Recorrente
+Fúria de Abberath
 Rajada de Lâminas
-Ataque Carregado
 Mandamento da Ira
 Decreto da Ira
 Édito da Ira
@@ -153,10 +163,12 @@ Ripostar
 Flecha Espelhada
 Flecha Ilusória
 Explosão Cinética
+
 Mandamento do Inverno
 Decreto do Inverno
 Édito do Inverno
 Palavra do Inverno
+...
 Tentáculos Relampejantes
 Marca do Larápio
 Arauto do Trovão
@@ -175,9 +187,9 @@ Profanar
 Pulso de Chamas
 Convocar Espírito Furioso
 Fogo Selvagem
+Semnome2
 Barragem
 Explosão Flamejante Vaal
-Explosão Flamejante
 Explosão Flamejante
 Chamado da Tempestade Vaal
 Chamado da Tempestade
@@ -198,13 +210,11 @@ Ligação Cauterizadora
 Ciclone Vaal
 Ciclone
 Incinerar
-Incinerar
 Esfera Relampejante
 Condutividade
 Congelabilidade
 Flamabilidade
 Totem de Chamas
-Armadura Ártica
 Sopro Ártico
 Tiro de Gelo
 Facas Etéreas
@@ -214,7 +224,7 @@ Armadilha de Fogo Vaal
 Armadilha de Fogo
 Mina Congelante
 Armadilha de Urso
-Armadilha de Conversão
+Armadilha Conversora
 Totem Rejuvenecedor
 Totem de Onda de Choque
 Detonar Minas
@@ -257,18 +267,12 @@ Convocar Esqueletos Vaal
 Convocar Esqueletos
 Teleporte Relampejante Vaal
 Teleporte Relampejante
-Vulnerabilidade
 Fraqueza a Projéteis
 Marca do Assassino
 Debilitar
-Punição
 Marca do Senhor da Guerra
-Fraqueza Elemental
-Grilhões Temporais
 Flecha Explosiva
-Passo Etéreo
 Golpe da Víbora
-Explosão Elétrica
 Pulso Congelante
 Parede de Gelo
 Martelo Glacial Vaal
@@ -279,6 +283,7 @@ Lança de Gelo
 Centelha Vaal
 Centelha
 Ataque Padrão
+Fenda Vaal
 Portal
 Descarga
 Infusão de Dano
@@ -298,7 +303,6 @@ Estalo Gelado
 Flecha Repartida
 Fúria Sangrenta
 Arremesso
-Ataque Tremeluzente
 Tiro de Elite
 Detonar Morto Vaal
 Detonar Morto
@@ -312,21 +316,17 @@ Chamado Imortal
 Acerto Elemental
 Golpe Duplo Vaal
 Golpe Duplo
-Salto Impactante
 Clamor Abissal
 Clamor Inspirador
 Clamor Tolerante
-Investida com Escudo
 Investida com Escudo
 Cutilada
 Impacto Sísmico Vaal
 Impacto Sísmico
 Varrida Vaal
 Varrida
-Raio de Fogo
 Oferenda à Deusa
 Correntes Esqueléticas
-Projéteis Elementais
 Triturador de Portal
 Rosa Negra da Anarquia
 Engrenagens da Ruptura
@@ -503,6 +503,8 @@ O Amor Perdido de Lantador
 O Eremita
 O Doutor
 As Três Faces no Escuro
+Bobina de Relâmpago
+Chama Arcana
 Redemoinho Sombrio
 Estátua da Deusa
 Trono de Kaom
@@ -660,6 +662,7 @@ Altar Sacrificial
 Cocheira
 Tapete
 Choupana
+Poste
 Braseiro Pendurado
 Poço de Fogo Baixo
 Parede de Grigor
@@ -702,6 +705,7 @@ Pilar da Catacumba
 Pilar da Cripta
 Arco Grande da Parede da Igreja
 Portão da Parede da Igreja
+Pilar Grande
 Baú Dourado
 Baú de Cobre
 Estátua Decaída
@@ -779,6 +783,7 @@ Estandarte do Esconderijo do Grão-Mestre
 Estandarte do Esconderijo do Mestre
 Estandarte do Esconderijo do Trabalhador
 Estandarte do Esconderijo do Aprendiz
+Tapete
 Lareira
 Estrada de Ferro
 Vaso Vaal
@@ -789,6 +794,7 @@ Vaso Dourado
 Vaso Negro
 Cadáver Empalado
 Corpo Pendurado
+Folhas Sopradas
 Enxame de Mosquitos
 Pernilongos
 Moscas
@@ -828,6 +834,7 @@ Mesa Comprida
 Sofá-Cama Grande
 Chão
 Divisória
+Cadeira
 Estante de Livros
 Bacia
 Estandarte
@@ -845,6 +852,7 @@ Armário
 Penteadeira
 Mesa de Estudos
 Prateleira
+Cadeira de Jantar
 Poltrona
 Candelabro
 Pinha de Livros
@@ -899,6 +907,7 @@ Caixote de Suprimentos de Oriath
 Barril do Exército de Oriath
 Brasas
 Mesa da Prisão
+Banca
 Beliche
 Berço de Brutus
 Livros
@@ -914,6 +923,7 @@ Cerca Decrépita
 Cabidela Velha
 Cabidela Fresca
 Pedra do Caminho
+Árvore Exuberante
 Pedras de Oração
 Pau com Crânio
 Pedra da Floresta
@@ -939,6 +949,7 @@ Rhoa
 Linha de Cubas
 Banca de Peixes
 Madeira Cortada
+Carrinho
 Baldes
 Barris
 Tumba da Cripta
@@ -972,6 +983,11 @@ Esmeril
 Lápides
 Ferramentas do Fabricante de Arcos
 Bancada do Armeiro
+Pedra da Fenda de Chayula
+Pedra da Fenda de Uul-Netol
+Pedra da Fenda de Esh
+Pedra da Fenda de Tul
+Pedra da Fenda de Xoph
 Fragmento da Hidra
 Fragmento da Quimera
 Fragmento do Minotauro
@@ -1170,161 +1186,65 @@ Mapa: Reserva de Cristal
 Mapa: Arcada Remodelada
 Mapa: Arcada
 Mapa: Dédalo 
-Mapa: Ruínas do Castelo
+Mapa: Atol
 Joia Prismática
 Joia Cobalto
 Joia Viridiana
 Joia Carmesin
-Suporte: Resfriamento de Armadilhas
+Suporte: Conjurar ao Canalizar
+Suporte: Recarga de Armadilhas
 Suporte: Campo Minado
 Suporte: Foco Elemental
-Chefe Guerreiro Ancestral
-Retalhador Ancestral
-Protetor Ancestral
-Turbilhão
-Disparo Congelante
-Ruptura
 Suporte: Grupo de Armadilhas
 Lâminas Sombrias
 Suporte: Decomposição Acelerada
 Suporte: Destruição Controlada
 Suporte: Manipulação do Vácuo
 Dreno de Essência
-Mangra
-Definhar
-Contágio
-Terremoto
 Suporte: Envenenar
-Relâmpago Justo
-Convocar Golem de Pedra
-Orbe das Tempestades
-Bomba de Gelo
-Turbilhão de Lâminas
+Novo Turbilhão de Lâminas
 Corrente Estática
-Balista de Cerco
-Chuva de Lâminas
-Chuva Explosiva
-Tiro Estilhaçante
-Golpe Selvagem
 Armadilha de Gelo
 Suporte: Dano de Armadilha e Mina
-Orbe de Magma
 Suporte: Inervar
 Suporte: Hipotermia
 Suporte: Mordida Congelante
 Suporte: Fortificar
-Golpe Vigilante
-Lâminas de Gelo
 Rastro de Chamas
 Detonar Minas
-Clamor Abissal
-Clamor de Reagrupar
-Pancada de Gelo
+Clamor Agrupador
 Suporte: Blasfêmia
-Convocar Golem de Raio
-Convocar Golem de Chamas
-Convocar Golem de Gelo
-Convocar Golem de Caos
 Suporte: Físico para Raio
 Toque de Deus
-Explosão Cinética
-Flecha Ilusória
-Flecha Espelhada
 Canal Relampejante
 Círculo Relampejante
-Tentáculos Relampejantes
-Marca do Larápio
-Arauto do Trovão
-Arauto do Gelo
-Arauto das Cinzas
-Arauto do Sangue
 Suporte: Generosidade
-Armadilha Relampejante Vaal
-Tiro Tornado
-Mina de Explosão de Fogo
-Explosão Flamejante Vaal
 ...
-Fogo da Justiça Vaal
-Varrida Vaal
 Armadilha de Fogo Vaal
 Ímpeto Vaal
-Disciplina Vaal
-Graça Vaal
-Clareza Vaal
-Golpe Vulcânico
-Devastação Vaal
 Suporte: Redução de Chance de Bloqueio
-Chamado da Tempestade Vaal
-Convocar Esqueletos Vaal
-Martelo Glacial Vaal
-Golpe Duplo Vaal
-Golpe Pesado Vaal
-Golpe Relampejante Vaal
-Arremesso Espectral Vaal
-Estalo Gelado Vaal
-Chuva de Flechas Vaal
-Impacto Sísmico Vaal
-Detonar Morto Vaal
 Varinha Teleportadora
-Explosão Congelante Vaal
-Ciclone Vaal
-Sifão de Poder Vaal
-Chamado Imortal Vaal
-Teleporte Relampejante Vaal
-Escudo Flamejante Vaal
-Flecha Ardente Vaal
-Centelha Vaal
-Arco Vaal
-Bola de Fogo Vaal
-Convocação
-Cascata Glacial
-Oferenda Espiritual
-Oferenda de Ossos
-Oferenda de Carne
-Profanar
 Suporte: Iluminar
-Pulso de Chamas
-Convocar Espírito Furioso
 Suporte: Dano de Ataque de Projétil Físico
-Fogo Selvagem
 Mina do Turbilhão
-Esfera Relampejante
-Barragem
-Explosão Flamejante
-Chamado da Tempestade
-Pureza do Raio
-Pureza do Gelo
-Pureza do Fogo
 Suporte: Melhorar
-Animar Arma
 Suporte: Conjurar quando Atordoado
 Suporte: Conjurar ao Sofrer Dano
 Suporte: Conjurar ao Morrer
 Suporte: Menos Duração
 Suporte: Projéteis Lentos
-Arremesso Espectral
-Animar Guardião
 Suporte: Carga de Tolerância ao Atordoar em Corpo a Corpo
-Mina de Fumaça
-Armadilha Relampejante
 Suporte: Potencializar
 Suporte: Múltiplas Armadilhas
 Suporte: Conjurar ao Matar Corpo a Corpo
 Suporte: Conjurar no Acerto Crítico
-Devastação
 Suporte: Amaldiçoar ao Acertar
 Suporte: Resistências Elementais de Lacaios e Totens
 Suporte: Dano Incendiário Aumentado
-Ligação Cauterizadora
 Suporte: Carga de Poder no Crítico
 Suporte: Propagar Dano
 Suporte: Eco Mágico
 Suporte: Multi-ataque
-Ciclone
-Incinerar
-Condutividade
-Congelabilidade
-Flamabilidade
 Suporte: Projéteis Retornados
 Suporte: Difundir
 Suporte: Projéteis Divididos
@@ -1334,18 +1254,8 @@ Suporte: Penetração de Gelo
 Suporte: Penetração de Fogo
 Suporte: Totem de Ataque à Distância
 Suporte: Cegar
-Totem de Chamas
-Armadura Ártica
-Facas Etéreas
-Totem Devorador
-Totem Chamariz
-Armadilha de Fogo
 Suporte: Chance de Fugir
-Armadilha de Urso
-Armadilha de Conversão
-Mina Congelante
 Totem do Rejuvenescimento
-Totem de Onda de Choque
 Suporte: Mina Remota
 Suporte: Totem de Magia
 Suporte: Dano Corpo a Corpo com Vida Cheia
@@ -1354,28 +1264,9 @@ Suporte: Empunhadura de Ferro
 Suporte: Queima-Roupa
 Suporte: Golpe Abatedor
 Suporte: WIP
-Clareza
 Suporte: Magia Sanguínea
 Suporte: Proliferação Elemental
-Flecha Ardente
-Ira
-Ódio
-Cólera
-Determinação
-Graça
-Disciplina
-Vitalidade
-Pureza dos Elementos
 Ímpeto
-Arco
-Flecha Relampejante
-Punctura
-Armadilha de Lâminas
-Sifão de Poder
-Escudo Flamejante
-Escudo da Tempestade
-Golpe Relampejante
-Tempestade de Fogo
 Suporte: Ganho de Vida no Acerto
 Suporte: Sanguinolência
 Suporte: Dano Elemental da Arma
@@ -1386,46 +1277,16 @@ Suporte: Gelo a Fogo
 Suporte: Duração Aumentada
 Suporte: Dano do Lacaio
 Suporte: Efeito Concentrado
-Chuva de Flechas
-Golpe Dominador
-Golpe Pesado
 Acerto de Contas
-Vingança
-Ripostar
-Convocar Esqueletos
-Teleporte Relampejante
-Vulnerabilidade
-Fraqueza a Projéteis
-Marca do Assassino
-Debilitar
 NewPunishment
-Punição
-Marca do Senhor da Guerra
-Fraqueza Elemental
-Grilhões Temporais
-Flecha Explosiva
 Suporte: Conjuração Acelerada
 Suporte: Raridade de Itens
 Suporte: Quantidade de Itens
 Suporte: Dano Físico Corpo a Corpo
-Passo Etéreo
-Golpe da Víbora
-Raio de Energia
 Nova Explosão Elétrica
-Explosão Elétrica
-Pulso Congelante
-Parede de Gelo
-Martelo Glacial
-Golpe Infernal
-Evocar Espectro
 Suporte: Armadilha
 Suporte: Perfurar
-Lança de Gelo
 Suporte: Atordoar
-Centelha
-Ataque Tremeluzente
-Apunhalada Traiçoeira
-Correnteza
 Suporte: Dano Adicional de Caos
 Suporte: Dreno de Mana
 Suporte: Dreno de Vida
@@ -1433,14 +1294,7 @@ Suporte: Empurrar
 Suporte: Dano Crítico Aumentado
 Suporte: Acertos Críticos Aumentados
 Suporte: Mana Reduzida
-Portal
-Descarga
-Arma de Fogo
-Fogo da Justiça
-Incendiar
 Gelofogo
-Fúria Sangrenta
-Infusão de Dano
 Suporte: Dano Adicional de Raio
 Suporte: Área de Efeito Aumentada
 Suporte: Precisão Adicional
@@ -1450,31 +1304,7 @@ Suporte: Projéteis Múltiplos Menor
 Suporte: Projéteis Múltiplos Maior
 Suporte: Ataques Acelerados
 Suporte: Dano Adicional de Fogo
-Flecha Repartida
-Golpe Estático
-Tiro de Gelo
-Sopro Ártico
-Flecha Cáustica
-Tiro de Elite
-Detonar Morto
-Evocar Zumbi
-Estalo Gelado
-Frenesi
-Lâminas Giratórias
-Ataque Combinado
-Chamado Imortal
-Acerto Elemental
-Dilacerar
-Golpe Duplo
-Clamor Tolerante
-Investida com Escudo
-Cutilada
-Impacto Sísmico
-Varrida
 Ataque Carregado
-Salto Impactante
-Explosão Congelante
-Bola de Fogo
 Chave do Tesouro
 Chave Prateada
 Chave Dourada
@@ -2003,6 +1833,7 @@ Amuleto de Jade
 Amuleto de Âmbar
 Amuleto Coral
 Amuleto Paua
+Anel da Fenda
 Anel de Opala
 Anel de Aço
 Anel de Azeviche
@@ -2264,7 +2095,7 @@ Garra do Terror
 Garra Imperial
 Garra Vaal
 Cinzel de Olho
-Pata do Diabrete
+Pata do Leão
 Fura-Goela
 Grande Garra Branca
 Garra Gêmea
@@ -2331,6 +2162,9 @@ Varinha de Madeira Balsa
 Chave Laminada
 Caixa Misteriosa
 Transferência de Visual
+Mascote Enxame de Raio
+Mascote Sapo Roxo Real
+Livro Flutuante
 Mascote Mãos do Submundo
 Mascote Totens Inua
 Mascote Coelho
@@ -2378,7 +2212,7 @@ Sapo Cururu Gama
 Sapo Cururu Beta
 Mascote Sapo
 Mascote Guaiamu
-Lagarto-Aranha
+Mascote Lagarto de Duas Caldas
 Mascote Urso Formoso
 Mascote Barata
 Mascote Cobra
@@ -2427,13 +2261,51 @@ Mascote Basilisco Infernal
 Mascote Basilisco Verde
 Radiância Dourada
 Caminho Dourado
+Aba do Baú
 Exportação do Grão-Mestre
+Efeito Pegadas da Fenda
+Efeito Portal Lorde da Fenda
+Asas Deicidas
+Botas Deicidas
+Luvas Deicidas
+Peitoral Deicida
+Adorno Dorsal Dínamo
+Peitoral Invocador da Tempestade
+Luvas Invocador da Tempestade
+Botas Invocador da Tempestade
+Elmo Invocador da Tempestade
+Efeito Arcano
+Efeito Fantasmagórico
+Efeito Ártico
+Efeito Infernal
+Efeito Invocador da Tempestade
+Mochila Fantasmagórica
+Visual Totem Tomo Arcano
+Efeito Portal da Fenda
+Moldura do Avatar Lorde da Fenda
+Moldura do Avatar Cria da Fenda
+Capa Lorde da Fenda
+Capa Cria da Fenda
+Mochila Colmeia
+Escudo Pardo
+Capa da Guarda Negra
+Efeito Arma da Fenda
+Tiro Tornado de Ébano
+Asas Demoníacas
+Machado WuQi
+Efeito Enxame de Morcegos
+Luvas das Mãos Demoníacas
+Marca da Fênix Roxa
+Efeito Espírito Furioso Corvo Sanguinário
+Asas Dracônicas
+Pegadas Celestiais
 Efeito Pureza dos Elementos da Trindade
 Efeito Vitalidade da Carnificina
 Efeito Ímpeto do Diabrete
 Visual Totem Dragão
 Efeito Turbilhão Buraco Negro
 Efeito Disparo Congelante Buraco Negro
+Luvas das Garras Açoitadoras
 Efeito Explosão Elétrica Vermes do Além
 Efeito Portal Sangrento
 Asas da Carnificina
@@ -2521,6 +2393,7 @@ Adaga de Garuda
 Machado de Kacha
 Elmo de Naga
 Arma a Vapor
+Machado Infernal
 Efeito Chuva Explosiva de Ébano
 Efeito Flecha Relampejante Sangrenta
 Efeito Armadilha de Gelo Flor Gélida
@@ -2535,9 +2408,9 @@ Luvas Radiantes
 Botas Radiantes
 Elmo Radiante
 Ferro Quente
-Efeito do Portal de Perandus
-Efeito da Arma de Perandus
-Efeito das Pegadas de Perandus
+Efeito Portal de Perandus
+Efeito Arma de Perandus
+Efeito Pegadas de Perandus
 Coroa Ártica
 Efeito da Chuva de Lâminas Dourada
 Efeito do Contágio Arcano
@@ -2574,10 +2447,10 @@ Peitoral do Rigwald
 Luvas do Rigwald
 Botas do Rigwald
 Elmo do Rigwald
-Visual de Totem Zigurate
+Visual Totem Zigurate
 Efeito Orbe de Magma Ácido
 Arauto das Cinzas Fantasmagórico
-Visual de Totem Águia Guardiã
+Visual Totem Águia Guardiã
 Evocar Espectro Estígio
 Totem Fantasmagórico
 Chapéu de Bruxa com Teia
@@ -2585,7 +2458,7 @@ Efeito da Aura 4
 Efeito da Aura 3
 Efeito da Aura 2
 Efeito da Aura
-Efeito do Fogo da Justiça Divino
+Efeito Fogo da Justiça Divino
 Asas de Corvo
 Moldura do Avatar Highgate
 Moldura do Avatar Lunaris
@@ -2616,7 +2489,7 @@ Elmo do Rei Demônio
 Parasita Facial
 Arco Serafim
 Efeito Flecha Espelhada e Ilusória Verdejante
-Acessório para Costas Motor Anexo a Vapor
+Adorno Dorsal Motor a Vapor
 Peitoral de Gema
 Peitoral a Vapor
 Luvas a Vapor
@@ -2627,7 +2500,7 @@ Efeito Ataque Tremeluzente Fantasma
 Efeito Ataque Tremeluzente Vapor
 Varinha a Vapor
 Varinha Ovo da Serpente
-Varinha Orbe da Águia
+Varinha Garra de Águia
 Efeito Descarga Explosiva
 Máscara do Victario
 Máscara do Ondar
@@ -2761,19 +2634,19 @@ Caveira Ornamental
 Caveira Cristalizada
 Caveira Esculpida
 Caveira Fantasmagórica
-Efeito Pegada Fantasmagórica
+Efeito Pegadas Fantasmagóricas
 Efeito Pegadas Verdejantes
-Efeito Pegada Ceifadora
-Efeito Pegada Serafim
+Efeito Pegadas Ceifadoras
+Efeito Pegadas do Serafim
 Efeito Pegadas Razer
-Efeito Pegada Sanguinária
-Efeito Pegada Necrótica
-Efeito Pegada Radiante
-Efeito Pegada Vampírica
-Efeito Pegada Ébano
-Efeito Pegada Ártica
-Efeito Pegada Relampejante
-Efeito Pegada Infernal
+Efeito Pegadas Sanguinárias
+Efeito Pegadas Necróticas
+Efeito Pegadas Radiantes
+Efeito Pegadas Vampíricas
+Efeito Pegadas de Ébano
+Efeito Pegadas Árticas
+Efeito Pegadas Relampejantes
+Efeito Pegadas Infernais
 Efeito Arma da Carnificina
 Efeito Arma Fantasmagórica
 Efeito Arma Serafim
@@ -2803,7 +2676,7 @@ Efeito Arma Ácida
 Efeito Arma Arcana
 Efeito Arma Radiante
 Efeito Espírito Furioso Fantasmagórico
-Efeito Clareza Poço da Alma
+Efeito Clareza do Poço das Almas
 Efeito Cascata Glacial Sanguinária
 Efeito Explosão Congelante Ártica
 Efeito Chamado da Tempestade Tribal
@@ -2822,10 +2695,10 @@ Ciclone Azul
 Ciclone Branco
 Ciclone Serrador
 Incinerar de Chama Azul
-Visual de Totem Tiki
-Efeito Aranhas Centelha
+Visual Totem Tiki
+Efeito Centelhas Aracnídeas
 Efeito Estrelas Etéreas
-Efeito Aperto Gélido
+Efeito Agarrada Gelada
 Efeito Explosão Aquática
 Teleporte de Base
 Efeito Tempestade de Fogo de Cerco
@@ -2836,11 +2709,11 @@ Efeito Chuva de Flechas Esmeralda
 Efeito Bola de Fogo Dracônica
 Impacto Sanguíneo
 Portal Carmesim
-Visual de Evocar Múmia
-Visual de Convocar Estátuas Masculinas de Ouro
-Visual de Convocar Estátuas Femininas de Ouro
-Visual de Convocar Estátuas Masculinas de Pedra
-Visual de Convocar Estátuas
+Visual Evocar Múmia
+Visual Convocar Estátuas Masculinas de Ouro
+Visual Convocar Estátuas Femininas de Ouro
+Visual Convocar Estátuas Masculinas de Pedra
+Visual Convocar Estátuas
 Lápide Profana
 Armadura do Titã
 Máscara Angelical
@@ -2877,7 +2750,7 @@ Auréola Áurea
 Auréola de Cobalto
 Fisionomia Ardente
 Recuperar Efeito Cosmético
-Tintura da Invisibilidade
+Tinta Invisível
 Efeito Arma Sangue nos Olhos
 Sangue nos Olhos
 Sanguinolência Extra
@@ -2888,7 +2761,19 @@ Dança - Sombra
 Dança - Caçadora
 Dança - Marauder
 Dança - Duelista
-Reembolso de Habilidade Passiva
+Moeda do Renascimento
+Mensagem Premium
+Restituição de Habilidade Passiva
+Bênção de Charyula
+Bênção de Uul-Netol
+Bênção de Esh
+Bênção de Tul
+Bênção de Xoph
+Fragmento de Chayula
+Fragmento de Uul-Netol
+Fragmento de Esh
+Fragmento de Tul
+Fragmento de Xoph
 Orbe Desmodelador
 Selo do Cartógrafo Mestre
 Selo do Cartógrafo Trabalhador
@@ -3004,7 +2889,7 @@ Essência do Ódio Sussurrante
 Profecia
 Moeda de Prata
 Moeda de Perandus
-Encantar
+Encantamento
 Orbe Vaal
 Gravação
 Orbe Eterno
@@ -3036,6 +2921,594 @@ Sucata do Armeiro
 Orbe do Caos
 Pergaminho de Sabedoria
 Amolador do Ferreiro
+Tumulto
+Bater
+Sussurro
+Voo
+Asa
+Aparição
+Definhar
+Criatura
+Viúva
+Chicoteador
+Chicote
+Vigilante
+Vigília
+Varinha
+Caminhante
+Lamento
+Fisionomia
+Víbora
+Guita
+Presas
+Presa
+Dente
+Língua
+Sedento
+Dentes
+Gadanhos
+Gadanho
+Pulso
+Derribar
+Sugador
+Andarilho
+Passo Largo
+Esganador
+Fedido
+Ferroada 
+Fedor 
+Espreitador 
+Espumar 
+Borrifo 
+Carretel 
+Espinhos
+Espinho
+Respingo 
+Espinha 
+Espectro 
+Alma
+Ensopar 
+Rosnar 
+Forjador 
+Esmagador 
+Esmagar 
+Porção
+Deslizar 
+Escorregar 
+Esgueirar 
+Fatiador 
+Fatia 
+Retalhador 
+Retalho 
+Crânio 
+Mistura
+Berrador 
+Guincho 
+Tremor
+Casco
+Estilhas
+Estilha
+Bambolear
+Patrulha
+Sentinela
+Ebulir
+Vigia
+Chio
+Grito
+Arranhar
+Rabiscador
+Cicatriz
+Escalpo
+Escamas
+Escama
+Estrondo
+Apodrecer
+Corda
+Bramido
+Estripador
+Costelas
+Fita
+Retribuição
+Navalha
+Chocalhos
+Chocalho
+Raspador
+Ancinho
+Penacho
+Gatuno
+Vagar
+Beliscada
+Pinças
+Fantasma
+Peliça
+Agulhas
+Agulha
+Focinho
+Picareta
+Gemido
+Bocarra
+Malhador
+Malho
+Guinar
+Lorde
+Mancar 
+Riso
+Açoitador
+Látego
+Pancada
+Faca
+Assassino
+Matar
+Papada
+Ligamento
+Maxilares
+Mandíbula
+Uivo
+Silvo
+Penugens
+Guardador
+Atalaia
+Rosnado
+Aperto
+Largo
+Chateador
+Moagem
+Remoer
+Ranger
+Arfar
+Pelo
+Escuma
+Frenesi
+Fragmento
+Tremular
+Esfolador
+Esfola
+Punhos
+Punho
+Colmilhos
+Colmilho
+Face
+Olhos
+Olho
+Habitante 
+Afogado
+Baba
+Vagabundo
+Ensopado
+Flecheiro
+Dardo
+Confrangedor
+Confranger
+Crista
+Rangido
+Arrastar
+Clique
+Garras
+Garra
+Algazarra
+Estalo
+Agito
+Engasgo
+Mastigador
+Mastigar
+Campeão 
+Cacarejo 
+Bruto 
+Fronte 
+Portador 
+Espedaçador 
+Quebra 
+Aborrecimento 
+Ossos 
+Osso 
+Caldeira 
+Ferver 
+Lâmina 
+Mordedor
+Morder
+Inferior
+Farpas
+Farpa
+Bando
+Costas
+Víbora
+Chama
+Raridade
+Ornamento
+Pausa
+Fôlego
+Florir
+Lente
+Brasa
+Brilho
+Cintilar
+Vislumbre
+Corte
+Alegria
+Vasilhame
+Estilhaço
+Prata
+Pedra
+Icór
+Orvalho
+Essência
+Derrubar
+Marca
+Sangue
+Ferimento
+Credo
+Desejo
+Sabedoria
+Consolo
+Delírio
+Felicidade
+Sonho
+Esperança
+Prisma
+Cacifo
+Vínculo
+Braçadeira
+Fecho
+Fechadura
+Selo
+Barganha
+Espólios
+Banco
+Tesouro
+Armário
+Cubo
+Riqueza
+Provisão
+Guarda Coisas
+Caixão
+Arca
+Espólio
+Saque
+Pedreira
+Barril
+Elmo
+Estojo
+Prêmio
+Caixote
+Armadilha
+Nascente
+Baú
+Caixa
+Engenhoca
+Dispositivo
+Cofre
+Estroinice
+Guelra
+Cevo
+Chumbada
+Pescador
+Romper
+Peixe
+Isca
+Engodo
+Apetrecho
+Linha
+Lançar
+Destruir
+Manta
+Asa
+Vento
+Vontade
+Circular
+Tecelã
+Vigilância
+Tutela
+Voleio
+Visor
+Viseira
+Rosto
+Véu
+Ímpeto
+Viravolta
+Guita
+Giro
+Pisar
+Trilha
+Curso
+Posto
+Toque
+Torque
+Trovão
+Debulhadeira
+Fio
+Sede
+Corrente
+Pontas
+Talismã
+Separação
+Traje
+Ataque
+Passo Largo
+Correia
+Ferrão
+Estrela
+Esporão
+Talhador
+Pináculo
+Espiral
+Ponteira
+Espigão
+Magia
+Lança
+Cria
+Centelha
+Vão
+Música
+Sola
+Covo
+Esmagador
+Sapatilhas
+Cortador
+Matador
+Derme
+Espeto
+Cerco
+Mortalha
+Tiro
+Abrigo
+Envoltório
+Despedaçar
+Grilhão
+Rompimento
+Arranhão
+Escaravelho
+Bisturi
+Serrote
+Santuário
+Salvação
+Ruína
+Rosário
+Torre
+Varão
+Pedra
+Rugido
+Estrada
+Rasgo
+Alcance
+Navalha
+Aríete
+Chuva
+Pena
+Poste
+Estaca
+Âmago
+Pilar
+Pilha
+Pingente
+Pele
+Pico
+Pata
+Palmeira
+Passo
+Nariz
+Encaixe
+Agulha
+Unhas
+Unha
+Luvas
+Medalhão
+Mastro
+Símbolo
+Marcha
+Manto
+Estraçalhadora
+Laço
+Broche
+Tranca
+Coleira
+Liga
+Açoite
+Junta
+Nó
+Sentença
+Jack
+Empalador
+Ídolo
+Voracidade
+Chifre
+Casco
+Posse
+Esconder
+Coração
+Arreios
+Mão
+Auréola
+Saraiva
+Rotação
+Destripador
+Guia
+Guardião
+Guarda
+Constrito
+Amolador
+Agarrada
+Pescoceira
+Aguilhotada
+Ranger
+Nó de Madeira
+Relance
+Cinturão
+Voo
+Fechete
+Punho
+Dedos
+Dedo
+Fendedor
+Presa
+Olho
+Gravador
+Emblema
+Dever
+Domo
+Arranque
+Dardo
+Cortina
+Clamor
+Triturador
+Coroa
+Fresta
+Capota
+Corônide
+Cordão
+Colarinho
+Bobina
+Casaco
+Garras
+Capa
+Garra
+Fecho
+Círculo
+Sufocador
+Charme
+Canto
+Carícia
+Carapaça
+Chamado
+Açougueiro
+Estouro
+Baluarte
+Fivela
+Fronte
+Brisa
+Quebrador
+Ferrete
+Ramo
+Trança
+Elo
+Seta
+Brusco
+Golpe
+Rajada
+Mordida
+Raio
+Bico
+Miçangas
+Batedor
+Bastião
+Barreira
+Barragem
+Agudo
+Perdição
+Faixa
+Distintivo
+Flecha
+Arco
+Hino
+Égide
+Habitação
+Precinto
+Zona
+Setor
+Pousada
+Alojamentos
+Morada
+Zigurate
+Lixo
+Videira
+Visualizar
+Cilada
+Cumes
+Solidão
+Jorra
+Caco
+Sombras
+Sepulcro
+Segredos
+Escória
+Altar
+Ruptura
+Restos
+Sobras
+Refugo
+Refugio
+Culminâncias
+Ponto
+Fosso
+Panorama
+Oubliette
+Nexo
+Manter
+Refúgio
+Fronteira
+Extremidade
+Borras
+Profundezas
+Crista
+Grampo
+Penhasco
+Berço
+Pátio
+Núcleo
+Cofres
+Câmaras
+Jaula
+Amarras
+Ápice
+Abismo
+Presença de Chayula
+Couro de Wilefang
+Presa de Arakaali
+Perseverança
+Manhã Sombria
+Banquete de Kitava
+Luz de Lunaris
+Renascimento do Pecado
+Coroa da Salmoura
+Div Card Strongbox Temp
+Escuridão de Solaris
+Herança de Ahn
+O Barão
+Bleed Gloves Temp
+Laço do Pescador
+ES Overheal Temp
+Fortaleza de Tukohama
+O Pesadelo Azul
+O Sonho Azul
+O Pesadelo Verde
+O Sonho Verde
+O Pesadelo Vermelho
+O Sonho Vermelho
+Pele dos Lordes
+Pele dos Leais
+Unido no Sonho
+Decepado no Sono
+A Rendição
+A Antecipação
+Abraço de Uul-Netol
+Beijo de Uul-Netol
+Trilha Vermelha
+Busca Infinita
+Coro da Tempestade
+Voz da Tempestade
+Visão de Esh
+Espelho de Esh
+Mão do Saber e Agir
+Mão do Pensar e Mover
+O Pandemônio
+O Halcyon
+Forma Perfeita
+Graça do Nevoeiro
+Queda de Tul
+Nascimento de Tul
+Sangue de Xoph
+Coração de Xoph
+Inferno Disforme
+Chama Disforme
+Origem de Xoph
+Criação de Xoph
+ShockKillTemp
+Medalhão de Bisco
+Comandante de Espíritos
+A Pedra Anima
+Eminência Primordial
+Poder Primordial
+Harmonia Primordial
+Caixa da Fenda
 Terras Sagradas
 Urna de Atziri
 O Claustro Pútrido
@@ -3096,7 +3569,6 @@ Muro de Espinhos
 Avanço Karui
 Visão de Malachai
 Visão de Voll
-Forma Primordial
 Lycosidae
 Miragem de Ewar
 Sem Punho
@@ -3136,7 +3608,7 @@ Despedaçador
 Cálice Transbordante
 Último Suspiro de Zerphi
 Xale de Pele da Fera
-Treme-terra
+Cascos de Abberath
 Escamas da Víbora
 Varunastra
 Axiom Perpetuum
@@ -3285,7 +3757,7 @@ Juventude de Zerphi
 Abismo Faminto
 Crescimento Modificado
 Calafrio da Corrupção
-Pedras do Caminho Antigas
+Antigas Pedras do Caminho
 Longevidade do Conquistador
 Potência do Conquistador
 Eficiência do Conquistador
@@ -3293,7 +3765,7 @@ Velocidade do Assassino
 Alcance do Senhor da Guerra
 Mira do Larápio
 Sentenciamento Vaal
-Reinado dos Atziri
+Reino de Atziri
 Colheita Sacrificial
 Planejamento Cuidadoso
 Inércia
@@ -3351,7 +3823,7 @@ Marreta de Cameria
 Fúria Implacável
 Varinha do Tremor
 Semente do Modelador
-A Escuridão Que Consome
+Escuridão Consumidora
 Influência de Victario
 Barril Estranho
 Senhor das Estilhas
@@ -3828,10 +4300,6 @@ Dia de Sacrifício II
 Dia de Sacrifício I
 Mortos se Levantando
 Invasores Misteriosos
-Invasores Misteriosos
-Invasores Misteriosos
-Invasores Misteriosos
-Invasores Misteriosos
 Um Risco Inesperado
 Encantado Duplamente
 Fim da Anarquia IV
@@ -3949,12 +4417,6 @@ Os Quatro Exilados Selvagens
 Os Brutos Mortos-Vivos
 Caminhos Ocultos dos Vaal
 Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
-Um Mestre Busca Ajuda
 Ecos do Amor Perdido
 Ecos da Mutação
 O Deus do Azar
@@ -3978,6 +4440,3 @@ Os Cofres da Rainha
 Teste de Falha e Delay
 Teste de Delay
 Teste de Falha
-Ataque Carregado
-Raio Escaldante
-Mangra

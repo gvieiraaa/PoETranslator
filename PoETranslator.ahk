@@ -22,28 +22,49 @@ StringCaseSense, On ; Match strings with case.
 #MaxThreadsPerHotkey 2
 Menu, tray, Tip, Tradutor PoE
 
-If (A_AhkVersion <= "1.1.22")
+
+;===============================================================
+;================= [ Setting the language ] ====================
+;====== [ Use "BR" for portuguese and "RU" for Russian ] =======
+;===============================================================
+Global Language := "BR"
+;===============================================================
+;===============================================================
+;===============================================================
+
+
+If (A_AhkVersion <= "1.1.22" AND Language = "BR")
 {
     msgbox, Você precisa da versão do AutoHotkey v1.1.22 ou superior para rodar esse script. `n`nPor favor vá até http://ahkscript.org/download e baixe a última versão.
     exit
 }
 
+If (A_AhkVersion <= "1.1.22" AND Language = "RU")
+{
+    msgbox, Вам нужна версия AutoHotkey v1.1.22 или выше для запуска этого скрипта. `n`nПожалуйста, перейдите на http://ahkscript.org/download и скачайте последнюю версию.
+    exit
+}
+
 ArrayPT := Object()
 ArrayEN := Object()
+ArrayRU := Object()
 Global Arraymax := 0
 ItemName := 1
 FoundPT := 0
 FoundEN := 0
+FoundRU := 0
 
 ;CARREGAR EN
 ArrayCountEN = 0
 Loop, Read, EN.txt
 {
     ArrayENCount += 1
+	Arraymax = %ArrayENCount%
 	ArrayEN%ArrayENCount% := A_LoopReadLine
 }
-ArrayCountPT = 0
+
 ;CARREGAR PT
+ArrayCountPT = 0
 Loop, Read, PT.txt
 {
     ArrayPTCount += 1
@@ -51,14 +72,24 @@ Loop, Read, PT.txt
 	ArrayPT%ArrayPTCount% := A_LoopReadLine
 }
 
+;CARREGAR RU
+ArrayCountRU = 0
+Loop, Read, RU.txt
+{
+    ArrayRUCount += 1
+	Arraymax = %ArrayRUCount%
+	ArrayRU%ArrayRUCount% := A_LoopReadLine
+}
+
 
 ;COMANDO PRINCIPAL
+#IfWinActive, Path of Exile ahk_class POEWindowClass
 +y:: 
-#IfWinActive, Path of Exile ahk_class POEWindowClass 
 {
 	GetItemName()
 }
 return
+
 CoordMode, Mouse, Screen
 CoordMode, ToolTip, Screen
 
@@ -86,7 +117,6 @@ SubWatchCursor:
 return
 
 GetItemName() {
-	IfWinActive, Path of Exile ahk_class POEWindowClass
   {
     Send ^c
     Sleep 250
@@ -102,6 +132,9 @@ GetItemName() {
 	}
 	ItemName = %data2%
 	clipboard = %ItemName%
+	
+if (Language = "BR" or Language = "PT")
+{
 		loopEN:
 		loop, %Arraymax%
 		{
@@ -112,7 +145,6 @@ GetItemName() {
 			break
 		  }
 		}
-		
 		
 		loopPT:
 		loop, %Arraymax%
@@ -151,4 +183,59 @@ if (FoundPT != 1 and FoundEN != 1)
 	ShowToolTip(conteudo)
 	}
 }
-}		
+
+if (Language = "RU")
+{
+		loopENRU:
+		loop, %Arraymax%
+		{
+		  if (ArrayEN%A_Index% = data2) {
+			ItemEN = % ArrayEN%A_Index%
+			ItemRU = % ArrayRU%A_Index%
+			FoundEN = 1
+			break
+		  }
+		}
+		
+		loopRU:
+		loop, %Arraymax%
+		{
+		  if (ArrayRU%A_Index% = data2) {
+			ItemEN = % ArrayEN%A_Index%
+			ItemRU = % ArrayRU%A_Index%
+			FoundRU = 1
+			break
+			}
+		}
+		
+
+if (FoundRU = 1 and FoundEN = 1)
+	{
+	clipboard = %ItemEN% имеет то же имя на английском и русском. [Cкрипт в tiny.cc/tradutor]
+	conteudo = %ItemEN% имеет то же имя на английском и русском.
+	ShowToolTip(conteudo)
+	}
+if (FoundRU = 1 and FoundEN != 1)
+	{
+	clipboard = %ItemRU% (RU) = %ItemEN% (EN) [Cкриптв tiny.cc/tradutor]
+	conteudo = %ItemRU% (RU) = %ItemEN% (EN)
+	ShowToolTip(conteudo)
+	}
+if (FoundRU != 1 and FoundEN = 1)
+	{
+	clipboard = %ItemEN% (EN) = %ItemRU% (RU) [Cкрипт в tiny.cc/tradutor]
+	conteudo = %ItemEN% (EN) = %ItemRU% (RU)
+	ShowToolTip(conteudo)
+	}
+if (FoundRU != 1 and FoundEN != 1)
+	{
+	clipboard = %data2%: предмет не найден [Cкрипт в tiny.cc/tradutor]
+	conteudo = %data2%: предмет не найден
+	ShowToolTip(conteudo)
+	}
+}
+
+}
+
+
+}

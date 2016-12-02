@@ -1,7 +1,17 @@
+Raise Spiders
+Lightning Bolt
+Bone Nova
+Envy
+Flicker Strike
+Bone Mortar
+Consume Bones
+Blade Vortex
+Flame Breath
+Empowering Howl
 Blade Vortex
 Spectral Spirits
 Fire Burst
-Fire Beam
+Scorching Ray
 Atlas Riftwalk
 Inca Boss Freezing Pulse
 Goddess Beam
@@ -24,15 +34,15 @@ Izaro Reave
 Elemental Weakness
 Vulnerability
 Temporal Chains
+WIP
 Summon Lightning Golem
 Face Last Target
 Icefire
 Doom Arrow
 Blade Trap
 Spirit Offering
-RepeatingShockwave
+Abberath's Fury
 Blade Flurry
-Charged Attack
 Commandment of Ire
 Decree of Ire
 Edict of Ire
@@ -153,10 +163,12 @@ Riposte
 Mirror Arrow
 Blink Arrow
 Kinetic Blast
+
 Commandment of Winter
 Decree of Winter
 Edict of Winter
 Word of Winter
+...
 Lightning Tendrils
 Poacher's Mark
 Herald of Thunder
@@ -175,9 +187,9 @@ Desecrate
 Flame Surge
 Summon Raging Spirit
 Wildfire
+Unnamed2
 Barrage
 Vaal Flameblast
-Flameblast
 Flameblast
 Vaal Storm Call
 Storm Call
@@ -198,13 +210,11 @@ Searing Bond
 Vaal Cyclone
 Cyclone
 Incinerate
-Incinerate
 Ball Lightning
 Conductivity
 Frostbite
 Flammability
 Flame Totem
-Arctic Armour
 Arctic Breath
 Ice Shot
 Ethereal Knives
@@ -257,18 +267,12 @@ Vaal Summon Skeletons
 Summon Skeletons
 Vaal Lightning Warp
 Lightning Warp
-Vulnerability
 Projectile Weakness
 Assassin's Mark
 Enfeeble
-Punishment
 Warlord's Mark
-Elemental Weakness
-Temporal Chains
 Explosive Arrow
-Phase Run
 Viper Strike
-Shock Nova
 Freezing Pulse
 Frost Wall
 Vaal Glacial Hammer
@@ -279,6 +283,7 @@ Ice Spear
 Vaal Spark
 Spark
 Default Attack
+Vaal Breach
 Portal
 Discharge
 Damage Infusion
@@ -298,7 +303,6 @@ Cold Snap
 Split Arrow
 Blood Rage
 Throw
-Flicker Strike
 Snipe
 Vaal Detonate Dead
 Detonate Dead
@@ -312,21 +316,17 @@ Immortal Call
 Elemental Hit
 Vaal Double Strike
 Double Strike
-Leap Slam
 Abyssal Cry
 Rallying Cry
 Enduring Cry
-Shield Charge
 Shield Charge
 Cleave
 Vaal Ground Slam
 Ground Slam
 Vaal Sweep
 Sweep
-Fire Beam
 Offering to the Goddess
 Skeletal Chains
-Elemental Projectiles
 Portal Shredder
 Black Rose of Anarchy
 Cogs of Disruption
@@ -503,6 +503,8 @@ Lantador's Lost Love
 The Hermit
 The Doctor
 Three Faces in the Dark
+Lightning Coil
+Arcane Flame
 Dark Firework
 Goddess Statue
 Kaom's Throne
@@ -660,6 +662,7 @@ Sacrificial Shrine
 Stall
 Rug
 Hut
+Post
 Hanging Brazier
 Low Fire Pit
 Grigor's Wall
@@ -702,6 +705,7 @@ Catacomb Pillar
 Crypt Pillar
 Large Church Wall Arch
 Church Wall Gate
+Large Pillar
 Golden Chest
 Copper Chest
 Decayed Statue
@@ -779,6 +783,7 @@ Grandmaster Hideout Banner
 Master Hideout Banner
 Journeyman Hideout Banner
 Apprentice Hideout Banner
+Rug
 Fireplace
 Railway
 Vaal Vessel
@@ -789,6 +794,7 @@ Golden Vessel
 Dark Vessel
 Impaled Corpse
 Hung Corpse
+Blown Leaves
 Fly Swarm
 Beach Flies
 Flies
@@ -828,6 +834,7 @@ Long Table
 Large Sofa Bed
 Floor
 Divider
+Chair
 Book Shelf
 Basin
 Banner
@@ -845,6 +852,7 @@ Cabinet
 Dressing Table
 Study Desk
 Shelf
+Dining Chair
 Lounge Chair
 Candelabrum
 Book Pile
@@ -899,6 +907,7 @@ Oriath Supply Crate
 Oriath Army Barrel
 Glowing Embers
 Prison Table
+Desk
 Bunk
 Brutus' Cradle
 Books
@@ -914,6 +923,7 @@ Decrepit Fence
 Old Giblets
 Fresh Giblets
 Waystone
+Lush Tree
 Prayer Stones
 Stick With Skull
 Forest Rock
@@ -939,6 +949,7 @@ Rhoa
 Pot Line
 Fish Stand
 Chopped Wood
+Cart
 Buckets
 Barrels
 Crypt Tomb
@@ -972,6 +983,11 @@ Sharpening Wheel
 Headstones
 Bowmaker's Tools
 Armourer's Workbench
+Chayula's Breachstone
+Uul-Netol's Breachstone
+Esh's Breachstone
+Tul's Breachstone
+Xoph's Breachstone
 Fragment of the Hydra
 Fragment of the Chimera
 Fragment of the Minotaur
@@ -1081,8 +1097,8 @@ Shaped Mud Geyser Map
 Mud Geyser Map
 Shaped Ashen Wood Map
 Ashen Wood Map
-Shaped Armory Map
-Armory Map
+Shaped Armoury Map
+Armoury Map
 Shaped Cells Map
 Cells Map
 Shaped Catacombs Map
@@ -1170,161 +1186,65 @@ Crystal Ore Map
 Shaped Arcade Map
 Arcade Map
 Maze Map
-Castle Ruin Map
+Atoll Map
 Prismatic Jewel
 Cobalt Jewel
 Viridian Jewel
 Crimson Jewel
+Cast while Channelling Support
 Trap Cooldown Support
 Minefield Support
 Elemental Focus Support
-Ancestral Warchief
-Ancestral Blademaster
-Ancestral Protector
-Vortex
-Frostbolt
-Sunder
 Cluster Traps Support
 Shadow Blades
 Rapid Decay Support
 Controlled Destruction Support
 Void Manipulation Support
 Essence Drain
-Blight
-Wither
-Contagion
-Earthquake
 Poison Support
-Righteous Lightning
-Summon Stone Golem
-Orb of Storms
-Frost Bomb
-Blade Vortex
+New Blade Vortex
 Static Tether
-Siege Ballista
-Bladefall
-Blast Rain
-Shrapnel Shot
-Wild Strike
 Ice Trap
 Trap and Mine Damage Support
-Magma Orb
 Innervate Support
 Hypothermia Support
 Ice Bite Support
 Fortify Support
-Vigilant Strike
-Frost Blades
 Flame Dash
 Detonate Mines
-Abyssal Cry
 Rallying Cry
-Ice Crash
 Blasphemy Support
-Summon Lightning Golem
-Summon Flame Golem
-Summon Ice Golem
-Summon Chaos Golem
 Physical to Lightning Support
 Touch of God
-Kinetic Blast
-Blink Arrow
-Mirror Arrow
 Lightning Channel
 Lightning Circle
-Lightning Tendrils
-Poacher's Mark
-Herald of Thunder
-Herald of Ice
-Herald of Ash
-Herald of Blood
 Generosity Support
-Vaal Lightning Trap
-Tornado Shot
-Fire Nova Mine
-Vaal Flameblast
 ...
-Vaal Righteous Fire
-Vaal Sweep
 Vaal FireTrap
 Vaal Haste
-Vaal Discipline
-Vaal Grace
-Vaal Clarity
-Molten Strike
-Vaal Reave
 Block Chance Reduction Support
-Vaal Storm Call
-Vaal Summon Skeletons
-Vaal Glacial Hammer
-Vaal Double Strike
-Vaal Heavy Strike
-Vaal Lightning Strike
-Vaal Spectral Throw
-Vaal Cold Snap
-Vaal Rain of Arrows
-Vaal Ground Slam
-Vaal Detonate Dead
 Wand Teleport
-Vaal Ice Nova
-Vaal Cyclone
-Vaal Power Siphon
-Vaal Immortal Call
-Vaal Lightning Warp
-Vaal Molten Shell
-Vaal Burning Arrow
-Vaal Spark
-Vaal Arc
-Vaal Fireball
-Convocation
-Glacial Cascade
-Spirit Offering
-Bone Offering
-Flesh Offering
-Desecrate
 Enlighten Support
-Flame Surge
-Summon Raging Spirit
 Physical Projectile Attack Damage Support
-Wildfire
 Vortex Mine
-Ball Lightning
-Barrage
-Flameblast
-Storm Call
-Purity of Lightning
-Purity of Ice
-Purity of Fire
 Enhance Support
-Animate Weapon
 Cast when Stunned Support
 Cast when Damage Taken Support
 Cast on Death Support
 Less Duration Support
 Slower Projectiles Support
-Spectral Throw
-Animate Guardian
 Endurance Charge on Melee Stun Support
-Smoke Mine
-Lightning Trap
 Empower Support
 Multiple Traps Support
 Cast on Melee Kill Support
 Cast On Critical Strike Support
-Reave
 Curse On Hit Support
 Minion and Totem Elemental Resistance Support
 Increased Burning Damage Support
-Searing Bond
 Power Charge On Critical Support
 Melee Splash Support
 Spell Echo Support
 Multistrike Support
-Cyclone
-Incinerate
-Conductivity
-Frostbite
-Flammability
 Return Projectiles Support
 Fork Support
 Split Projectiles Support
@@ -1334,18 +1254,8 @@ Cold Penetration Support
 Fire Penetration Support
 Ranged Attack Totem Support
 Blind Support
-Flame Totem
-Arctic Armour
-Ethereal Knives
-Devouring Totem
-Decoy Totem
-Fire Trap
 Chance to Flee Support
-Bear Trap
-Conversion Trap
-Freeze Mine
 Rejuvenation Totem
-Shockwave Totem
 Remote Mine Support
 Spell Totem Support
 Melee Damage on Full Life Support
@@ -1354,28 +1264,9 @@ Iron Grip Support
 Point Blank Support
 Culling Strike Support
 WIP Support
-Clarity
 Blood Magic Support
 Elemental Proliferation Support
-Burning Arrow
-Wrath
-Hatred
-Anger
-Determination
-Grace
-Discipline
-Vitality
-Purity of Elements
 Haste
-Arc
-Lightning Arrow
-Puncture
-Blade Trap
-Power Siphon
-Molten Shell
-Tempest Shield
-Lightning Strike
-Firestorm
 Life Gain on Hit Support
 Bloodlust Support
 Weapon Elemental Damage Support
@@ -1386,46 +1277,16 @@ Cold to Fire Support
 Increased Duration Support
 Minion Damage Support
 Concentrated Effect Support
-Rain of Arrows
-Dominating Blow
-Heavy Strike
 Reckoning
-Vengeance
-Riposte
-Summon Skeletons
-Lightning Warp
-Vulnerability
-Projectile Weakness
-Assassin's Mark
-Enfeeble
 NewPunishment
-Punishment
-Warlord's Mark
-Elemental Weakness
-Temporal Chains
-Explosive Arrow
 Faster Casting Support
 Item Rarity Support
 Item Quantity Support
 Melee Physical Damage Support
-Phase Run
-Viper Strike
-Energy Beam
 New Shock Nova
-Shock Nova
-Freezing Pulse
-Frost Wall
-Glacial Hammer
-Infernal Blow
-Raise Spectre
 Trap Support
 Pierce Support
-Ice Spear
 Stun Support
-Spark
-Flicker Strike
-Backstab
-Riptide
 Added Chaos Damage Support
 Mana Leech Support
 Life Leech Support
@@ -1433,14 +1294,7 @@ Knockback Support
 Increased Critical Damage Support
 Increased Critical Strikes Support
 Reduced Mana Support
-Portal
-Discharge
-Fire Weapon
-Righteous Fire
-Ignite
 Icefire
-Blood Rage
-Damage Infusion
 Added Lightning Damage Support
 Increased Area of Effect Support
 Additional Accuracy Support
@@ -1450,31 +1304,7 @@ Lesser Multiple Projectiles Support
 Greater Multiple Projectiles Support
 Faster Attacks Support
 Added Fire Damage Support
-Split Arrow
-Static Strike
-Ice Shot
-Arctic Breath
-Caustic Arrow
-Snipe
-Detonate Dead
-Raise Zombie
-Cold Snap
-Frenzy
-Whirling Blades
-Dual Strike
-Immortal Call
-Elemental Hit
-Lacerate
-Double Strike
-Enduring Cry
-Shield Charge
-Cleave
-Ground Slam
-Sweep
 Blade Flurry
-Leap Slam
-Ice Nova
-Fireball
 Treasure Key
 Silver Key
 Golden Key
@@ -2003,6 +1833,7 @@ Jade Amulet
 Amber Amulet
 Coral Amulet
 Paua Amulet
+Breach Ring
 Opal Ring
 Steel Ring
 Jet Ring
@@ -2331,6 +2162,9 @@ Driftwood Wand
 Keyblade
 Mystery Box
 Skin Transfer
+Lightning Swarm Pet
+Royal Purple Frog Pet
+Floating Book
 Grasping Hands Pet
 Inua Totems Pet
 Rabbit Pet
@@ -2427,13 +2261,51 @@ Infernal Basilisk Pet
 Green Basilisk Pet
 Golden Radiance
 Golden Path
+Stash Tab
 Grandmaster Export
+Breach Footprints Effect
+Breachlord Portal Effect
+Deicide Wings
+Deicide Boots
+Deicide Gloves
+Deicide Body
+Battery Back Attachment
+Stormcaller Body Armour
+Stormcaller Gloves
+Stormcaller Boots
+Stormcaller Helmet
+Arcane Effect
+Ghostflame Effect
+Arctic Effect
+Infernal Effect
+Stormcaller Effect
+Ghostflame Backpack
+Arcane Tome Totem Skin
+Breach Portal Effect
+Breachlord Portrait Frame
+Breachspawn Portrait Frame
+Breachlord Cloak
+Breachspawn Cloak
+Hive Backpack
+Dun Shield
+Blackguard Cape
+Breach Weapon Effect
+Ebony Tornado Shot
+Demonic Wings
+WuQi Axe
+Bat Swarm Effect
+Demon Hand Gloves
+Purple Mark of the Phoenix
+Blood Raven Raging Spirit Effect
+Dragon Wings
+Celestial Footprints
 Trinity Purity of Elements Effect
 Carnage Vitality Effect
 Imp Haste Effect
 Dragon Totem Skin
 Black Hole Vortex Effect
 Black Hole Frostbolt Effect
+Thrasher Claws Gloves
 Rift Worm Shock Nova Effect
 Gore Portal Effect
 Carnage Wings
@@ -2521,6 +2393,7 @@ Garuda Dagger
 Kacha Axe
 Naga Helmet
 Steam-powered Weapon
+Infernal Axe
 Ebony Blast Rain Effect
 Gore Lightning Arrow Effect
 Frostflower Ice Trap Effect
@@ -2888,7 +2761,19 @@ Dance - Shadow
 Dance - Ranger
 Dance - Marauder
 Dance - Duelist
+Revive Coin
+Premium Message
 Passive Skill Refund
+Blessing of Chayula
+Blessing of Uul-Netol
+Blessing of Esh
+Blessing of Tul
+Blessing of Xoph
+Splinter of Chayula
+Splinter of Uul-Netol
+Splinter of Esh
+Splinter of Tul
+Splinter of Xoph
 Unshaping Orb
 Master Cartographer's Seal
 Journeyman Cartographer's Seal
@@ -3036,6 +2921,594 @@ Armourer's Scrap
 Chaos Orb
 Scroll of Wisdom
 Blacksmith's Whetstone
+ruckus
+beat
+whisper
+flight
+wing
+wraith
+wither
+wight
+widow
+whipper
+whip
+watcher
+watch
+ward
+walker
+wail
+visage
+viper
+twine
+tusks
+tusk
+tooth
+tongue
+thirst
+teeth
+talons
+talon
+surge
+sunder
+sucker
+strider
+stride
+strangle
+stink
+sting
+stench
+stalker
+spume
+spray
+spool
+splinters
+splinter
+splash
+spine
+specter
+soul
+soak
+snarl
+smith
+smasher
+smash
+sliver
+slither
+slip
+slink
+slicer
+slice
+slasher
+slash
+skull
+shuffle
+shrieker
+shriek
+shiver
+shell
+shards
+shard
+shamble
+sentry
+sentinel
+seethe
+scuttle
+screech
+scream
+scrape
+scrabbler
+scar
+scalp
+scales
+scale
+rumble
+rot
+rope
+roar
+ripper
+ribs
+ribbon
+render
+razor
+rattles
+rattle
+raker
+rake
+quill
+prowler
+prowl
+pinch
+pincers
+phantom
+pelt
+needles
+needle
+muzzle
+moil
+moan
+maw
+mauler
+maul
+lurch
+lord
+limp
+laugh
+lasher
+lash
+knock
+knife
+killer
+kill
+jowls
+joint
+jaws
+jaw
+howl
+hiss
+hackles
+guardian
+guard
+growl
+grip
+grin
+grinder
+grind
+gnaw
+gnash
+gasp
+fur
+froth
+frenzy
+frag
+flutter
+flayer
+flay
+fists
+fist
+fangs
+fang
+face
+eyes
+eye
+dweller
+drown
+drool
+drifter
+drench
+darter
+dart
+crusher
+crush
+crest
+creak
+crawl
+click
+claws
+claw
+clatter
+clack
+churn
+choke
+chewer
+chew
+champion
+cackle
+brute
+brow
+bringer
+breaker
+break
+bore
+bones
+bone
+boiler
+boil
+blade
+biter
+bite
+bellow
+barbs
+barb
+band
+back
+adder
+ Flame
+ Curio
+ Ornament
+ Pause
+ Breath
+ Bloom
+ Lens
+ Ember
+ Shine
+ Glisten
+ Glimmer
+ Cut
+ Joy
+ Vessel
+ Splinter
+ Sliver
+ Lagniappe
+ Ichor
+ Dew
+ Essence
+ Drop
+ Scar
+ Blood
+ Wound
+ Creed
+ Desire
+ Wisdom
+ Solace
+ Delirium
+ Bliss
+ Dream
+ Hope
+ Prism
+ Safe
+ Bond
+ Clamp
+ Clasp
+ Lock
+ Seal
+ Bargain
+ Spoils
+ Bank
+ Treasury
+ Locker
+ Cube
+ Hoard
+ Cache
+ Trunk
+ Casket
+ Coffer
+ Booty
+ Loot
+ Quarry
+ Cask
+ Casque
+ Case
+ Prize
+ Crate
+ Trap
+ Spring
+ Chest
+ Box
+ Contraption
+ Device
+ Vault
+ Jig
+ Gill
+ Chum
+ Sinker
+ Angler
+ Breach
+ Fish
+ Bait
+ Lure
+ Tackle
+ Line
+ Cast
+ Wreck
+ Wrap
+ Wing
+ Wind
+ Wish
+ Whorl
+ Weaver
+ Watch
+ Ward
+ Volley
+ Visor
+ Vise
+ Visage
+ Veil
+ Urge
+ Twirl
+ Twine
+ Turn
+ Tread
+ Trail
+ Track
+ Tower
+ Touch
+ Torc
+ Thunder
+ Thresher
+ Thread
+ Thirst
+ Tether
+ Talons
+ Talisman
+ Sunder
+ Suit
+ Strike
+ Stride
+ Strap
+ Stinger
+ Star
+ Spur
+ Splitter
+ Spire
+ Spiral
+ Spiker
+ Spike
+ Spell
+ Spear
+ Spawn
+ Spark
+ Span
+ Song
+ Sole
+ Snare
+ Smasher
+ Slippers
+ Slicer
+ Slayer
+ Skin
+ Skewer
+ Siege
+ Shroud
+ Shot
+ Shelter
+ Shell
+ Shatter
+ Shackle
+ Sever
+ Scratch
+ Scarab
+ Scalpel
+ Saw
+ Sanctuary
+ Salvation
+ Ruin
+ Rosary
+ Rook
+ Rod
+ Rock
+ Roar
+ Road
+ Rend
+ Reach
+ Razor
+ Ram
+ Rain
+ Quill
+ Post
+ Pole
+ Pith
+ Pillar
+ Pile
+ Pendant
+ Pelt
+ Peak
+ Paw
+ Palm
+ Pace
+ Noose
+ Nock
+ Needle
+ Nails
+ Nail
+ Mitts
+ Medallion
+ Mast
+ Mark
+ March
+ Mantle
+ Mangler
+ Loop
+ Locket
+ Lock
+ Leash
+ League
+ Lash
+ Knuckle
+ Knot
+ Knell
+ Jack
+ Impaler
+ Idol
+ Hunger
+ Horn
+ Hoof
+ Hold
+ Hide
+ Heart
+ Harness
+ Hand
+ Halo
+ Hail
+ Gyre
+ Gutter
+ Guide
+ Guardian
+ Guard
+ Grip
+ Grinder
+ Grasp
+ Gorget
+ Goad
+ Gnash
+ Gnarl
+ Glance
+ Girdle
+ Flight
+ Fletch
+ Fist
+ Fingers
+ Finger
+ Fend
+ Fang
+ Eye
+ Etcher
+ Emblem
+ Duty
+ Dome
+ Dash
+ Dart
+ Curtain
+ Cry
+ Crusher
+ Crown
+ Crack
+ Cowl
+ Corona
+ Cord
+ Collar
+ Coil
+ Coat
+ Clutches
+ Cloak
+ Claw
+ Clasp
+ Circle
+ Choker
+ Charm
+ Chant
+ Caress
+ Carapace
+ Call
+ Butcher
+ Burst
+ Bulwark
+ Buckle
+ Brow
+ Breeze
+ Breaker
+ Brand
+ Branch
+ Braid
+ Bond
+ Bolt
+ Blunt
+ Blow
+ Blast
+ Bite
+ Beam
+ Beak
+ Beads
+ Batter
+ Bastion
+ Barrier
+ Barrage
+ Barb
+ Bane
+ Band
+ Badge
+ Arrow
+ Arch
+ Anthem
+ Aegis
+ Dwelling
+ Precinct
+ Zone
+ Sector
+ Roost
+ Quarters
+ Abode
+ Ziggurat
+ Waste
+ Vine
+ View
+ Trap
+ Spires
+ Solitude
+ Slag
+ Shard
+ Shadows
+ Sepulcher
+ Secrets
+ Scum
+ Sanctum
+ Rupture
+ Remnant
+ Remains
+ Refuse
+ Refuge
+ Reaches
+ Point
+ Pit
+ Panorama
+ Oubliette
+ Nexus
+ Keep
+ Haven
+ Frontier
+ Edge
+ Dregs
+ Depths
+ Crest
+ Cramp
+ Crag
+ Cradle
+ Court
+ Core
+ Coffers
+ Chambers
+ Cage
+ Bind
+ Apex
+ Abyss
+Presence of Chayula
+Wilefang's Pelt
+Arakaali's Fang
+Perseverance
+Duskdawn
+Kitava's Feast
+Light of Lunaris
+Sin's Rebirth
+The Brine Crown
+Div Card Strongbox Temp
+Shade of Solaris
+Ahn's Heritage
+The Baron
+Bleed Gloves Temp
+Angler's Plait
+ES Overheal Temp
+Tukohama's Fortress
+The Blue Nightmare
+The Blue Dream
+The Green Nightmare
+The Green Dream
+The Red Nightmare
+The Red Dream
+Skin of the Lords
+Skin of the Loyal
+United in Dream
+Severed in Sleep
+The Surrender
+The Anticipation
+Uul-Netol's Embrace
+Uul-Netol's Kiss
+The Red Trail
+The Infinite Pursuit
+Choir of the Storm
+Voice of the Storm
+Esh's Visage
+Esh's Mirror
+Hand of Wisdom and Action
+Hand of Thought and Motion
+The Pandemonius
+The Halcyon
+The Perfect Form
+The Snowblind Grace
+Tulfall
+Tulborn
+Xoph's Blood
+Xoph's Heart
+The Formless Inferno
+The Formless Flame
+Xoph's Inception
+Xoph's Nurture
+ShockKillTemp
+Bisco's Locket
+Spirit Harness
+The Anima Stone
+Primordial Eminence
+Primordial Might
+Primordial Harmony
+Breach Box
 Hallowed Ground
 Atziri's Vessel
 The Putrid Cloister
@@ -3096,7 +3569,6 @@ Wall of Brambles
 Karui Charge
 Malachai's Vision
 Voll's Vision
-Primordial Shaping
 Lycosidae
 Ewar's Mirage
 Hiltless
@@ -3136,7 +3608,7 @@ Rive
 The Overflowing Chalice
 Zerphi's Last Breath
 The Beast Fur Shawl
-Earthshakers
+Abberath's Hooves
 Viper's Scales
 Varunastra
 Axiom Perpetuum
@@ -3828,10 +4300,6 @@ Day of Sacrifice II
 Day of Sacrifice I
 Undead Uprising
 Mysterious Invaders
-Mysterious Invaders
-Mysterious Invaders
-Mysterious Invaders
-Mysterious Invaders
 An Unseen Peril
 Twice Enchanted
 Anarchy's End IV
@@ -3949,12 +4417,6 @@ The Four Feral Exiles
 The Undead Brutes
 Hidden Vaal Pathways
 A Master Seeks Help
-A Master Seeks Help
-A Master Seeks Help
-A Master Seeks Help
-A Master Seeks Help
-A Master Seeks Help
-A Master Seeks Help
 Echoes of Lost Love
 Echoes of Mutation
 The God of Misfortune
@@ -3978,6 +4440,3 @@ The Queen's Vaults
 Delay and Crash Test
 Delay Test
 Crash Test
-Blade Flurry
-Scorching Ray
-Blight
